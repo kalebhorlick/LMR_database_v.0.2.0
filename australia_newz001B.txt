@@ -1,0 +1,233 @@
+# australia_newz001 - Paparoa - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: australia_newz001 - Paparoa - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Paparoa
+#	Location:
+#	Country: New Zealand
+#	Northernmost_Latitude: -36.12
+#	Southernmost_Latitude: -36.12
+#	Easternmost_Longitude: 174.25
+#	Westernmost_Longitude: 174.25
+#	Elevation: 160 m
+#--------------------
+# Data_Collection
+#	Collection_Name: australia_newz001B
+#	Earliest_Year: 1834
+#	Most_Recent_Year: 1975
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}{"VSLite_parameters":{"T1":"4.47222355885","T2":"12.6861470977","M1":"0.022494842008","M2":"0.617077194951"}}
+#--------------------
+# Species
+#	Species_Name: tanekaha celery top pine
+#	Species_Code: PHTR
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1834	0.478
+1835	0.464
+1836	0.753
+1837	0.913
+1838	1.007
+1839	0.726
+1840	0.731
+1841	0.931
+1842	0.85
+1843	1.088
+1844	0.752
+1845	0.8
+1846	0.604
+1847	0.821
+1848	1.028
+1849	0.973
+1850	0.935
+1851	1.235
+1852	1.158
+1853	0.968
+1854	0.935
+1855	0.731
+1856	1.059
+1857	0.912
+1858	0.981
+1859	0.7
+1860	0.954
+1861	0.906
+1862	0.734
+1863	0.832
+1864	0.868
+1865	0.949
+1866	0.909
+1867	1.009
+1868	1.003
+1869	0.819
+1870	0.982
+1871	0.734
+1872	0.679
+1873	0.715
+1874	0.862
+1875	0.649
+1876	0.808
+1877	0.885
+1878	0.721
+1879	0.764
+1880	0.748
+1881	1.245
+1882	0.726
+1883	1.06
+1884	1.107
+1885	1.073
+1886	0.81
+1887	0.94
+1888	1.325
+1889	1.086
+1890	1.157
+1891	1.411
+1892	1.407
+1893	1.222
+1894	1.252
+1895	1.003
+1896	0.926
+1897	0.952
+1898	1.292
+1899	0.755
+1900	1.377
+1901	1.626
+1902	1.439
+1903	1.169
+1904	1.306
+1905	1.537
+1906	1.365
+1907	0.563
+1908	0.794
+1909	0.967
+1910	1.129
+1911	1.287
+1912	1.159
+1913	1.139
+1914	0.432
+1915	1.207
+1916	1.131
+1917	1.345
+1918	1.355
+1919	1.103
+1920	1.039
+1921	1.036
+1922	1.188
+1923	1.086
+1924	1.031
+1925	1.153
+1926	1.511
+1927	0.843
+1928	1.016
+1929	1.254
+1930	1.339
+1931	0.699
+1932	0.61
+1933	0.975
+1934	1.115
+1935	1.481
+1936	1.369
+1937	1.248
+1938	0.649
+1939	0.837
+1940	1.15
+1941	1.097
+1942	0.558
+1943	1.377
+1944	1.038
+1945	0.879
+1946	0.684
+1947	0.689
+1948	0.899
+1949	0.703
+1950	1.224
+1951	1.166
+1952	1.287
+1953	0.773
+1954	0.808
+1955	0.687
+1956	0.764
+1957	1.124
+1958	1.063
+1959	0.833
+1960	1.073
+1961	0.827
+1962	1.074
+1963	0.892
+1964	1.295
+1965	1.051
+1966	0.956
+1967	0.714
+1968	0.94
+1969	0.698
+1970	0.745
+1971	0.371
+1972	0.815
+1973	0.691
+1974	0.453
+1975	0.223

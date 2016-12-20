@@ -1,0 +1,173 @@
+# PAGES2kv2_O2kLR-GreatBarrier_Hendy_2002LMR541 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-GreatBarrier_Hendy_2002LMR541 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Hendy, E. J.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Hendy, E. J.
+#	Published_Date_or_Year: 
+#	Published_Title: Abrupt Decrease in Tropical Pacific Sea Surface Salinity at End of Little Ice Age
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1126/science.1067693
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Great Barrier Reef
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -18.315
+#	Southernmost_Latitude: -18.315
+#	Easternmost_Longitude: 146.595
+#	Westernmost_Longitude: 146.595
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-GreatBarrier_Hendy_2002LMR541
+#	Earliest_Year: 1568
+#	Most_Recent_Year: 1983
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Sr/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature anomaly (mean-subtracted only), , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1983	26.35
+1978	26.38
+1973	26.13
+1968	25.94
+1963	26.06
+1958	26.05
+1953	26.18
+1948	26.13
+1943	25.95
+1938	25.82
+1933	25.74
+1928	25.86
+1923	25.73
+1918	25.72
+1913	25.69
+1908	25.8
+1903	25.78
+1898	26.0
+1893	26.13
+1888	25.87
+1883	25.73
+1878	26.32
+1873	26.16
+1868	26.05
+1863	26.42
+1858	26.04
+1853	25.98
+1848	25.78
+1843	26.27
+1838	26.03
+1833	26.44
+1828	26.52
+1823	26.25
+1818	25.6
+1813	26.17
+1808	26.25
+1803	26.23
+1798	25.81
+1793	25.97
+1788	26.37
+1783	26.51
+1778	26.21
+1773	26.51
+1768	26.44
+1763	26.11
+1758	26.39
+1753	26.29
+1748	26.37
+1743	26.29
+1738	26.37
+1733	26.03
+1728	26.57
+1723	26.43
+1718	26.64
+1713	25.92
+1708	26.28
+1703	25.95
+1698	25.98
+1693	26.1
+1688	26.12
+1683	25.71
+1678	26.0
+1673	25.48
+1668	26.42
+1663	25.63
+1658	25.71
+1653	25.87
+1648	25.75
+1643	25.63
+1638	25.92
+1633	25.84
+1628	26.26
+1623	26.09
+1618	25.51
+1608	26.51
+1598	26.07
+1593	24.66
+1588	25.67
+1583	25.84
+1578	26.24
+1573	25.68
+1568	26.02

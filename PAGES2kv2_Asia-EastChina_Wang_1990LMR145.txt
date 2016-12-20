@@ -1,0 +1,142 @@
+# PAGES2kv2_Asia-EastChina_Wang_1990LMR145 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Documents
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-EastChina_Wang_1990LMR145 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Wang S.,Wang R.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Wang S.,Wang R.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: East China
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 50.5
+#	Southernmost_Latitude: 50.5
+#	Easternmost_Longitude: 49.0714
+#	Westernmost_Longitude: 49.0714
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-EastChina_Wang_1990LMR145
+#	Earliest_Year: 1470
+#	Most_Recent_Year: 1970
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Winter cold index, winter temperature, , , , "[-12, 1, 2]", Documents, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1470	0.435704538686
+1480	1.43507357942
+1490	0.0111047978781
+1500	-1.59416808228
+1510	-1.7357119758
+1520	0.927484826551
+1530	1.16845677648
+1540	1.44148762584
+1550	0.518882872419
+1560	-0.67513159771
+1570	0.465742237262
+1580	1.11133910215
+1590	0.129582101544
+1600	0.156081932789
+1610	1.04047684489
+1620	0.67781907997
+1630	-0.427750282876
+1640	-0.197832867249
+1650	-2.07285771168
+1660	-0.0298673410426
+1670	-0.28638811138
+1680	-1.02934486419
+1690	-0.861336388039
+1700	0.889796801839
+1710	-0.640302911418
+1720	0.306003137847
+1730	1.1373301039
+1740	-0.0832216408693
+1750	1.22569921902
+1760	-0.437063753261
+1770	1.09295886972
+1780	0.376536091395
+1790	-0.410642116214
+1800	0.111133579735
+1810	-0.127698609263
+1820	0.677096587249
+1830	0.128714229172
+1840	-2.02932791668
+1850	-0.764628504331
+1860	-1.01230278051
+1870	-2.01174726725
+1880	0.022402120135
+1890	-1.4015661109
+1900	0.614897999657
+1910	-0.411079359091
+1920	1.34005052627
+1930	1.2781063498
+1940	1.40189117638
+1950	1.03039682937
+1960	0.67658555861
+1970	1.12760803022

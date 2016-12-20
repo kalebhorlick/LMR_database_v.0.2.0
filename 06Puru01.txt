@@ -1,0 +1,185 @@
+﻿# Puruogangri Ice Core Oxygen Isotope Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2015
+# --------------------
+# Title 
+#	Study_Name: Puruogangri Ice Core Oxygen Isotope Data
+#
+# --------------------
+# Investigators
+#	Investigators:  Thompson, L.G.; Tandong, Y.; Davis, M.E.; Mosley-Thompson, E.; Mashiotta, T.A.; Lin, P.-N.; Mikhelenko, V.N.; Zagorodnov, V.S. 
+# --------------------
+# Description_and_Notes
+#	Description: 
+#
+# --------------------
+# Publication
+#	Authors: L.G Thompson, Y. Tandong, M. E. Davis, E. Mosley-Thomspon, T. A. Mashiotta, P.-N. Lin, V. N. Mikhelenko, V. S. Zagorodnov
+#	Published_Date_or_Year: 2006
+#	Published_Title:  Holocene climate variability archived in the Puruogangri ice cap on the central Tibetan Plateau
+#	Journal_Name: Annals of Glaciology
+#	Volume: 43
+#	Edition: 	
+#	Issue: 
+#	Pages: 61-69
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Two ice cores (118.4 and 214.7 m in length) were collected in 2000 from the Puruogangri ice cap in the center of the Tibetan Plateau (TP) in a joint US–Chinese collaborative project. These cores yield paleoclimatic and environmental records extending through the Middle Holocene, and complement previous ice-core histories from the Dunde and Guliya ice caps in northeast and northwest Tibet, respectively, and Dasuopu glacier in the Himalaya. The high-resolution Puruogangri climate record since AD 1600 details regional temperature and moisture variability. The post-1920 period is characterized by above-average annual net balance, contemporaneous with the greatest 18O enrichment of the last 400 years, consistent with the isotopically inferred warming observed in other TP ice-core records. On longer timescales the aerosol history reveals large and abrupt events, one of which is dated 4.7 kyr BP and occurs close to the time of a drought that extended throughout the tropics and may have been associated with centuries-long weakening of the Asian/Indian/African monsoon system. The Puruogangri climate history, combined with the other TP ice-core records, has the potential to provide valuable information on variations in the strength of the monsoon across the TP during the Holocene.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Puruogangri
+#	Location: Asia>Eastern Asia>China
+#	Country:  Tibet
+#	Northernmost_Latitude: 33.92
+#	Southernmost_Latitude: 33.92	 
+#	Easternmost_Longitude: 89.08
+#	Westernmost_Longitude: 89.08
+#	Elevation: 6070 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 06Puru01
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 1999
+#	Time_Unit: y_ad
+#	Notes: {"database":"LMR"} 
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	d18O
+1999	-13.37
+1998	-16.045
+1997	-13.6709
+1996	-14.9557
+1995	-13.16
+1994	-14.92
+1993	-16.8933
+1992	-16.332
+1991	-17.386
+1990	-15.154
+1989	-13.609
+1988	-13.6871
+1987	-12.8308
+1986	-13.5715
+1985	-13.7518
+1984	-14.545
+1983	-14.0483
+1982	-14.2586
+1981	-14.7336
+1980	-13.0529
+1979	-14.8557
+1978	-16.5862
+1977	-16.3522
+1976	-15.0285
+1975	-14.9147
+1974	-15.5877
+1973	-14.8567
+1972	-15.8956
+1971	-14.3825
+1970	-13.7456
+1969	-13.3143
+1968	-15.43
+1967	-14.187
+1966	-13.2206
+1965	-13.8193
+1964	-15.4829
+1963	-15.6567
+1962	-13.9533
+1961	-14.4964
+1960	-16.8813
+1959	-17.475
+1958	-14.9245
+1957	-12.5753
+1956	-12.5244
+1955	-14.596
+1954	-12.6055
+1953	-13.1271
+1952	-13.2953
+1951	-14.164
+1950	-14.2287
+1949	-15.415
+1948	-14.4463
+1947	-15.4425
+1946	-14.115
+1945	-14.1983
+1944	-14.8236
+1943	-15.65
+1942	-13.0979
+1941	-15.025
+1940	-17.3792
+1939	-18.5575
+1938	-15.0235
+1937	-14.1686
+1936	-13.7325
+1935	-12.7033
+1934	-13.3844
+1933	-13.8875
+1932	-14.0275
+1931	-15.3154
+1930	-16.9129
+1929	-13.5029
+1928	-13.949
+1927	-13.0825
+1926	-14.7529
+1925	-14.5692
+1924	-14.1063
+1923	-12.6094
+1922	-13.515
+1921	-12.9236
+1920	-13.9083
+1919	-14.629
+1918	-13.644
+1917	-14.3725
+1916	-14.8544
+1915	-14.1671
+1914	-16.4775
+1913	-20.3967
+1912	-19.088
+1911	-15.876
+1910	-13.452
+1909	-15.3986
+1908	-16.4118
+1907	-16.899
+1906	-16.71
+1905	-16.575
+1904	-16.73
+1903	-16.556
+1902	-16.6413
+1901	-16.1522
+1900	-17.7986

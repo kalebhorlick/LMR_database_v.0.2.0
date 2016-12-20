@@ -1,0 +1,159 @@
+# PAGES2kv2_NAm-Conroy_LLMR358 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_NAm-Conroy_LLMR358 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: 
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: 
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: Gajewski 1988
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: 
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 46.3
+#	Southernmost_Latitude: 46.3
+#	Easternmost_Longitude: -67.9
+#	Westernmost_Longitude: -67.9
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_NAm-Conroy_LLMR358
+#	Earliest_Year: 10
+#	Most_Recent_Year: 1967
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Mean temperature of the coldest month, , , degrees C, "[7]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1967	17.1
+1959	17.7
+1951	17.2
+1943	17.6
+1935	17.3
+1927	17.1
+1919	17.7
+1911	17.6
+1904	16.8
+1896	17.2
+1888	17.3
+1880	17.4
+1872	17.3
+1864	16.6
+1856	16.9
+1848	16.9
+1840	17.1
+1832	17.5
+1824	16.7
+1816	17.3
+1808	17.5
+1786	17.0
+1765	17.0
+1725	17.9
+1664	18.2
+1614	17.5
+1568	18.1
+1526	18.0
+1488	18.1
+1453	18.2
+1421	18.3
+1390	18.2
+1360	18.3
+1331	18.6
+1307	19.0
+1282	18.8
+1256	18.7
+1229	18.5
+1200	18.2
+1167	18.6
+1134	18.6
+1098	19.4
+1061	18.5
+1023	19.2
+986	19.0
+947	18.3
+906	18.9
+864	18.1
+820	18.6
+779	19.2
+741	18.0
+702	18.5
+667	18.8
+634	18.8
+601	19.1
+567	18.6
+531	18.8
+493	18.8
+449	19.2
+400	18.1
+349	18.7
+298	18.4
+246	18.1
+196	17.7
+146	19.1
+100	18.5
+54	19.2
+10	18.7

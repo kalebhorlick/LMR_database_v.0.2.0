@@ -1,0 +1,191 @@
+# PAGES2kv2_O2kLR-PigmyBasinG_Richey_2009LMR562 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-PigmyBasinG_Richey_2009LMR562 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Pigmy Basin, Gulf of Mexico box core PBBC-1
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 27.2
+#	Southernmost_Latitude: 27.2
+#	Easternmost_Longitude: -91.42
+#	Westernmost_Longitude: -91.42
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-PigmyBasinG_Richey_2009LMR562
+#	Earliest_Year: 494.706
+#	Most_Recent_Year: 1950
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1900.67	24.25
+1888.34	24.28
+1876.0	23.95
+1863.67	23.38
+1851.34	23.82
+1839.0	24.0
+1826.67	23.94
+1814.34	23.91
+1802.0	23.08
+1789.67	23.44
+1777.34	23.65
+1765.01	23.66
+1752.67	24.35
+1740.34	22.81
+1728.01	23.66
+1715.67	23.85
+1703.34	22.2
+1691.01	22.92
+1678.67	23.02
+1654.01	23.68
+1641.68	23.39
+1629.34	22.4
+1604.68	24.3
+1592.34	23.36
+1580.01	23.71
+1567.68	24.66
+1555.34	23.7
+1543.01	24.34
+1530.68	23.53
+1518.35	23.55
+1506.01	23.55
+1493.68	22.71
+1481.35	24.11
+1469.01	25.19
+1456.68	24.08
+1444.35	24.86
+1407.35	23.05
+1382.68	24.57
+1370.35	23.95
+1358.02	24.51
+1345.68	24.35
+1333.35	24.05
+1321.02	24.42
+1308.68	23.72
+1296.35	23.82
+1284.02	23.29
+1271.69	23.22
+1259.35	23.34
+1247.02	23.96
+1222.35	23.91
+1210.02	23.96
+1197.69	24.62
+1185.35	23.8
+1173.02	23.21
+1160.69	23.89
+1148.36	24.11
+1136.02	24.39
+1123.69	25.0
+1111.36	23.22
+1099.02	23.91
+1086.69	22.6
+1074.36	23.67
+1062.02	22.74
+1049.69	24.47
+1037.36	24.82
+1025.03	24.45
+1012.69	22.43
+1000.36	24.41
+988.03	26.73
+975.69	25.01
+963.36	24.81
+951.03	26.6
+938.69	24.18
+926.36	24.24
+914.03	26.11
+901.7	26.92
+889.36	26.05
+877.03	25.82
+864.7	25.22
+852.36	24.59
+840.03	24.03
+827.7	24.1
+815.36	24.41
+790.7	24.84
+778.37	24.76
+766.03	24.79
+753.7	26.43
+741.37	25.93
+729.03	23.85
+716.7	24.04
+704.37	25.79
+692.03	25.81
+679.7	26.11
+667.37	26.53
+655.04	25.9
+642.7	26.4
+630.37	26.34
+618.04	26.3
+605.7	25.78
+593.37	26.44

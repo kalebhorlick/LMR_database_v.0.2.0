@@ -1,0 +1,180 @@
+# GITS Ice Core d18O annual averages
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2014
+# --------------------
+# Title 
+#	Study_Name: GITS Ice Core d18O annual averages
+# --------------------
+# Investigators
+#	Investigators: Mosley-Thompson, E.; Thompson, L.G.; Lin, P.N 
+# --------------------
+# Description_and_Notes
+#	Description: 
+#
+# --------------------
+# Publication
+#	Authors: Ellen Mosley-Thompson, Lonnie G. Thompson, Ping-Nan Lin
+#	Published_Date_or_Year: 2006
+#	Published_Title:  A multicentury ice-core perspective on 20th-century climate change with new contributions from high-Arctic and Greenland (PARCA) cores
+#	Journal_Name: Annals of Glaciology
+#	Volume: 43
+#	Edition: 	
+#	Issue: 1
+#	Pages: 42-48
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: A global collection of high temporally resolved ice-core-derived d18O records is examined to assess whether the proxy records are consistent with contemporaneous observed temperature variations in their respective regions. This is prerequisite to using the older parts of the proxy (d18O) records to assess whether 20th-century temperatures remain within the range of longer-term natural variability. Excluding the high plateaus in East and West Antarctica where 20th-century temperatures show modest cooling, the ice-core records from other regions suggest modest to strong 20th-century warming. The recent warming over Greenland has been modest and spatially variable. The 20th-century warming over both the Barents Sea region and the Tibetan Plateau now falls well outside the range of prior longer-term temperature variability. Similarly, over the South American Andes and the Antarctic Peninsula the recent warming exceeds the long-term mean for the last 1000 and 500 years, respectively. The ice fields in these regions are in danger of being compromised or lost if the present warming trend in these regions persists.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: GITS
+#	Location: North America>Greenland
+#	Country:  
+#	Northernmost_Latitude: 77.41
+#	Southernmost_Latitude: 77.41	 
+#	Easternmost_Longitude: -61.09
+#	Westernmost_Longitude: -61.09
+#	Elevation: 1910 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 06GITS01
+#	Earliest_Year: 1900 
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
+#	Notes: {"database":"LMR"} 
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	d18O
+1995	-28.45
+1994	-26.87
+1993	-28.49
+1992	-29.05
+1991	-29.01
+1990	-28.46
+1989	-26.75
+1988	-27.49
+1987	-29.38
+1986	-29.68
+1985	-29.5
+1984	-29.89
+1983	-29.53
+1982	-29.39
+1981	-30.07
+1980	-30.38
+1979	-30.3
+1978	-29.66
+1977	-30.37
+1976	-29.31
+1975	-29.21
+1974	-30.16
+1973	-29.32
+1972	-31.53
+1971	-29.92
+1970	-28.84
+1969	-27.92
+1968	-29.31
+1967	-27.13
+1966	-28.48
+1965	-29.41
+1964	-30.94
+1963	-30.54
+1962	-28.91
+1961	-29.5
+1960	-28.7
+1959	-27.52
+1958	-30.02
+1957	-29.99
+1956	-28.79
+1955	-28.68
+1954	-29.65
+1953	-30.66
+1952	-29.06
+1951	-28.41
+1950	-29.56
+1949	-28.74
+1948	-30.07
+1947	-29.34
+1946	-28.74
+1945	-28
+1944	-28.63
+1943	-28.57
+1942	-28.06
+1941	-29.72
+1940	-28.79
+1939	-28.73
+1938	-26.95
+1937	-30.1
+1936	-28.69
+1935	-28.63
+1934	-29.19
+1933	-30.22
+1932	-27.92
+1931	-28.36
+1930	-28.06
+1929	-29.52
+1928	-26.96
+1927	-26.19
+1926	-24.47
+1925	-27.37
+1924	-28.66
+1923	-29.33
+1922	-32.75
+1921	-28.6
+1920	-30.59
+1919	-31.22
+1918	-31.78
+1917	-29.73
+1916	-29.78
+1915	-30.63
+1914	-29.83
+1913	-27.14
+1912	-29.83
+1911	-31.18
+1910	-29.78
+1909	-26.61
+1908	-29.93
+1907	-29.5
+1906	-28.55
+1905	-26.45
+1904	-28.6
+1903	-28.1
+1902	-29.6
+1901	-29.88
+1900	-28.34

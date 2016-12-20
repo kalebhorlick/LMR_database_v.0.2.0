@@ -1,0 +1,131 @@
+# PAGES2kv2_O2kLR-CariacoBasin_Goni_2006LMR527 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-CariacoBasin_Goni_2006LMR527 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Cariaco Basin
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 10.6496
+#	Southernmost_Latitude: 10.6496
+#	Easternmost_Longitude: -64.6607
+#	Westernmost_Longitude: -64.6607
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-CariacoBasin_Goni_2006LMR527
+#	Earliest_Year: 1694
+#	Most_Recent_Year: 1996
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1996	25.8
+1991	26.4
+1986	26.4
+1982	26.2
+1978	26.2
+1973	26.3
+1968	26.2
+1963	26.2
+1959	25.8
+1957	25.8
+1954	25.7
+1952	25.7
+1949	25.7
+1944	25.5
+1940	24.9
+1935	25.0
+1929	25.1
+1927	24.9
+1924	25.2
+1921	24.9
+1916	24.8
+1905	25.1
+1894	25.4
+1885	25.3
+1876	26.1
+1866	24.7
+1856	25.2
+1846	25.2
+1836	25.2
+1826	25.3
+1815	25.3
+1805	25.1
+1782	25.1
+1770	24.9
+1759	25.1
+1746	25.1
+1734	25.0
+1721	24.9
+1708	25.4
+1694	25.6

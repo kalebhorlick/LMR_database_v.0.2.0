@@ -1,0 +1,162 @@
+# PAGES2kv2_Eur-SouthIceland_Moffa-Sanchez2014LMR350 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Eur-SouthIceland_Moffa-Sanchez2014LMR350 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Moffa-Sánchez, Paola,Born, Andreas,Hall, Ian R.,Thornalley, David J. R.,Barker, Stephen
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Moffa-Sánchez, Paola,Born, Andreas,Hall, Ian R.,Thornalley, David J. R.,Barker, Stephen
+#	Published_Date_or_Year: 
+#	Published_Title: Solar forcing of North Atlantic surface temperature and salinity over the past millennium
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/ngeo2094
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: South Iceland
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 61.42
+#	Southernmost_Latitude: 61.42
+#	Easternmost_Longitude: -19.53
+#	Westernmost_Longitude: -19.53
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Eur-SouthIceland_Moffa-Sanchez2014LMR350
+#	Earliest_Year: 798
+#	Most_Recent_Year: 1915
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"correlation with local meteorological correlation", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	reconstructed summer temperature, , , degrees C, "[6, 7, 8]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+798	7.33405
+811	9.69621
+823	10.1545
+847	9.03329
+859	9.06106
+871	8.24791
+883	8.15968
+894	6.99067
+906	8.91856
+917	6.98249
+930	6.87135
+943	7.43382
+961	7.22454
+978	7.84132
+990	8.95038
+1001	8.14673
+1032	8.32167
+1057	6.55721
+1078	6.96719
+1094	10.8868
+1111	8.13727
+1134	6.95425
+1149	6.83728
+1159	8.08993
+1174	7.67319
+1187	6.46129
+1197	7.83976
+1206	8.89209
+1221	6.96898
+1235	8.81323
+1246	7.23274
+1259	7.45304
+1276	5.66414
+1293	7.54391
+1307	6.80544
+1321	7.25909
+1336	9.02896
+1351	9.26921
+1366	9.49261
+1381	9.28443
+1395	7.46056
+1411	7.20019
+1425	7.81037
+1444	9.57193
+1464	9.01144
+1485	7.10608
+1513	6.01286
+1582	6.47698
+1603	4.87734
+1617	7.84537
+1631	7.45015
+1645	6.68797
+1659	6.2733
+1673	5.75361
+1687	7.86339
+1701	7.82699
+1715	7.13582
+1729	7.14778
+1743	5.75472
+1757	6.62183
+1771	7.47133
+1785	5.63086
+1799	7.35825
+1813	5.93863
+1827	6.93561
+1841	5.71646
+1855	6.05519
+1869	5.93519
+1883	7.30156
+1897	8.22636
+1915	7.50507

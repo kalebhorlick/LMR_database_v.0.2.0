@@ -1,0 +1,225 @@
+# PAGES2kv2_Ocean2kHR-AtlanticPedroBankHaaseSchramm2003LMR597 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticPedroBankHaaseSchramm2003LMR597 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Draschba, S.,P&#x000E4;tzold, J.,Wefer, G.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Draschba, S.,P&#x000E4;tzold, J.,Wefer, G.
+#	Published_Date_or_Year: 
+#	Published_Title: North Atlantic climate variability since AD 1350 recorded in &#x003B4; 18 O and skeletal density of Bermuda corals
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s005310050301
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Pedro Bank Jamaica
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 17.5333
+#	Southernmost_Latitude: 17.5333
+#	Easternmost_Longitude: -78.95
+#	Westernmost_Longitude: -78.95
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticPedroBankHaaseSchramm2003LMR597
+#	Earliest_Year: 1384
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"03jama01b.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[-8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6, 7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, "[-8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6, 7]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+1992	9.479
+1987	9.611
+1982	9.534
+1979	9.714
+1977	nan
+1974	9.517
+1972	nan
+1971	9.731
+1967	nan
+1963	9.565
+1957	9.387
+1952	9.697
+1950	nan
+1948	9.897
+1947	nan
+1945	9.657
+1943	9.834
+1939	nan
+1934	nan
+1930	9.654
+1928	nan
+1927	9.734
+1926	nan
+1921	9.8
+1918	nan
+1913	10.062
+1911	9.947
+1909	9.719
+1905	9.66
+1899	nan
+1897	9.845
+1895	9.822
+1891	nan
+1890	9.742
+1885	9.916
+1881	9.96
+1875	nan
+1870	10.097
+1865	9.93
+1859	9.861
+1854	9.898
+1849	9.932
+1844	nan
+1843	9.919
+1837	9.891
+1833	10.131
+1828	9.944
+1823	9.91
+1818	9.966
+1813	10.148
+1808	9.923
+1802	9.842
+1797	10.017
+1791	9.969
+1785	9.868
+1780	9.87
+1774	9.8
+1769	9.865
+1763	9.806
+1758	9.8065
+1752	9.8825
+1747	9.855
+1741	9.757
+1736	9.8605
+1731	9.909
+1727	nan
+1726	9.77
+1721	9.833
+1715	9.726
+1709	9.874
+1703	9.627
+1698	9.87
+1693	9.817
+1687	9.785
+1682	9.835
+1676	9.817
+1670	9.923
+1665	9.907
+1661	9.872
+1660	nan
+1655	9.823
+1650	9.945
+1645	9.921
+1640	9.896
+1635	9.919
+1629	9.861
+1623	9.804
+1617	9.859
+1612	9.87
+1607	9.896
+1601	9.847
+1596	9.724
+1590	9.921
+1585	9.931
+1579	9.944
+1574	9.894
+1568	9.829
+1564	9.819
+1559	9.856
+1554	10.014
+1550	9.96
+1545	9.768
+1540	9.734
+1534	9.821
+1528	9.813
+1522	9.713
+1516	9.7
+1509	9.858
+1504	9.907
+1498	nan
+1497	9.88
+1493	9.772
+1489	9.745
+1487	nan
+1482	9.853
+1476	9.793
+1471	9.902
+1466	nan
+1463	9.671
+1460	9.85
+1454	9.83
+1448	9.911
+1441	9.88
+1435	nan
+1431	9.837
+1427	9.967
+1420	nan
+1419	9.833
+1413	9.926
+1405	9.88
+1398	9.913
+1393	9.92
+1389	9.858
+1384	9.786

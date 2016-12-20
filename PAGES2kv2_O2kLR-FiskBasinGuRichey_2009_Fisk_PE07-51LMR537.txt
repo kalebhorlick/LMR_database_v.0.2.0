@@ -1,0 +1,131 @@
+# PAGES2kv2_O2kLR-FiskBasinGuRichey_2009_Fisk_PE07-51LMR537 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-FiskBasinGuRichey_2009_Fisk_PE07-51LMR537 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Fisk Basin, Gulf of Mexico
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 27.55
+#	Southernmost_Latitude: 27.55
+#	Easternmost_Longitude: -93.93
+#	Westernmost_Longitude: -93.93
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-FiskBasinGuRichey_2009_Fisk_PE07-51LMR537
+#	Earliest_Year: 1198
+#	Most_Recent_Year: 1950
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1950.0	26.2122493919
+1931.2	25.2846323021
+1912.4	24.6625463414
+1893.6	24.7472612397
+1874.8	25.0880240108
+1856.0	25.0454210639
+1837.2	23.4915642856
+1818.4	23.6357634645
+1799.6	23.9507314747
+1780.8	23.1447387377
+1762.0	23.5834690452
+1743.2	23.3990422427
+1724.4	23.1174933406
+1705.6	23.4059320672
+1686.8	23.7812172552
+1668.0	24.0036442929
+1649.2	23.9988847634
+1630.4	24.1466154028
+1611.6	23.9734551176
+1592.8	24.1302174988
+1574.0	23.4866526981
+1555.2	24.5124843411
+1536.4	24.1597150414
+1517.6	25.0006697787
+1498.8	23.402353441
+1480.0	24.7910479657
+1461.2	25.0454699711
+1442.4	24.0674327911
+1423.6	24.4427135348
+1404.8	25.6736793421
+1386.0	24.8531160591
+1367.2	24.3930069
+1348.4	24.9690416422
+1329.6	24.4173320674
+1310.8	24.6815218055
+1292.0	24.5671461196
+1273.2	24.9505065736
+1254.4	24.5431230168
+1235.6	24.8906838771
+1216.8	25.5509755018

@@ -1,0 +1,311 @@
+# northamerica_usa_ca559 - Squaw Valley   Lake Tahoe - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_usa_ca559 - Squaw Valley   Lake Tahoe - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Squaw Valley   Lake Tahoe
+#	Location:
+#	Country: United States
+#	Northernmost_Latitude: 39.1
+#	Southernmost_Latitude: 39.1
+#	Easternmost_Longitude: -120.27
+#	Westernmost_Longitude: -120.27
+#	Elevation: 2280 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_usa_ca559B
+#	Earliest_Year: 1764
+#	Most_Recent_Year: 1983
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"4.1454015846","T2":"14.8991936689","M1":"0.0222878149463","M2":"0.428931244166"}}
+#--------------------
+# Species
+#	Species_Name: California red fir
+#	Species_Code: ABMA
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1764	1.064
+1765	1.028
+1766	0.832
+1767	0.972
+1768	1.129
+1769	0.912
+1770	0.98
+1771	0.888
+1772	1.0
+1773	1.104
+1774	1.047
+1775	0.978
+1776	0.924
+1777	0.867
+1778	0.939
+1779	1.003
+1780	1.092
+1781	0.986
+1782	0.968
+1783	0.895
+1784	0.997
+1785	1.014
+1786	1.102
+1787	0.885
+1788	0.967
+1789	1.078
+1790	0.866
+1791	1.303
+1792	1.147
+1793	1.137
+1794	1.193
+1795	0.881
+1796	0.822
+1797	0.889
+1798	1.125
+1799	0.871
+1800	1.076
+1801	0.864
+1802	1.012
+1803	1.159
+1804	1.137
+1805	1.111
+1806	1.12
+1807	1.112
+1808	1.172
+1809	1.028
+1810	0.752
+1811	0.634
+1812	1.045
+1813	1.102
+1814	1.177
+1815	1.048
+1816	1.071
+1817	1.253
+1818	1.205
+1819	0.914
+1820	1.122
+1821	1.1
+1822	0.903
+1823	0.812
+1824	0.752
+1825	0.749
+1826	1.075
+1827	1.014
+1828	0.959
+1829	0.943
+1830	0.833
+1831	0.78
+1832	0.993
+1833	1.054
+1834	1.042
+1835	1.016
+1836	0.82
+1837	1.105
+1838	1.058
+1839	1.223
+1840	1.024
+1841	1.086
+1842	0.824
+1843	1.052
+1844	0.817
+1845	0.981
+1846	0.936
+1847	0.777
+1848	1.106
+1849	0.949
+1850	0.875
+1851	1.062
+1852	1.046
+1853	0.928
+1854	1.092
+1855	1.025
+1856	0.767
+1857	0.916
+1858	0.999
+1859	0.839
+1860	0.897
+1861	1.058
+1862	0.756
+1863	1.346
+1864	1.102
+1865	0.979
+1866	1.025
+1867	0.842
+1868	0.973
+1869	1.247
+1870	0.985
+1871	0.782
+1872	0.699
+1873	1.03
+1874	0.732
+1875	0.935
+1876	0.971
+1877	1.187
+1878	1.024
+1879	1.175
+1880	0.811
+1881	1.073
+1882	1.063
+1883	0.943
+1884	0.872
+1885	1.072
+1886	1.015
+1887	0.858
+1888	0.802
+1889	0.594
+1890	0.491
+1891	0.854
+1892	0.86
+1893	0.905
+1894	0.931
+1895	0.995
+1896	0.91
+1897	1.048
+1898	0.909
+1899	0.755
+1900	0.981
+1901	1.171
+1902	0.993
+1903	0.968
+1904	1.351
+1905	1.165
+1906	0.94
+1907	1.1
+1908	1.422
+1909	1.043
+1910	0.977
+1911	0.873
+1912	0.994
+1913	1.005
+1914	1.067
+1915	1.19
+1916	1.069
+1917	1.09
+1918	0.98
+1919	1.033
+1920	0.913
+1921	0.929
+1922	0.927
+1923	0.91
+1924	1.005
+1925	0.929
+1926	1.053
+1927	0.9
+1928	0.95
+1929	0.853
+1930	0.849
+1931	0.918
+1932	0.77
+1933	0.861
+1934	0.938
+1935	1.039
+1936	1.162
+1937	1.139
+1938	1.182
+1939	1.326
+1940	1.097
+1941	1.041
+1942	1.398
+1943	1.565
+1944	1.373
+1945	1.297
+1946	1.265
+1947	1.444
+1948	1.408
+1949	1.068
+1950	1.182
+1951	1.096
+1952	0.869
+1953	1.119
+1954	1.317
+1955	1.06
+1956	0.803
+1957	1.271
+1958	1.307
+1959	1.35
+1960	1.037
+1961	1.033
+1962	1.162
+1963	1.167
+1964	0.847
+1965	0.601
+1966	0.739
+1967	0.865
+1968	1.096
+1969	1.119
+1970	1.319
+1971	0.889
+1972	0.442
+1973	0.58
+1974	0.594
+1975	0.477
+1976	0.68
+1977	0.713
+1978	0.854
+1979	1.058
+1980	0.938
+1981	0.914
+1982	0.796
+1983	1.027

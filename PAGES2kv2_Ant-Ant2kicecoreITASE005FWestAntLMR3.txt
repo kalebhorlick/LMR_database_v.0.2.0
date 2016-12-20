@@ -1,0 +1,372 @@
+# PAGES2kv2_Ant-Ant2kicecoreITASE005FWestAntLMR3 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ant-Ant2kicecoreITASE005FWestAntLMR3 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Ahmed, Moinuddin,Anchukaitis, Kevin J.,Asrat, Asfawossen,Borgaonkar, Hemant P.,Braida, Martina,Buckley, Brendan M.,Büntgen, Ulf,Chase, Brian M.,Christie, Duncan A.,Cook, Edward R.,Curran, Mark A. J.,Diaz, Henry F.,Esper, Jan,Fan, Ze-Xin,Gaire, Narayan P.,Ge, Quansheng,Gergis, Joëlle,González-Rouco, J Fidel,Goosse, Hugues,Grab, Stefan W.,Graham, Nicholas,Graham, Rochelle,Grosjean, Martin,Hanhijärvi, Sami T.,Kaufman, Darrell S.,Kiefer, Thorsten,Kimura, Katsuhiko,Korhola, Atte A.,Krusic, Paul J.,Lara, Antonio,Lézine, Anne-Marie,Ljungqvist, Fredrik C.,Lorrey, Andrew M.,Luterbacher, Jürg,Masson-Delmotte, Valérie,McCarroll, Danny,McConnell, Joseph R.,McKay, Nicholas P.,Morales, Mariano S.,Moy, Andrew D.,Mulvaney, Robert,Mundo, Ignacio A.,Nakatsuka, Takeshi,Nash, David J.,Neukom, Raphael,Nicholson, Sharon E.,Oerter, Hans,Palmer, Jonathan G.,Phipps, Steven J.,Prieto, Maria R.,Rivera, Andres,Sano, Masaki,Severi, Mirko,Shanahan, Timothy M.,Shao, Xuemei,Shi, Feng,Sigl, Michael,Smerdon, Jason E.,Solomina, Olga N.,Steig, Eric J.,Stenni, Barbara,Thamban, Meloth,Trouet, Valerie,Turney, Chris S.M.,Umer, Mohammed,van Ommen, Tas,Verschuren, Dirk,Viau, Andre E.,Villalba, Ricardo,Vinther, Bo M.,von Gunten, Lucien,Wagner, Sebastian,Wahl, Eugene R.,Wanner, Heinz,Werner, Johannes P.,White, James W.C.,Yasue, Koh,Zorita, Eduardo
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Ahmed, Moinuddin,Anchukaitis, Kevin J.,Asrat, Asfawossen,Borgaonkar, Hemant P.,Braida, Martina,Buckley, Brendan M.,Büntgen, Ulf,Chase, Brian M.,Christie, Duncan A.,Cook, Edward R.,Curran, Mark A. J.,Diaz, Henry F.,Esper, Jan,Fan, Ze-Xin,Gaire, Narayan P.,Ge, Quansheng,Gergis, Joëlle,González-Rouco, J Fidel,Goosse, Hugues,Grab, Stefan W.,Graham, Nicholas,Graham, Rochelle,Grosjean, Martin,Hanhijärvi, Sami T.,Kaufman, Darrell S.,Kiefer, Thorsten,Kimura, Katsuhiko,Korhola, Atte A.,Krusic, Paul J.,Lara, Antonio,Lézine, Anne-Marie,Ljungqvist, Fredrik C.,Lorrey, Andrew M.,Luterbacher, Jürg,Masson-Delmotte, Valérie,McCarroll, Danny,McConnell, Joseph R.,McKay, Nicholas P.,Morales, Mariano S.,Moy, Andrew D.,Mulvaney, Robert,Mundo, Ignacio A.,Nakatsuka, Takeshi,Nash, David J.,Neukom, Raphael,Nicholson, Sharon E.,Oerter, Hans,Palmer, Jonathan G.,Phipps, Steven J.,Prieto, Maria R.,Rivera, Andres,Sano, Masaki,Severi, Mirko,Shanahan, Timothy M.,Shao, Xuemei,Shi, Feng,Sigl, Michael,Smerdon, Jason E.,Solomina, Olga N.,Steig, Eric J.,Stenni, Barbara,Thamban, Meloth,Trouet, Valerie,Turney, Chris S.M.,Umer, Mohammed,van Ommen, Tas,Verschuren, Dirk,Viau, Andre E.,Villalba, Ricardo,Vinther, Bo M.,von Gunten, Lucien,Wagner, Sebastian,Wahl, Eugene R.,Wanner, Heinz,Werner, Johannes P.,White, James W.C.,Yasue, Koh,Zorita, Eduardo
+#	Published_Date_or_Year: 
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: ITASE 00-5 F
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -77.68
+#	Southernmost_Latitude: -77.68
+#	Easternmost_Longitude: -124
+#	Westernmost_Longitude: -124
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ant-Ant2kicecoreITASE005FWestAntLMR3
+#	Earliest_Year: 1719
+#	Most_Recent_Year: 1999
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##dD	deuterium isotope ratio, , , permil, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Ice Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	dD
+1999	-289.372380952
+1998	-277.324666667
+1997	-269.375555556
+1996	-257.647142857
+1995	-265.751428571
+1994	-269.73375
+1993	-276.513333333
+1992	-255.113636364
+1991	-258.369166667
+1990	-267.985714286
+1989	-266.543333333
+1988	-269.70125
+1987	-273.857142857
+1986	-278.477692308
+1985	-277.41375
+1984	-261.192
+1983	-272.784285714
+1982	-277.452222222
+1981	-278.392222222
+1980	-242.351818182
+1979	-283.925
+1978	-287.441428571
+1977	-287.77
+1976	-279.6325
+1975	-267.4
+1974	-255.66375
+1973	-268.665
+1972	-260.625
+1971	-281.357142857
+1970	-266.899
+1969	-260.396666667
+1968	-248.955555556
+1967	-268.832857143
+1966	-286.46125
+1965	-263.474285714
+1964	-261.542857143
+1963	-276.799
+1962	-275.805555556
+1961	-273.922857143
+1960	-258.36875
+1959	-268.04625
+1958	-256.550769231
+1957	-251.28125
+1956	-274.83375
+1955	-281.061666667
+1954	-270.21
+1953	-268.04875
+1952	-267.710769231
+1951	-277.291
+1950	-270.856
+1949	-264.35
+1948	-261.4025
+1947	-277.596666667
+1946	-269.207142857
+1945	-247.924285714
+1944	-261.9325
+1943	-277.353333333
+1942	-279.82875
+1941	-259.707
+1940	-262.4475
+1939	-256.1475
+1938	-250.174285714
+1937	-256.666666667
+1936	-253.091111111
+1935	-247.798181818
+1934	-265.531111111
+1933	-274.57
+1932	-279.405
+1931	-265.27
+1930	-254.6025
+1929	-262.915
+1928	-270.6425
+1927	-263.047
+1926	-280.185
+1925	-265.741111111
+1924	-259.072857143
+1923	-256.374285714
+1922	-265.51875
+1921	-280.89
+1920	-268.301666667
+1919	-261.553333333
+1918	-274.678
+1917	-255.654444444
+1916	-260.808333333
+1915	-270.19
+1914	-280.131666667
+1913	-263.038333333
+1912	-255.68
+1911	-258.706
+1910	-279.1375
+1909	-284.216666667
+1908	-270.63625
+1907	-280.935
+1906	-262.634285714
+1905	-258.215
+1904	-279.316
+1903	-274.868
+1902	-259.778571429
+1901	-269.293333333
+1900	-265.307142857
+1899	-241.22
+1898	-246.3375
+1897	-253.7725
+1896	-264.78
+1895	-268.904
+1894	-278.88
+1893	-282.718
+1892	-277.338333333
+1891	-283.838
+1890	-264.15
+1889	-261.995
+1888	-267.124
+1887	-261.31
+1886	-275.01
+1885	-268.9625
+1884	-259.234
+1883	-250.43
+1882	-258.71
+1881	-262.602
+1880	-271.225
+1879	-280.55
+1878	-275.958333333
+1877	-249.998
+1876	-256.61
+1875	-277.122
+1874	-284.3
+1873	-268.4025
+1872	-265.3275
+1871	-273.8625
+1870	-282.6025
+1869	-279.338
+1868	-269.4825
+1867	-263.746666667
+1866	-267.425
+1865	-268.185
+1864	-266.243333333
+1863	-267.663333333
+1862	-282.56
+1861	-277.318333333
+1860	-260.23
+1859	-257.676
+1858	-267.334
+1857	-266.78
+1856	-256.36
+1855	-256.033333333
+1854	-261.647142857
+1853	-277.4575
+1852	-276.1525
+1851	-269.093333333
+1850	-261.535
+1849	-269.314
+1848	-260.284
+1847	-268.22
+1846	-266.08
+1845	-270.224
+1844	-268.24
+1843	-269.52
+1842	-274.076
+1841	-257.4125
+1840	-276.733333333
+1839	-277.7975
+1838	-258.675
+1837	-250.377142857
+1836	-268.914285714
+1835	-253.067142857
+1834	-249.5
+1833	-264.026
+1832	-274.688
+1831	-278.826
+1830	-269.078333333
+1829	-269.2525
+1828	-266.318333333
+1827	-268.302
+1826	-254.718333333
+1825	-268.976666667
+1824	-268.921666667
+1823	-260.4
+1822	-274.16
+1821	-284.8375
+1820	-265.266
+1819	-253.036666667
+1818	-253.664
+1817	-262.523333333
+1816	-267.295
+1815	-267.5925
+1814	-272.328
+1813	-270.91
+1812	-266.7775
+1811	-266.274
+1810	-278.525
+1809	-284.555
+1808	-285.745
+1807	-290.735
+1806	-277.7075
+1805	-267.426
+1804	-260.67
+1803	-256.945
+1802	-263.882
+1801	-264.55
+1800	-273.818571429
+1799	-274.306
+1798	-271.5825
+1797	-261.576666667
+1796	-260.068
+1795	-255.585
+1794	-255.3625
+1793	-270.958
+1792	-272.055
+1791	-268.936
+1790	-271.843333333
+1789	-272.843333333
+1788	-267.0275
+1787	-262.73
+1786	-262.952
+1785	-265.44
+1784	-278.85
+1783	-283.403333333
+1782	-271.72
+1781	-254.795
+1780	-262.318
+1779	-255.25
+1778	-264.885
+1777	-277.206666667
+1776	-269.1375
+1775	-262.275
+1774	-254.15
+1773	-255.458333333
+1772	-272.403333333
+1771	-260.295
+1770	-259.44
+1769	-265.896666667
+1768	-258.0475
+1767	-267.255
+1766	-275.65
+1765	-279.5925
+1764	-276.4425
+1763	-265.756666667
+1762	-258.69
+1761	-258.115
+1760	-259.99
+1759	-257.993333333
+1758	-246.885
+1757	-242.8825
+1756	-243.13
+1755	-245.935
+1754	-257.804
+1753	-260.186666667
+1752	-262.05
+1751	-269.432
+1750	-274.036
+1749	-267.122
+1748	-258.525
+1747	-251.0575
+1746	-251.9025
+1745	-258.493333333
+1744	-260.75
+1743	-257.845
+1742	-258.15
+1741	-265.976666667
+1740	-266.9475
+1739	-266.8425
+1738	-263.615
+1737	-259.17
+1736	-258.3475
+1735	-264.544
+1734	-265.906
+1733	-249.546666667
+1732	-248.42
+1731	-251.63
+1730	-258.786666667
+1729	-263.236666667
+1728	-263.82
+1727	-263.8175
+1726	-260.93
+1725	-258.0275
+1724	-256.886666667
+1723	-256.04
+1722	-259.46
+1721	-265.95
+1720	-265.53
+1719	-263.93

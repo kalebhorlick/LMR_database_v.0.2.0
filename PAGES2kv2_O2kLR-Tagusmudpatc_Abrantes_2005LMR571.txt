@@ -1,0 +1,256 @@
+# PAGES2kv2_O2kLR-Tagusmudpatc_Abrantes_2005LMR571 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-Tagusmudpatc_Abrantes_2005LMR571 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Tagus mud patch, southern portuguese margin, North Atlantic
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 38.556
+#	Southernmost_Latitude: 38.556
+#	Easternmost_Longitude: -9.34975
+#	Westernmost_Longitude: -9.34975
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-Tagusmudpatc_Abrantes_2005LMR571
+#	Earliest_Year: -6052
+#	Most_Recent_Year: 2001
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[-10, -11, -12, 1, 2, 3, 4]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[-10, -11, -12, 1, 2, 3, 4]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+2001	14.76
+2001	15.43
+2000	15.39
+1998	16.06
+1997	15.97
+1997	17.18
+1996	15.92
+1994	14.06
+1994	15.96
+1993	14.25
+1990	13.93
+1989	14.41
+1986	14.67
+1985	14.84
+1983	15.45
+1981	15.64
+1979	16.82
+1977	16.12
+1975	16.03
+1973	16.66
+1972	16.46
+1969	15.61
+1968	15.76
+1966	16.34
+1964	15.34
+1962	15.64
+1961	15.54
+1958	16.68
+1957	15.6
+1954	16.46
+1953	16.2
+1950	15.15
+1950	15.5
+1946	15.81
+1944	15.15
+1942	14.41
+1939	14.64
+1935	15.11
+1934	15.04
+1931	14.61
+1928	15.33
+1926	15.38
+1924	15.55
+1920	16.27
+1919	15.61
+1917	15.44
+1913	15.69
+1911	15.63
+1910	15.24
+1906	16.88
+1903	15.3
+1902	15.95
+1899	15.76
+1898	15.49
+1897	15.21
+1895	15.63
+1894	15.26
+1893	16.34
+1890	15.07
+1889	15.73
+1887	15.15
+1887	15.82
+1883	15.94
+1883	16.24
+1880	15.14
+1878	15.82
+1876	14.92
+1873	15.13
+1870	15.13
+1870	15.48
+1868	15.57
+1866	15.37
+1863	15.38
+1863	15.52
+1857	15.53
+1852	15.34
+1851	15.54
+1849	16.07
+1845	15.7
+1844	15.63
+1842	15.6
+1840	15.88
+1838	15.8
+1835	15.5
+1831	15.5
+1828	15.54
+1824	15.37
+1821	15.62
+1817	15.47
+1814	15.78
+1811	15.65
+1807	15.53
+1804	15.51
+1800	15.51
+1797	15.95
+1793	15.09
+1790	15.42
+1786	15.49
+1783	15.78
+1779	15.46
+1776	15.54
+1772	15.6
+1769	15.53
+1765	15.56
+1604	15.05
+1581	15.35
+1558	15.8
+1535	15.93
+1512	15.94
+1495	17.29
+1478	16.7
+1466	17.66
+1454	16.54
+1443	16.74
+1432	16.63
+1420	16.5
+1408	16.73
+1397	16.35
+1388	16.38
+1386	16.7
+1374	15.78
+1362	16.95
+1356	15.71
+1351	17.66
+1340	16.48
+1328	16.62
+1327	15.96
+1316	16.03
+1316	16.62
+1306	16.22
+1305	16.74
+1296	16.82
+1294	16.96
+1282	17.31
+1273	16.74
+1270	18.57
+1259	16.8
+1248	17.41
+1236	18.55
+1224	16.78
+1213	16.82
+1202	16.79
+1191	16.87
+1190	16.98
+1178	17.14
+1167	16.84
+1157	16.83
+1156	17.17
+1144	17.08
+1134	16.63
+1055	17.47
+1036	16.69
+988	17.34
+963	17.17
+921	17.72
+898	17.5
+860	17.71
+837	17.37
+739	17.58
+669	17.74
+569	17.54
+432	17.25
+315	17.11
+199	17.62
+74	17.71

@@ -1,0 +1,233 @@
+# asia_leba002 - Wadi Balat - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: asia_leba002 - Wadi Balat - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Wadi Balat
+#	Location:
+#	Country: Lebanon
+#	Northernmost_Latitude: 34.47
+#	Southernmost_Latitude: 34.47
+#	Easternmost_Longitude: 36.23
+#	Westernmost_Longitude: 36.23
+#	Elevation: 1175 m
+#--------------------
+# Data_Collection
+#	Collection_Name: asia_leba002B
+#	Earliest_Year: 1860
+#	Most_Recent_Year: 2001
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"6.44605916919","T2":"15.0370983257","M1":"0.0223046049713","M2":"0.526152977542"}}
+#--------------------
+# Species
+#	Species_Name: Cilician fir
+#	Species_Code: ABCI
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1860	0.622
+1861	0.905
+1862	0.905
+1863	0.971
+1864	1.074
+1865	0.995
+1866	0.767
+1867	0.377
+1868	0.81
+1869	0.884
+1870	0.927
+1871	1.225
+1872	1.256
+1873	1.014
+1874	1.375
+1875	1.316
+1876	1.112
+1877	1.05
+1878	1.503
+1879	1.159
+1880	1.404
+1881	1.1
+1882	1.025
+1883	1.103
+1884	1.009
+1885	1.428
+1886	0.52
+1887	0.562
+1888	0.613
+1889	0.78
+1890	0.779
+1891	0.608
+1892	0.659
+1893	0.918
+1894	0.935
+1895	0.907
+1896	0.824
+1897	0.523
+1898	0.524
+1899	0.393
+1900	0.707
+1901	0.531
+1902	0.611
+1903	0.817
+1904	1.147
+1905	1.287
+1906	1.141
+1907	1.416
+1908	1.267
+1909	0.858
+1910	0.718
+1911	1.288
+1912	0.66
+1913	0.709
+1914	0.826
+1915	0.763
+1916	0.443
+1917	0.61
+1918	0.747
+1919	0.837
+1920	1.114
+1921	0.979
+1922	0.808
+1923	0.729
+1924	0.9
+1925	0.798
+1926	0.742
+1927	0.977
+1928	0.593
+1929	0.93
+1930	0.763
+1931	0.951
+1932	0.771
+1933	0.76
+1934	1.152
+1935	0.77
+1936	1.189
+1937	0.978
+1938	0.949
+1939	0.929
+1940	0.889
+1941	0.705
+1942	0.904
+1943	1.06
+1944	1.137
+1945	1.271
+1946	1.233
+1947	1.236
+1948	1.2
+1949	1.343
+1950	1.759
+1951	1.517
+1952	1.394
+1953	1.472
+1954	1.292
+1955	0.974
+1956	1.266
+1957	1.078
+1958	0.717
+1959	0.647
+1960	0.731
+1961	0.616
+1962	0.685
+1963	0.723
+1964	0.886
+1965	0.732
+1966	0.882
+1967	1.069
+1968	1.193
+1969	0.959
+1970	1.036
+1971	1.059
+1972	1.098
+1973	0.959
+1974	1.054
+1975	1.068
+1976	1.227
+1977	1.042
+1978	1.015
+1979	1.127
+1980	1.048
+1981	1.222
+1982	1.375
+1983	1.476
+1984	1.1
+1985	1.181
+1986	0.939
+1987	1.05
+1988	0.855
+1989	0.765
+1990	0.762
+1991	0.87
+1992	1.253
+1993	1.206
+1994	1.255
+1995	0.928
+1996	0.763
+1997	0.854
+1998	0.909
+1999	0.56
+2000	0.876
+2001	0.692

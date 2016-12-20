@@ -1,0 +1,288 @@
+# PAGES2kv2_NAm-LakeMinaLMR366 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_NAm-LakeMinaLMR366 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: St. Jacques, Jeannine-Marie,Cumming, Brian F.,Smol, John P.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: St. Jacques, Jeannine-Marie,Cumming, Brian F.,Smol, John P.
+#	Published_Date_or_Year: 
+#	Published_Title: A 900-year pollen-inferred temperature and effective moisture record from varved Lake Mina, west-central Minnesota, USA
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.quascirev.2008.01.005
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Lake Mina
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 45.89
+#	Southernmost_Latitude: 45.89
+#	Easternmost_Longitude: -95.478
+#	Westernmost_Longitude: -95.478
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_NAm-LakeMinaLMR366
+#	Earliest_Year: 1120
+#	Most_Recent_Year: 1900
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Oak(major pollen grain) badly affected by harsh cold winters; most oak spp near range limits here therefore record very sensitive to winter temperature.", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":2}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Pollen-based winter temperature reconstruction, , , degrees C, 2, Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1900	-11.3576
+1896	-10.9797
+1892	-11.0019
+1888	-11.3526
+1884	-11.1322
+1880	-10.7503
+1876	-12.6689
+1872	-11.6883
+1868	-11.5662
+1864	-11.3447
+1860	-11.8663
+1856	-11.8019
+1852	-11.7771
+1848	-11.2016
+1844	-11.0274
+1840	-11.4511
+1836	-11.9334
+1832	-11.3261
+1828	-11.6453
+1824	-11.6019
+1820	-11.6773
+1816	-11.4955
+1812	-11.2838
+1808	-11.0027
+1804	-11.7975
+1800	-10.8571
+1796	-10.9585
+1792	-10.533
+1788	-11.6996
+1784	-12.1801
+1780	-10.8796
+1776	-12.3917
+1772	-12.7378
+1768	-12.2963
+1764	-12.9172
+1760	-12.8286
+1756	-12.6751
+1752	-12.2839
+1748	-12.6572
+1744	-12.1497
+1740	-13.4711
+1736	-13.1299
+1732	-12.4765
+1728	-13.7176
+1724	-12.8294
+1720	-12.5239
+1716	-12.6707
+1712	-11.9102
+1708	-12.2793
+1704	-12.3431
+1700	-12.5082
+1696	-12.7306
+1693	-13.752
+1689	-11.8769
+1685	-12.3409
+1681	-12.4152
+1677	-12.1989
+1673	-11.8858
+1669	-12.1446
+1665	-12.3669
+1661	-11.7036
+1657	-12.525
+1653	-11.5794
+1649	-11.8284
+1645	-11.4491
+1641	-12.3545
+1637	-11.7887
+1633	-12.0891
+1629	-12.1117
+1625	-11.7021
+1621	-11.2883
+1617	-11.6361
+1613	-11.6768
+1609	-11.4522
+1605	-10.7228
+1601	-11.8422
+1597	-11.9339
+1593	-11.4188
+1589	-11.448
+1585	-11.2978
+1581	-11.5027
+1577	-12.0153
+1573	-11.7538
+1569	-11.4446
+1565	-12.5005
+1561	-12.8472
+1557	-13.3882
+1553	-13.0396
+1549	-11.0294
+1545	-12.1371
+1541	-11.7413
+1537	-11.9473
+1533	-12.136
+1529	-11.5056
+1525	-11.6955
+1520	-11.8911
+1516	-13.2732
+1512	-11.7752
+1508	-12.1811
+1504	-11.0348
+1500	-11.4041
+1496	-11.4333
+1492	-10.8848
+1488	-11.067
+1484	-11.0643
+1480	-10.6807
+1476	-11.3859
+1472	-11.5049
+1468	-10.968
+1464	-11.5436
+1460	-11.6919
+1456	-11.6878
+1452	-12.1265
+1448	-12.2451
+1444	-11.9037
+1440	-11.2601
+1436	-10.0117
+1432	-10.7848
+1428	-10.8337
+1424	-10.9963
+1420	-10.4376
+1416	-10.1174
+1412	-10.5754
+1408	-10.9101
+1404	-10.8855
+1400	-10.8118
+1396	-11.6347
+1392	-11.5247
+1388	-11.9619
+1384	-11.8504
+1380	-11.4
+1376	-11.9201
+1372	-11.2054
+1368	-11.4487
+1364	-12.2692
+1360	-12.2948
+1356	-10.6925
+1352	-11.1828
+1346	-11.2787
+1343	-11.251
+1339	-11.6397
+1335	-11.4763
+1331	-11.9353
+1327	-11.3709
+1323	-12.1282
+1319	-12.065
+1315	-11.8763
+1311	-11.5305
+1307	-11.7714
+1303	-12.4621
+1299	-11.2214
+1295	-11.6633
+1291	-11.3968
+1287	-13.1501
+1283	-11.3806
+1279	-11.5158
+1275	-11.5214
+1271	-12.2637
+1267	-12.076
+1265	-11.9057
+1261	-11.7794
+1257	-11.8754
+1253	-11.7494
+1249	-12.0637
+1245	-11.7576
+1241	-11.501
+1237	-11.6278
+1233	-10.7348
+1229	-10.7482
+1225	-11.5056
+1221	-11.2728
+1217	-10.9997
+1213	-11.8957
+1209	-11.6089
+1205	-11.0355
+1201	-11.5027
+1197	-10.7214
+1193	-11.7461
+1189	-11.3782
+1185	-11.4915
+1182	-11.9095
+1178	-11.6046
+1174	-12.5493
+1170	-12.353
+1166	-12.5627
+1162	-12.3741
+1159	-12.3277
+1156	-12.4174
+1152	-13.1354
+1148	-12.4002
+1144	-12.8742
+1140	-12.6427
+1136	-11.9758
+1132	-13.075
+1128	-11.8002
+1124	-12.1859
+1120	-12.0933

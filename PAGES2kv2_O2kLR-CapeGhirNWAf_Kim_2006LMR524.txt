@@ -1,0 +1,129 @@
+# PAGES2kv2_O2kLR-CapeGhirNWAf_Kim_2006LMR524 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-CapeGhirNWAf_Kim_2006LMR524 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Kim, J.-H.; Meggers, H.; Rimbu, N.; Lohmann, G;  Freudenthal, T.; Müller, P.J.; Schneider, R.R.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Kim, J.-H.; Meggers, H.; Rimbu, N.; Lohmann, G;  Freudenthal, T.; Müller, P.J.; Schneider, R.R.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1130/G23251A.1
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Cape Ghir, NW Africa
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 30.85
+#	Southernmost_Latitude: 30.85
+#	Easternmost_Longitude: -10.2685
+#	Westernmost_Longitude: -10.2685
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-CapeGhirNWAf_Kim_2006LMR524
+#	Earliest_Year: -8552
+#	Most_Recent_Year: 1977.59
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1950.0	18.9
+1913.21	19.0
+1876.42	18.9
+1839.62	18.8
+1802.83	19.0
+1766.04	19.0
+1729.25	19.1
+1692.45	19.2
+1655.66	19.3
+1618.87	19.2
+1582.08	18.9
+1545.28	18.9
+1508.49	18.9
+1471.7	18.7
+1434.91	19.1
+1398.11	19.0
+1361.32	19.0
+1324.53	18.9
+1287.74	19.1
+1250.94	19.0
+1214.15	19.3
+1177.36	19.3
+1140.57	19.4
+1103.77	19.4
+1066.98	19.6
+1030.19	19.6
+993.4	19.5
+964.0	19.5
+942.0	19.5
+920.0	19.5
+898.0	19.4
+876.0	19.4
+854.0	19.4
+832.0	19.5
+811.38	19.4
+792.13	19.5
+772.88	19.5
+753.63	19.4

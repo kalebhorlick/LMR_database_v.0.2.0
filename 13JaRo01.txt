@@ -1,0 +1,299 @@
+﻿# James Ross Island Ice Core 1000 Year Deuterium and Melt Data
+#----------------------------------------------------------------------- 
+#               World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite original reference when using these data, 
+# plus the Online Resource and date accessed.
+#
+#
+# Online_Resource: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:14201
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/james-ross-island/james-ross-island2013dd.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores 
+#--------------------
+# Contribution_Date
+#	Date: 2013-04-14
+#--------------------
+# Title
+#	Study_Name: James Ross Island Ice Core 1000 Year Deuterium and Melt Data
+#--------------------
+# Investigators
+#	Investigators: Abram, N.J.; Mulvaney, R.; Wolff, E.W.; Triest, J.; Kipfstuhl, S.; Trusel, L.D.; Vimeux, F.; Fleet, L.; Arrowsmith, C. 
+#--------------------
+# Description_and_Notes
+# 	Description: Deutrium (dD) and annual melt percentage and melt width data from the James Ross Island ice core, Antarctic Peninsula, for the last 1000 years. 
+# 	Annual averages are winter centred for isotopes, and summer centred for melt. Ages are given for the mid-year point. E.g. melt values assigned 
+# 	to 2006 are an average taken from ~July 2005 to ~June 2006. Data are given as annual averages from the top of the core back to 1807 AD. 
+# 	Age control back to 1807 is annually-defined based on annual cycles of nss-SO4. Beyond 1807 the age control is derived from the JRI-1 
+# 	age scale (Mulvaney et al 2012, Nature), and data are given only as 11-year moving averages owing to the greater annual age uncertainty 
+# 	in this portion of the record.
+#
+# 	Deuterium isotope data can be converted to temperature at this site using a temperature dependence of 6.4 per degC-1 (Abram et al.,2011, JGR)
+# 	See also the Supplementary information provided in Mulvaney et al 2012, Nature, for the full Holocene deuterium isotope data for the JRI ice core 
+# 	(http://www.nature.com/nature/journal/v489/n7414/full/nature11391.html)
+#
+# 
+#--------------------
+# Publication
+#	Authors: Nerilie J. Abram, Robert Mulvaney, Eric W. Wolff, Jack Triest, Sepp Kipfstuhl, Luke D. Trusel, Francoise Vimeux, Louise Fleet, and Carol Arrowsmith
+#       Published_Date_or_YEAR: 2013-04-14
+#	Published_Title: Acceleration of snowmelt in an Antarctic Peninsula ice core during the 20th century
+#	Journal_Name: Nature Geoscience 
+#	Volume:  
+#	Issue:   
+#	Pages:   
+#	DOI: 10.1038/ngeo1787
+#	Abstract: Over the past 50 years, warming of the Antarctic Peninsula has been accompanied by accelerating glacier mass loss and the retreat and collapse of ice shelves. A key driver of ice loss is summer melting; however, it is not usually possible to specifically reconstruct the summer conditions that are critical for determining ice melt in Antarctic. Here we reconstruct changes in ice-melt intensity and mean temperature on the northern Antarctic Peninsula since AD 1000 based on the identification of visible melt layers in the James Ross Island ice core and local mean annual temperature estimates from the deuterium content of the ice. During the past millennium, the coolest conditions and lowest melt occurred from about AD 1410 to 1460, when mean temperature was 1.6C lower than that of 1981-2000. Since the late 1400s, there has been a nearly tenfold increase in melt intensity from 0.5 to 4.9%. The warming has occurred in progressive phases since about AD 1460, but intensification of melt is nonlinear, and has largely occurred since the mid-twentieth century. Summer melting is now at a level that is unprecedented over the past 1,000 years. We conclude that ice on the Antarctic Peninsula is now particularly susceptible to rapid increases in melting and loss in response to relatively small increases in mean temperature.
+#
+#---------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Natural Environment Research Council
+#	Grant:  
+#---------------------
+#	Funding_Agency_Name: Australian Research Council 
+#	Grant: DP110101161
+#-------------------- 
+# Site_Information 
+#       Site_Name: James Ross Island
+#	Location: Continent>Antarctica
+#	Country:
+#	Northernmost_Latitude: -64.2017
+# 	Southernmost_Latitude: -64.2017
+# 	Easternmost_Longitude: -57.685
+# 	Westernmost_Longitude: -57.685
+# 	Elevation: 1542 m 
+#------------------   
+# Data_Collection  
+#	Collection_Name: 13JaRo01
+#	Earliest_year: 1807
+#	Most_recent_Year: 2007
+#	Time_Unit: y_ad
+#	Core_Length:    
+#	Notes: {"database":"LMR"} 
+#------------------
+# Chronology 
+#
+# 
+# 
+#------------------
+# Variables
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	midpoint age, , , years AD, , , mid-annual range, ,N
+##delD	delta deuterium, , , permil VSMOW, Ice Cores, , , , N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+age	delD
+2007.5	-159.87
+2006.5	-135.49
+2005.5	-147.52
+2004.5	-144.86
+2003.5	-148.7
+2002.5	-153.08
+2001.5	-135.98
+2000.5	-142.43
+1999.5	-137.44
+1998.5	-142.45
+1997.5	-144.96
+1996.5	-144.04
+1995.5	-140.25
+1994.5	-137.34
+1993.5	-142.37
+1992.5	-141.54
+1991.5	-142.81
+1990.5	-155.86
+1989.5	-126.69
+1988.5	-153.59
+1987.5	-147.43
+1986.5	-162.88
+1985.5	-138
+1984.5	-148.18
+1983.5	-141.73
+1982.5	-151.24
+1981.5	-142.92
+1980.5	-161.97
+1979.5	-149.58
+1978.5	-145.5
+1977.5	-151.25
+1976.5	-133.08
+1975.5	-154.68
+1974.5	-143.23
+1973.5	-134.47
+1972.5	-151.44
+1971.5	-141.2
+1970.5	-156.6
+1969.5	-143.74
+1968.5	-161.35
+1967.5	-153.08
+1966.5	-147.14
+1965.5	-153.06
+1964.5	-151.22
+1963.5	-147.31
+1962.5	-151.5
+1961.5	-149.33
+1960.5	-156.18
+1959.5	-154.57
+1958.5	-159.58
+1957.5	-148.36
+1956.5	-141.14
+1955.5	-140.85
+1954.5	-140.06
+1953.5	-155.14
+1952.5	-143.35
+1951.5	-161.39
+1950.5	-134.69
+1949.5	-158.95
+1948.5	-164.76
+1947.5	-161.87
+1946.5	-146.99
+1945.5	-152.45
+1944.5	-152.7
+1943.5	-146.22
+1942.5	-137.82
+1941.5	-155.57
+1940.5	-163.59
+1939.5	-158.7
+1938.5	-160.01
+1937.5	-151.48
+1936.5	-140.98
+1935.5	-132.06
+1934.5	-146.16
+1933.5	-145.53
+1932.5	-157.2
+1931.5	-150.89
+1930.5	-150.86
+1929.5	-163.27
+1928.5	-145.41
+1927.5	-164.54
+1926.5	-162.6
+1925.5	-158.63
+1924.5	-146.03
+1923.5	-154.86
+1922.5	-161.44
+1921.5	-147.93
+1920.5	-152.1
+1919.5	-153.28
+1918.5	-154.02
+1917.5	-157.96
+1916.5	-149.37
+1915.5	-144.45
+1914.5	-152.09
+1913.5	-142.69
+1912.5	-157.07
+1911.5	-159.65
+1910.5	-147.42
+1909.5	-141.38
+1908.5	-147.66
+1907.5	-152.62
+1906.5	-156.49
+1905.5	-154.61
+1904.5	-142.05
+1903.5	-154.32
+1902.5	-138.87
+1901.5	-162.44
+1900.5	-154.47
+1899.5	-164.7
+1898.5	-145.23
+1897.5	-141.25
+1896.5	-155.73
+1895.5	-150.76
+1894.5	-148.19
+1893.5	-134.62
+1892.5	-144.45
+1891.5	-136.79
+1890.5	-135.21
+1889.5	-138.52
+1888.5	-140.71
+1887.5	-144.84
+1886.5	-147.15
+1885.5	-145.06
+1884.5	-148.6
+1883.5	-153.25
+1882.5	-154.35
+1881.5	-160.06
+1880.5	-141.11
+1879.5	-151.56
+1878.5	-158.19
+1877.5	-157.25
+1876.5	-145.28
+1875.5	-144.61
+1874.5	-143.01
+1873.5	-164.51
+1872.5	-137.83
+1871.5	-158.51
+1870.5	-145.23
+1869.5	-139.16
+1868.5	-147.62
+1867.5	-162.09
+1866.5	-156.05
+1865.5	-157.63
+1864.5	NAN
+1863.5	-150.79
+1862.5	-145.76
+1861.5	-136.56
+1860.5	-146.81
+1859.5	-146.29
+1858.5	-154.94
+1857.5	-143.16
+1856.5	-145.73
+1855.5	-133.12
+1854.5	-145.03
+1853.5	-155.59
+1852.5	-149.23
+1851.5	-144.86
+1850.5	-151.41
+1849.5	-150.22
+1848.5	-153.64
+1847.5	-149.02
+1846.5	-155.22
+1845.5	-161.36
+1844.5	-166.45
+1843.5	-145.46
+1842.5	-161.63
+1841.5	-132.2
+1840.5	-148.25
+1839.5	-152.79
+1838.5	-149.41
+1837.5	-136.7
+1836.5	-139.86
+1835.5	-144.02
+1834.5	-149.88
+1833.5	-144.85
+1832.5	-145.22
+1831.5	-156.12
+1830.5	-137.19
+1829.5	-145.79
+1828.5	-148.78
+1827.5	-160.78
+1826.5	-152.73
+1825.5	-148.39
+1824.5	-145.9
+1823.5	-155.41
+1822.5	-145.1
+1821.5	-148.43
+1820.5	-134.22
+1819.5	-138.74
+1818.5	-138.28
+1817.5	-148.51
+1816.5	-158.2
+1815.5	-156.41
+1814.5	-139.61
+1813.5	-147.94
+1812.5	-143.84
+1811.5	-148.39
+1810.5	-153.69
+1809.5	-148.79
+1808.5	-145.34
+1807.5	-144.99

@@ -1,0 +1,291 @@
+# PAGES2kv2_Asia-Puruogangri_Thompson_2006LMR245 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-Puruogangri_Thompson_2006LMR245 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Thompson, Lonnie G.,Yao, Tandong,Davis, Mary E.,Mosley-Thompson, Ellen,Mashiotta, Tracy A.,Lin, Ping-Nan,Mikhalenko, Vladimir N.,Zagorodnov, Victor S.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Thompson, Lonnie G.,Yao, Tandong,Davis, Mary E.,Mosley-Thompson, Ellen,Mashiotta, Tracy A.,Lin, Ping-Nan,Mikhalenko, Vladimir N.,Zagorodnov, Victor S.
+#	Published_Date_or_Year: 
+#	Published_Title: Holocene climate variability archived in the Puruogangri ice cap on the central Tibetan Plateau
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.3189/172756406781812357
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Puruogangri
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 33.9167
+#	Southernmost_Latitude: 33.9167
+#	Easternmost_Longitude: 89.0833
+#	Westernmost_Longitude: 89.0833
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-Puruogangri_Thompson_2006LMR245
+#	Earliest_Year: 4.5
+#	Most_Recent_Year: 1994.5
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"06Puru01.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	d18O in ice, , , permil, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Ice Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1994.5	-12.2
+1984.5	-12.05
+1974.5	-13.05
+1964.5	-12.97
+1954.5	-13.53
+1944.5	-14.23
+1934.5	-13.11
+1924.5	-11.4
+1914.5	-12.9
+1904.5	-15.39
+1894.5	-15.3
+1884.5	-13.53
+1874.5	-13.34
+1864.5	-14.33
+1854.5	-15.02
+1844.5	-14.74
+1834.5	-13.87
+1824.5	-15.87
+1814.5	-16.91
+1804.5	-15.63
+1794.5	-14.0
+1784.5	-14.25
+1774.5	-14.56
+1764.5	-14.58
+1754.5	-15.25
+1744.5	-15.43
+1734.5	-15.18
+1724.5	-15.28
+1714.5	-15.29
+1704.5	-13.95
+1694.5	-14.61
+1684.5	-15.44
+1674.5	-14.11
+1664.5	-14.59
+1654.5	-13.04
+1644.5	-11.86
+1634.5	-13.93
+1624.5	-15.23
+1614.5	-14.25
+1604.5	-14.07
+1594.5	-16.3
+1584.5	-15.48
+1574.5	-15.14
+1564.5	-14.29
+1554.5	-13.76
+1544.5	-14.46
+1534.5	-16.01
+1524.5	-15.94
+1514.5	-14.6
+1504.5	-14.43
+1494.5	-14.91
+1484.5	-14.22
+1474.5	-14.55
+1464.5	-12.28
+1454.5	-14.17
+1444.5	-15.04
+1434.5	-15.25
+1424.5	-15.0
+1414.5	-15.05
+1404.5	-13.67
+1394.5	-15.03
+1384.5	-14.83
+1374.5	-13.72
+1364.5	-15.13
+1354.5	-17.04
+1344.5	-17.48
+1334.5	-15.2
+1324.5	-15.13
+1314.5	-15.03
+1304.5	-13.45
+1294.5	-12.22
+1284.5	-14.03
+1274.5	-16.03
+1264.5	-14.87
+1254.5	-14.65
+1244.5	-16.1
+1234.5	-17.7
+1224.5	-14.61
+1214.5	-17.03
+1204.5	-16.13
+1194.5	-15.4
+1184.5	-14.35
+1174.5	-14.44
+1164.5	-14.79
+1154.5	-15.44
+1144.5	-14.6
+1134.5	-14.92
+1124.5	-15.01
+1114.5	-15.6
+1104.5	-15.98
+1094.5	-15.07
+1084.5	-15.06
+1074.5	-14.27
+1064.5	-14.72
+1054.5	-13.7
+1044.5	-16.58
+1034.5	-14.32
+1024.5	-15.01
+1014.5	-15.33
+1004.5	-17.08
+994.5	-14.23
+984.5	-15.22
+974.5	-16.68
+964.5	-15.48
+954.5	-16.9
+944.5	-14.57
+934.5	-13.75
+924.5	-14.15
+914.5	-14.52
+904.5	-14.63
+894.5	-12.37
+884.5	-11.25
+874.5	-16.09
+864.5	-15.77
+854.5	-13.72
+844.5	-13.62
+834.5	-13.36
+824.5	-14.26
+814.5	-15.36
+804.5	-13.84
+794.5	-14.76
+784.5	-15.1
+774.5	-14.18
+764.5	-16.88
+754.5	-14.99
+744.5	-13.66
+734.5	-15.18
+724.5	-15.29
+714.5	-15.23
+704.5	-15.09
+694.5	-13.9
+684.5	-15.15
+674.5	-13.06
+664.5	-14.29
+654.5	-14.32
+644.5	-12.53
+634.5	-13.88
+624.5	-14.22
+614.5	-14.1
+604.5	-13.03
+594.5	-13.85
+584.5	-14.07
+574.5	-14.45
+564.5	-14.36
+554.5	-13.72
+544.5	-15.58
+534.5	-14.87
+524.5	-13.86
+514.5	-14.65
+504.5	-13.29
+494.5	-14.36
+484.5	-15.26
+474.5	-14.31
+464.5	-16.09
+454.5	-14.95
+444.5	-14.05
+434.5	-14.18
+424.5	-14.35
+414.5	-14.09
+404.5	-14.86
+394.5	-13.54
+384.5	-12.64
+374.5	-13.56
+364.5	-13.95
+354.5	-13.23
+344.5	-15.64
+334.5	-15.5
+324.5	-14.66
+314.5	-15.64
+304.5	-13.92
+294.5	-14.01
+284.5	-14.36
+274.5	-15.95
+264.5	-14.75
+254.5	-15.16
+244.5	-14.05
+234.5	-16.22
+224.5	-14.56
+214.5	-16.36
+204.5	-12.11
+194.5	-14.22
+184.5	-12.98
+174.5	-15.45
+164.5	-13.9
+154.5	-12.9
+144.5	-13.64
+134.5	-12.66
+124.5	-14.84
+114.5	-15.3
+104.5	-15.6
+94.5	-16.12
+84.5	-14.96
+74.5	-15.23
+64.5	-15.79
+54.5	-15.59
+44.5	-14.94
+34.5	-15.16
+24.5	-15.86
+14.5	-16.03
+4.5	-15.54

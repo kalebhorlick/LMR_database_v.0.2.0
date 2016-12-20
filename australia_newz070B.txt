@@ -1,0 +1,430 @@
+# australia_newz070 - Rahu Saddle - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: australia_newz070 - Rahu Saddle - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Rahu Saddle
+#	Location:
+#	Country: New Zealand
+#	Northernmost_Latitude: -42.32
+#	Southernmost_Latitude: -42.32
+#	Easternmost_Longitude: 172.12
+#	Westernmost_Longitude: 172.12
+#	Elevation: 672 m
+#--------------------
+# Data_Collection
+#	Collection_Name: australia_newz070B
+#	Earliest_Year: 1653
+#	Most_Recent_Year: 1991
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}{"VSLite_parameters":{"T1":"4.43983921201","T2":"13.2794444815","M1":"0.0228016054304","M2":"0.482791789645"}}
+#--------------------
+# Species
+#	Species_Name: New Zealand cedar
+#	Species_Code: LIBI
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1653	0.861
+1654	0.75
+1655	0.806
+1656	0.789
+1657	0.655
+1658	0.646
+1659	0.685
+1660	0.629
+1661	0.687
+1662	0.725
+1663	0.85
+1664	0.947
+1665	0.975
+1666	1.016
+1667	0.862
+1668	1.015
+1669	0.746
+1670	0.823
+1671	1.322
+1672	1.145
+1673	0.862
+1674	0.943
+1675	1.1
+1676	1.038
+1677	0.997
+1678	0.648
+1679	0.697
+1680	0.822
+1681	1.08
+1682	0.787
+1683	0.817
+1684	0.93
+1685	1.034
+1686	0.86
+1687	0.718
+1688	0.972
+1689	1.038
+1690	1.057
+1691	0.824
+1692	1.005
+1693	1.09
+1694	1.214
+1695	1.094
+1696	1.014
+1697	0.675
+1698	0.892
+1699	0.837
+1700	0.865
+1701	0.89
+1702	0.714
+1703	0.724
+1704	0.734
+1705	0.726
+1706	0.743
+1707	0.542
+1708	0.677
+1709	0.795
+1710	0.679
+1711	0.901
+1712	0.793
+1713	0.644
+1714	0.793
+1715	0.796
+1716	0.924
+1717	0.779
+1718	0.732
+1719	0.89
+1720	1.184
+1721	0.953
+1722	0.789
+1723	1.068
+1724	1.266
+1725	1.225
+1726	1.087
+1727	1.375
+1728	1.946
+1729	1.138
+1730	1.161
+1731	0.928
+1732	0.902
+1733	1.108
+1734	1.371
+1735	1.358
+1736	1.157
+1737	0.881
+1738	0.843
+1739	1.109
+1740	1.071
+1741	0.696
+1742	1.043
+1743	1.026
+1744	0.927
+1745	1.697
+1746	1.628
+1747	1.554
+1748	1.503
+1749	1.148
+1750	0.957
+1751	1.427
+1752	0.903
+1753	0.728
+1754	0.719
+1755	0.872
+1756	0.762
+1757	0.72
+1758	0.708
+1759	0.785
+1760	1.152
+1761	1.166
+1762	1.238
+1763	1.313
+1764	1.434
+1765	1.309
+1766	1.444
+1767	1.202
+1768	1.03
+1769	1.186
+1770	0.504
+1771	0.661
+1772	0.552
+1773	0.604
+1774	0.577
+1775	0.735
+1776	0.584
+1777	0.972
+1778	0.916
+1779	0.783
+1780	0.898
+1781	1.09
+1782	1.149
+1783	1.244
+1784	0.897
+1785	0.939
+1786	0.936
+1787	0.78
+1788	0.6
+1789	0.9
+1790	0.803
+1791	0.804
+1792	0.941
+1793	0.882
+1794	0.815
+1795	0.779
+1796	0.715
+1797	0.884
+1798	0.909
+1799	0.843
+1800	0.936
+1801	0.681
+1802	0.76
+1803	0.842
+1804	1.282
+1805	1.375
+1806	0.928
+1807	0.846
+1808	1.249
+1809	1.382
+1810	1.351
+1811	1.253
+1812	1.364
+1813	1.23
+1814	1.136
+1815	1.351
+1816	1.232
+1817	1.009
+1818	1.188
+1819	1.025
+1820	0.936
+1821	0.862
+1822	0.923
+1823	0.922
+1824	1.08
+1825	1.201
+1826	0.635
+1827	0.997
+1828	1.228
+1829	1.027
+1830	0.869
+1831	0.978
+1832	0.795
+1833	0.663
+1834	0.639
+1835	0.775
+1836	0.965
+1837	0.994
+1838	0.945
+1839	0.927
+1840	0.76
+1841	0.944
+1842	0.907
+1843	0.971
+1844	1.031
+1845	1.163
+1846	1.03
+1847	1.011
+1848	1.075
+1849	0.88
+1850	1.081
+1851	1.033
+1852	1.067
+1853	1.082
+1854	0.814
+1855	0.802
+1856	0.875
+1857	1.16
+1858	1.03
+1859	0.864
+1860	1.212
+1861	1.221
+1862	1.088
+1863	1.017
+1864	1.093
+1865	1.058
+1866	1.147
+1867	0.83
+1868	0.901
+1869	0.842
+1870	0.738
+1871	0.644
+1872	0.462
+1873	0.492
+1874	0.874
+1875	0.975
+1876	0.978
+1877	1.31
+1878	1.321
+1879	1.413
+1880	1.005
+1881	0.847
+1882	0.783
+1883	0.743
+1884	1.024
+1885	0.864
+1886	1.028
+1887	0.873
+1888	1.098
+1889	1.175
+1890	1.189
+1891	1.137
+1892	1.397
+1893	1.404
+1894	1.11
+1895	1.291
+1896	1.603
+1897	1.553
+1898	1.532
+1899	1.573
+1900	1.374
+1901	1.342
+1902	1.149
+1903	1.08
+1904	0.749
+1905	0.756
+1906	0.857
+1907	0.552
+1908	0.513
+1909	0.31
+1910	0.261
+1911	0.364
+1912	0.417
+1913	0.627
+1914	0.784
+1915	0.92
+1916	0.589
+1917	0.789
+1918	0.815
+1919	0.927
+1920	1.005
+1921	1.124
+1922	1.119
+1923	1.216
+1924	1.163
+1925	1.061
+1926	1.302
+1927	1.328
+1928	1.023
+1929	1.035
+1930	0.911
+1931	1.014
+1932	1.533
+1933	1.617
+1934	1.401
+1935	0.703
+1936	0.792
+1937	0.866
+1938	0.517
+1939	0.592
+1940	0.815
+1941	0.972
+1942	0.928
+1943	1.005
+1944	1.158
+1945	1.203
+1946	1.197
+1947	0.988
+1948	1.099
+1949	1.188
+1950	1.158
+1951	0.733
+1952	0.867
+1953	0.643
+1954	0.672
+1955	0.514
+1956	0.392
+1957	0.489
+1958	0.517
+1959	0.566
+1960	0.742
+1961	0.636
+1962	0.647
+1963	0.801
+1964	0.752
+1965	0.757
+1966	0.759
+1967	0.743
+1968	0.706
+1969	0.605
+1970	0.657
+1971	0.525
+1972	0.692
+1973	0.715
+1974	0.863
+1975	0.816
+1976	0.82
+1977	0.951
+1978	0.784
+1979	0.773
+1980	0.636
+1981	0.627
+1982	0.78
+1983	0.886
+1984	0.982
+1985	0.87
+1986	0.855
+1987	1.091
+1988	0.986
+1989	1.302
+1990	1.217
+1991	1.082

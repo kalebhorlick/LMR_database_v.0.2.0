@@ -1,0 +1,309 @@
+# PAGES2kv2_Ocean2kHR-AtlanticBermudaGoodkin2006LMR584 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticBermudaGoodkin2006LMR584 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Tierney, Jessica E.,Abram, Nerilie J.,Anchukaitis, Kevin J.,Evans, Michael N.,Giry, Cyril,Kilbourne, K. Halimeda,Saenger, Casey P.,Wu, Henry C.,Zinke, Jens
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Tierney, Jessica E.,Abram, Nerilie J.,Anchukaitis, Kevin J.,Evans, Michael N.,Giry, Cyril,Kilbourne, K. Halimeda,Saenger, Casey P.,Wu, Henry C.,Zinke, Jens
+#	Published_Date_or_Year: 
+#	Published_Title: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1002/2014PA002717
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Bermuda south shore
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 30.6486
+#	Southernmost_Latitude: 30.6486
+#	Easternmost_Longitude: -64.9888
+#	Westernmost_Longitude: -64.9888
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticBermudaGoodkin2006LMR584
+#	Earliest_Year: 1781
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":{"duplicate_file1":"08berm01a.txt", "duplicate_file2":"08berm01b.txt", "duplicate_file3":"08berm01c.txt"}} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, , Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+1998	9.288
+1997	9.28
+1996	9.291
+1995	9.309
+1994	9.281
+1993	9.306
+1992	9.31
+1991	9.298
+1990	9.254
+1989	9.291
+1988	9.354
+1987	9.281
+1986	9.277
+1985	9.28
+1984	9.281
+1983	9.295
+1982	9.286
+1981	9.386
+1980	9.32
+1979	9.266
+1978	9.327
+1977	9.275
+1976	9.263
+1975	9.279
+1974	9.251
+1973	9.322
+1972	9.259
+1971	9.268
+1970	9.256
+1969	9.236
+1968	9.248
+1967	9.276
+1966	9.16
+1965	9.236
+1964	9.223
+1963	9.246
+1962	9.189
+1961	9.196
+1960	9.234
+1959	9.259
+1958	9.157
+1957	9.241
+1956	9.259
+1955	9.222
+1954	9.159
+1953	9.189
+1952	9.221
+1951	9.239
+1950	9.296
+1949	9.342
+1948	9.358
+1947	9.385
+1946	9.303
+1945	9.346
+1944	9.329
+1943	9.34
+1942	9.273
+1941	9.266
+1940	9.264
+1939	9.228
+1938	9.228
+1937	9.245
+1936	9.278
+1935	9.276
+1934	9.262
+1933	9.287
+1932	9.34
+1931	9.26
+1930	9.287
+1929	9.297
+1928	9.249
+1927	9.243
+1926	9.278
+1925	9.286
+1924	9.263
+1923	9.302
+1922	9.282
+1921	9.253
+1920	9.346
+1919	9.381
+1918	9.374
+1917	9.392
+1916	9.321
+1915	9.351
+1914	9.339
+1913	9.343
+1912	9.373
+1911	9.291
+1910	9.246
+1909	9.245
+1908	9.303
+1907	9.306
+1906	9.393
+1905	9.276
+1904	9.341
+1903	9.362
+1902	9.315
+1901	9.378
+1900	9.436
+1899	9.302
+1898	9.288
+1897	9.28
+1896	9.314
+1895	9.407
+1894	9.421
+1893	9.313
+1892	9.221
+1891	9.184
+1890	9.169
+1889	9.212
+1888	9.211
+1887	9.232
+1886	9.304
+1885	9.297
+1884	9.325
+1883	9.313
+1882	9.331
+1881	9.36
+1880	9.307
+1879	9.321
+1878	9.263
+1877	9.318
+1876	9.262
+1875	9.32
+1874	9.302
+1873	9.263
+1872	9.272
+1871	9.227
+1870	9.351
+1869	9.413
+1868	9.328
+1867	9.389
+1866	9.424
+1865	9.331
+1864	9.439
+1863	9.406
+1862	9.34
+1861	9.48
+1860	9.436
+1859	9.418
+1858	9.461
+1857	9.337
+1856	9.417
+1855	9.454
+1854	9.386
+1853	9.446
+1852	9.385
+1851	9.413
+1850	9.396
+1849	9.489
+1848	9.502
+1847	9.408
+1846	9.493
+1845	9.434
+1844	9.364
+1843	9.333
+1842	9.317
+1841	9.35
+1840	9.43
+1839	9.425
+1838	9.34
+1837	9.329
+1836	9.381
+1835	9.414
+1834	9.371
+1833	9.346
+1832	9.452
+1831	9.411
+1830	9.408
+1829	9.418
+1828	9.478
+1827	9.371
+1826	9.445
+1825	9.472
+1824	9.416
+1823	9.368
+1822	9.429
+1821	9.424
+1820	9.299
+1819	9.404
+1818	9.4
+1817	9.366
+1816	9.322
+1815	9.299
+1814	9.335
+1813	9.36
+1812	9.382
+1811	9.363
+1810	9.32
+1809	9.289
+1808	9.365
+1807	9.333
+1806	9.366
+1805	9.309
+1804	9.257
+1803	9.339
+1802	9.303
+1801	9.275
+1800	9.326
+1799	9.318
+1798	9.325
+1797	9.296
+1796	9.345
+1795	9.344
+1794	9.301
+1793	9.277
+1792	9.222
+1791	9.301
+1790	9.315
+1789	9.3
+1788	9.266
+1787	9.301
+1786	9.333
+1785	9.342
+1784	9.359
+1783	9.448
+1782	9.352
+1781	9.328

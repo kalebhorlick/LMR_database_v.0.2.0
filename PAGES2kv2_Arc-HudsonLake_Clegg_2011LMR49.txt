@@ -1,0 +1,135 @@
+# PAGES2kv2_Arc-HudsonLake_Clegg_2011LMR49 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-HudsonLake_Clegg_2011LMR49 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Barley, Erin M.,Walker, Ian R.,Kurek, Joshua,Cwynar, Les C.,Mathewes, Rolf W.,Gajewski, Konrad,Finney, Bruce P.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Barley, Erin M.,Walker, Ian R.,Kurek, Joshua,Cwynar, Les C.,Mathewes, Rolf W.,Gajewski, Konrad,Finney, Bruce P.
+#	Published_Date_or_Year: 
+#	Published_Title: A northwest North American training set: distribution of freshwater midges in relation to air temperature and lake depth
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s10933-006-0014-6
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Hudson Lake
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 61.9
+#	Southernmost_Latitude: 61.9
+#	Easternmost_Longitude: -145.66
+#	Westernmost_Longitude: -145.66
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-HudsonLake_Clegg_2011LMR49
+#	Earliest_Year: -837.3
+#	Most_Recent_Year: 1996.8
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	, , , degrees C, "[7]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1996.8	12.4427
+1982.85	11.8305
+1963.95	11.9809
+1952.0	12.1493
+1934.4	12.684
+1906.3	11.7884
+1852.9	12.2451
+1755.25	11.863
+1732.55	11.6209
+1710.05	11.8002
+1639.85	12.1686
+1616.5	11.7739
+1592.95	12.187
+1521.85	11.7845
+1499.05	12.144
+1476.5	12.3654
+1442.55	12.0741
+1407.9	11.6462
+1246.7	12.3892
+1155.2	11.3719
+1101.9	11.7572
+948.95	11.8965
+903.4	11.6004
+872.3	11.5167
+840.85	12.418
+793.8	11.6817
+746.4	11.9513
+716.15	12.0283
+644.2	11.6253
+515.3	12.1099
+460.6	11.808
+436.35	11.8162
+394.9	12.3465
+222.8	12.1149
+162.75	11.7374
+114.1	11.9071
+114.1	11.7977
+-20.3	12.076
+-82.15	12.278
+-193.8	12.4379
+-318.9	12.4789
+-464.5	12.1902
+-653.3	12.0892
+-837.3	12.2841

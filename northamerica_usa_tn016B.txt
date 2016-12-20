@@ -1,0 +1,314 @@
+# northamerica_usa_tn016 - Boogerman Trail Tennessee - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_usa_tn016 - Boogerman Trail Tennessee - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Boogerman Trail Tennessee
+#	Location:
+#	Country: United States
+#	Northernmost_Latitude: 35.6
+#	Southernmost_Latitude: 35.6
+#	Easternmost_Longitude: -83.08
+#	Westernmost_Longitude: -83.08
+#	Elevation: 1065 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_usa_tn016B
+#	Earliest_Year: 1773
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"3.18559114417","T2":"19.0863653453","M1":"0.0224284572325","M2":"0.538104873243"}}
+#--------------------
+# Species
+#	Species_Name: tuliptree
+#	Species_Code: LITU
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1773	1.294
+1774	0.113
+1775	0.983
+1776	1.037
+1777	0.97
+1778	0.998
+1779	0.743
+1780	1.369
+1781	0.966
+1782	1.538
+1783	2.28
+1784	1.156
+1785	0.944
+1786	1.14
+1787	1.291
+1788	0.977
+1789	1.027
+1790	1.069
+1791	1.184
+1792	1.203
+1793	1.529
+1794	1.511
+1795	1.281
+1796	1.538
+1797	0.827
+1798	0.501
+1799	0.699
+1800	0.859
+1801	0.93
+1802	1.18
+1803	1.14
+1804	1.107
+1805	1.318
+1806	1.23
+1807	1.066
+1808	0.75
+1809	0.973
+1810	1.155
+1811	1.087
+1812	0.868
+1813	0.801
+1814	1.23
+1815	0.9
+1816	0.687
+1817	0.905
+1818	0.772
+1819	0.711
+1820	1.032
+1821	0.748
+1822	0.942
+1823	1.152
+1824	1.039
+1825	1.528
+1826	1.14
+1827	1.515
+1828	1.55
+1829	1.12
+1830	1.017
+1831	0.966
+1832	0.892
+1833	0.929
+1834	0.923
+1835	0.932
+1836	0.832
+1837	0.696
+1838	0.94
+1839	0.553
+1840	1.307
+1841	0.761
+1842	0.997
+1843	0.989
+1844	0.875
+1845	1.001
+1846	0.856
+1847	0.901
+1848	0.752
+1849	0.728
+1850	1.151
+1851	1.119
+1852	1.007
+1853	1.038
+1854	0.793
+1855	1.086
+1856	0.825
+1857	0.807
+1858	0.69
+1859	0.649
+1860	0.828
+1861	0.881
+1862	1.12
+1863	0.832
+1864	0.727
+1865	0.739
+1866	1.054
+1867	0.876
+1868	0.994
+1869	0.8
+1870	0.979
+1871	1.008
+1872	1.118
+1873	0.895
+1874	0.575
+1875	1.1
+1876	1.083
+1877	0.967
+1878	1.103
+1879	0.644
+1880	0.987
+1881	1.064
+1882	0.945
+1883	0.792
+1884	1.095
+1885	0.711
+1886	0.506
+1887	0.784
+1888	0.864
+1889	1.086
+1890	0.867
+1891	0.901
+1892	1.029
+1893	0.942
+1894	0.775
+1895	0.898
+1896	0.596
+1897	1.741
+1898	0.932
+1899	0.821
+1900	0.842
+1901	1.127
+1902	1.037
+1903	1.405
+1904	0.73
+1905	0.879
+1906	0.986
+1907	1.076
+1908	0.802
+1909	1.141
+1910	0.857
+1911	0.815
+1912	0.952
+1913	1.427
+1914	0.627
+1915	1.189
+1916	1.544
+1917	1.18
+1918	0.742
+1919	1.212
+1920	0.736
+1921	0.91
+1922	1.324
+1923	1.612
+1924	1.132
+1925	0.62
+1926	0.712
+1927	0.92
+1928	1.576
+1929	1.314
+1930	0.918
+1931	0.86
+1932	1.019
+1933	1.286
+1934	1.796
+1935	1.523
+1936	1.036
+1937	1.557
+1938	1.517
+1939	1.443
+1940	1.2
+1941	1.127
+1942	1.236
+1943	1.325
+1944	0.829
+1945	0.836
+1946	1.176
+1947	0.832
+1948	0.937
+1949	1.063
+1950	1.417
+1951	1.258
+1952	0.917
+1953	1.157
+1954	0.773
+1955	0.887
+1956	0.912
+1957	1.092
+1958	0.71
+1959	0.798
+1960	1.012
+1961	0.988
+1962	0.908
+1963	0.688
+1964	0.733
+1965	0.661
+1966	0.17
+1967	0.624
+1968	0.752
+1969	0.703
+1970	0.62
+1971	0.772
+1972	1.04
+1973	1.003
+1974	1.083
+1975	0.78
+1976	0.848
+1977	0.757
+1978	0.655
+1979	0.699
+1980	0.917
+1981	0.725
+1982	0.909
+1983	0.766
+1984	0.621
+1985	0.808
+1986	0.595
+1987	0.752
+1988	0.695
+1989	1.074
+1990	1.019
+1991	1.081
+1992	1.346
+1993	1.357
+1994	1.327
+1995	1.784

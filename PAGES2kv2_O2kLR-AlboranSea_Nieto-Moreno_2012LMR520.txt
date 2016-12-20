@@ -1,0 +1,141 @@
+# PAGES2kv2_O2kLR-AlboranSea_Nieto-Moreno_2012LMR520 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-AlboranSea_Nieto-Moreno_2012LMR520 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Alboran Sea
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 36.2053
+#	Southernmost_Latitude: 36.2053
+#	Easternmost_Longitude: -4.3133
+#	Westernmost_Longitude: -4.3133
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-AlboranSea_Nieto-Moreno_2012LMR520
+#	Earliest_Year: 564.36
+#	Most_Recent_Year: 1999.07
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1999.07	18.79
+1993.12	19.38
+1987.17	19.61
+1975.26	18.88
+1963.36	18.74
+1957.4	19.25
+1951.45	18.98
+1919.19	19.2
+1886.94	19.4
+1854.68	18.84
+1822.42	19.06
+1790.16	19.48
+1757.9	18.7
+1725.65	18.52
+1693.39	18.92
+1661.13	18.71
+1628.87	19.17
+1596.61	18.97
+1564.36	18.79
+1532.1	18.87
+1499.84	18.77
+1467.58	19.22
+1435.32	18.73
+1403.07	19.16
+1370.81	18.7
+1338.55	18.8
+1306.29	18.65
+1274.03	19.24
+1241.77	19.1
+1209.52	18.82
+1177.26	18.97
+1145.0	19.12
+1112.74	18.95
+1080.48	19.3
+1048.23	19.73
+1015.97	19.14
+983.71	19.46
+951.45	18.74
+919.19	19.63
+886.94	19.24
+854.68	19.43
+822.42	19.25
+790.16	19.08
+757.9	18.65
+725.65	19.18
+693.39	18.89
+661.13	20.0
+628.87	19.1
+596.61	18.86
+564.36	19.04

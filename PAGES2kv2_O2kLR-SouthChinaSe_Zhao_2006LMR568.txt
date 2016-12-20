@@ -1,0 +1,134 @@
+# PAGES2kv2_O2kLR-SouthChinaSe_Zhao_2006LMR568 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-SouthChinaSe_Zhao_2006LMR568 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: South China Sea
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 8.73
+#	Southernmost_Latitude: 8.73
+#	Easternmost_Longitude: 109.869
+#	Westernmost_Longitude: 109.869
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-SouthChinaSe_Zhao_2006LMR568
+#	Earliest_Year: -182.03
+#	Most_Recent_Year: 992.55
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	sea surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+992.55	27.47
+979.58	27.05
+966.61	27.69
+940.67	28.01
+927.7	27.43
+914.73	27.19
+888.8	27.48
+875.83	27.23
+862.86	28.1
+836.92	27.33
+823.95	27.37
+810.98	27.56
+785.05	26.99
+772.08	27.07
+759.11	27.47
+733.17	27.65
+720.2	27.09
+707.23	27.73
+681.3	27.29
+668.33	26.99
+655.36	27.14
+629.42	27.37
+603.48	28.03
+564.08	27.39
+542.14	26.99
+520.19	27.82
+476.31	27.23
+432.42	27.26
+388.53	27.2
+344.64	26.7
+300.75	27.28
+278.81	27.25
+256.86	27.2
+212.97	27.42
+169.08	27.49
+125.19	27.27
+81.31	27.83
+37.42	27.34
+-6.47	27.79
+-50.36	27.02
+-94.25	27.73
+-138.14	27.83
+-182.03	28.0

@@ -1,0 +1,107 @@
+# PAGES2kv2_O2kLR-SWcoastofInd_Saraswat_2013LMR565 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-SWcoastofInd_Saraswat_2013LMR565 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Saraswat, Rajeev,Lea, David W.,Nigam, Rajiv,Mackensen, Andreas,Naik, Dinesh K.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Saraswat, Rajeev,Lea, David W.,Nigam, Rajiv,Mackensen, Andreas,Naik, Dinesh K.
+#	Published_Date_or_Year: 
+#	Published_Title: Deglaciation in the tropical Indian Ocean driven by interplay between the regional monsoon and global teleconnections
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.epsl.2013.05.022
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: SW coast of India, Indian ocean
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 10.98
+#	Southernmost_Latitude: 10.98
+#	Easternmost_Longitude: 74.9993
+#	Westernmost_Longitude: 74.9993
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-SWcoastofInd_Saraswat_2013LMR565
+#	Earliest_Year: -310
+#	Most_Recent_Year: 1835
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1835	28.18
+1660	28.08
+1441	28.76
+1353	28.05
+1266	28.64
+1178	29.24
+1091	27.89
+1003	27.81
+916	27.93
+828	28.55
+741	27.87
+653	28.77
+566	29.13
+478	28.2
+390	28.97
+303	28.42

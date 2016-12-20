@@ -1,0 +1,116 @@
+# PAGES2kv2_O2kLR-Chileanmargi_Lamy_2002LMR529 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-Chileanmargi_Lamy_2002LMR529 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Lamy, Frank,Rühlemann, Carsten,Hebbeln, Dierk,Wefer, Gerold
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Lamy, Frank,Rühlemann, Carsten,Hebbeln, Dierk,Wefer, Gerold
+#	Published_Date_or_Year: 
+#	Published_Title: High- and low-latitude climate control on the position of the southern Peru-Chile Current during the Holocene
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2001PA000727
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Chilean margin, Southern Ocean (Pacific sector)
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -41
+#	Southernmost_Latitude: -41
+#	Easternmost_Longitude: -74.45
+#	Westernmost_Longitude: -74.45
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-Chileanmargi_Lamy_2002LMR529
+#	Earliest_Year: -5721.25
+#	Most_Recent_Year: 1929.473684
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1650	14.67
+1572	14.91
+1494	14.62
+1416	14.81
+1338	14.89
+1260	15.03
+1182	14.97
+1104	15.34
+1026	15.33
+948	15.2
+870	15.03
+792	15.16
+717	15.17
+679	15.14
+642	15.14
+567	15.35
+491	15.29
+416	15.59
+379	15.56
+341	15.44
+266	15.28
+191	15.18
+154	15.08
+79	15.04
+4	15.01

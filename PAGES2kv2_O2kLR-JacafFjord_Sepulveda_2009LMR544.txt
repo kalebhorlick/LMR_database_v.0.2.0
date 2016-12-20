@@ -1,0 +1,155 @@
+# PAGES2kv2_O2kLR-JacafFjord_Sepulveda_2009LMR544 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-JacafFjord_Sepulveda_2009LMR544 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Jacaf Fjord
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -44.33
+#	Southernmost_Latitude: -44.33
+#	Easternmost_Longitude: -72.97
+#	Westernmost_Longitude: -72.97
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-JacafFjord_Sepulveda_2009LMR544
+#	Earliest_Year: 211.87
+#	Most_Recent_Year: 1873.68
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Alkenone", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[9, 10, 11]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[9, 10, 11]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1784.11	11.76
+1767.82	11.27
+1759.68	11.39
+1751.53	11.46
+1702.67	11.27
+1694.53	10.57
+1686.39	11.55
+1661.96	11.09
+1645.67	9.65
+1613.1	10.26
+1604.95	11.84
+1580.52	9.83
+1572.38	11.34
+1564.24	10.84
+1539.81	10.06
+1507.23	9.65
+1482.8	11.8
+1466.52	9.92
+1442.09	11.72
+1433.94	12.09
+1409.51	11.65
+1401.37	11.17
+1376.94	10.8
+1360.65	11.48
+1319.94	11.2
+1279.22	10.46
+1238.5	10.03
+1214.07	9.7
+1182.74	10.89
+1170.61	11.74
+1158.47	11.48
+1134.2	12.05
+1122.06	11.13
+1097.79	11.08
+1073.52	11.82
+1061.38	11.58
+1049.25	12.56
+1037.11	11.19
+1012.84	12.48
+976.43	10.69
+940.02	12.12
+915.75	12.38
+879.34	12.81
+867.21	12.02
+830.8	11.4
+806.53	12.12
+770.12	12.07
+721.58	12.19
+685.17	13.03
+660.9	11.82
+624.49	12.28
+575.95	12.81
+563.81	12.74
+551.67	12.04
+527.4	11.62
+515.27	12.95
+478.86	12.42
+454.59	12.34
+418.18	12.59
+369.64	11.55
+345.36	12.67
+284.68	12.99
+211.87	11.71
+211.87	12.51

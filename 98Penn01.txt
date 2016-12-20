@@ -1,0 +1,184 @@
+﻿# Penny Ice Cap d18O
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_study_id:2474
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/polar/penny/readme_penny.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2003
+# --------------------
+# Title 
+#	Study_Name: Penny Ice Cap d18O
+# --------------------
+# Investigators
+#	Investigators: Fisher, D.A.; Koerner, R.M.; Paterson, W.S.B.; Dansgaard, W.; Gundestrup, N. 
+# --------------------
+# Description_and_Notes
+# 	Description: Penny Ice Cap, Baffin Island, Canada  67° 15'N, 65° 45'W, 1900m.
+#
+#	Snowpits were excavated in 1994 and 1995. 
+#
+#	The 333.78m. P95 core was drilled to the bed in April-May 1995.
+#	The 89m. P95.2 core was drilled adjacent to the P95 core (2.5 m. away) 
+#	for evaluation of noise in the record. The d18O correlation between 
+#	the two cores is .80.  
+#
+#	The 177.91m. P96 core also reached the bed.  It is located
+#	approximately 16 km. from P95.  The P95-P96 correlation of d18O 
+#	on 40-year segments is .3 to .5.
+#
+#	The P95 core was dated back to 7900 yr ago (319 m) by spectral analysis of 
+#	the electrical conductivity record which tracks seasonal chemical variations 
+#	(Fisher et al. 1998; Grumet et al., 1998. Additional time control was provided 
+#	by conductivity and sulfate peaks related major volcanic eruptions. 
+#	Beyond 7900 yr ago, the depth-age curve was adjusted to match the end of the 
+#	Younger Dryas-Holocene transition (326 m) dated at 11,550 +/- 70 yr ago in 
+#	Greenland ice-core records. Age values for the P95 microparticle record are 
+#	expressed in years before A.D. 2000 (yb2k)
+#
+# --------------------
+# Publication
+#	Authors: D.A. Fisher, R. M. Koerner, J. C. Bourgeois, G. Zielinski, C. Wake, C. U. Hammer, H. B. Clausen, N. Gundestrup, S. Johnsen, K. Goto-Azuma, T. Hondoh, E. Blake, and M. Gerasimoff
+#	Published_Date_or_Year: 1998
+#	Published_Title: Penny ice cap cores, Baffin Island, Canada, and the Wisconsinan Foxe Dome connection: Two states of Hudson Bay ice cover
+#	Journal_Name: Science
+#	Volume: 279
+#	Edition: 	
+#	Issue: 
+#	Pages: 692-695 
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Ice cores from Penny Ice Cap, Baffin Island, Canada, provide continuous  Holocene records of oxygen isotopic composition (d18O, proxy for temperature)  and atmospheric impurities. A time scale was established with the use of  altered seasonal variations, some volcanic horizons, and the age for the  end of the Wisconsin ice age determined from the GRIP and GISP2 ice cores.  There is pre-Holocene ice near the bed. The change in d18O since the last  glacial maximum (LGM) is at least 12.5 per mil, compared with an expected  value of 7 per mil, suggesting that LGM ice originated at the much higher  elevations of the then existing Foxe Dome and Foxe Ridge of the Laurentide  Ice Sheet. The LGM d18O values suggest thick ice frozen to the bed of  Hudson Bay. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Penny Ice Cap
+#	Location: North America>Canada
+#	Country: Canada
+#	Northernmost_Latitude: 67.25
+#	Southernmost_Latitude: 67.25
+#	Easternmost_Longitude: -66.75
+#	Westernmost_Longitude: -66.75
+#	Elevation: 2100 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 98Penn01
+#	Earliest_Year: 34
+#	Most_Recent_Year: 1984
+#	Time_Unit: y_ad
+#	Notes: {"database":"LMR"} 
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	d18O
+1984	-24.2424
+1959	-24.2954
+1934	-23.8947
+1909	-23.686
+1884	-24.2922
+1859	-24.3414
+1834	-24.5694
+1809	-24.3462
+1784	-24.4846
+1759	-24.3235
+1734	-24.699
+1709	-24.7863
+1684	-24.4104
+1659	-24.4806
+1634	-23.5986
+1609	-23.9462
+1584	-23.8977
+1559	-24.902
+1534	-24.733
+1509	-24.3774
+1484	-24.1072
+1459	-24.5308
+1434	-24.0599
+1409	-23.9306
+1384	-24.2874
+1359	-23.6743
+1334	-24.2147
+1309	-23.9456
+1284	-24.5008
+1259	-24.6458
+1234	-24.0002
+1209	-24.2987
+1184	-23.6473
+1159	-24.6711
+1134	-24.0811
+1109	-24.3934
+1084	-24.0712
+1059	-24.1054
+1034	-24.2004
+1009	-24.3009
+984	-24.7188
+959	-24.0185
+934	-23.9228
+909	-24.0786
+884	-24.0786
+859	-24.3155
+834	-24.2749
+809	-24.1983
+784	-23.9845
+759	-24.1182
+734	-24.164
+709	-24.2519
+684	-24.5117
+659	-24.128
+634	-24.3695
+609	-24.2847
+584	-24.2279
+559	-24.1057
+534	-23.6045
+509	-24.0217
+484	-23.8699
+459	-24.28
+434	-24.4284
+409	-23.8488
+384	-23.6605
+359	-23.9733
+334	-24.2376
+309	-24.37
+284	-24.1377
+259	-24.2848
+234	-24.1387
+209	-24.9171
+184	-23.4861
+159	-23.4817
+134	-23.8702
+109	-24.2269
+84	-23.8177
+59	-23.8844
+34	-23.7103

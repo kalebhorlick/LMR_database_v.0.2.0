@@ -1,0 +1,238 @@
+# PAGES2kv2_Eur-NorthIceland_Ran_2011LMR347 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Eur-NorthIceland_Ran_2011LMR347 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Ran, Lihua,Jiang, Hui,Knudsen, Karen Luise,Eiríksson, Jón
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Ran, Lihua,Jiang, Hui,Knudsen, Karen Luise,Eiríksson, Jón
+#	Published_Date_or_Year: 
+#	Published_Title: Diatom-based reconstruction of palaeoceanographic changes on the North Icelandic shelf during the last millennium
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.palaeo.2010.02.001
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: North Icelandic shelf
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 66.5
+#	Southernmost_Latitude: 66.5
+#	Easternmost_Longitude: -17.66
+#	Westernmost_Longitude: -17.66
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Eur-NorthIceland_Ran_2011LMR347
+#	Earliest_Year: 940.9
+#	Most_Recent_Year: 2005.5
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"A modern analogue procedure was applied", "climateVariable":"T", "climateVariableDetail":"sea", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	reconstructed temperature from marine diatom sediments, , , degrees C, "[6, 7, 8]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+2005.5	8.10696
+2004.0	7.38346
+2002.5	7.70858
+2001.0	7.32178
+1999.5	6.91485
+1998.5	6.83722
+1997.0	7.1885
+1995.0	7.14155
+1993.0	7.2756
+1987.5	7.22341
+1980.5	7.10921
+1971.0	7.07521
+1961.5	6.77178
+1955.0	7.58244
+1947.25	7.41966
+1940.666667	7.07222
+1935.333313	6.96047
+1930.00002	7.10209
+1924.666667	7.15327
+1919.333313	6.70952
+1914.00002	7.30937
+1908.666667	6.6434
+1903.333313	6.42666
+1894.1833	7.10439
+1890.9167	6.93574
+1886.0167	7.21945
+1882.75	7.87574
+1877.85	6.91028
+1874.5833	7.219
+1869.6833	6.42736
+1866.4167	7.5604
+1861.5167	6.46225
+1858.25	7.10887
+1853.35	7.26391
+1850.0833	7.26271
+1845.183	7.44044
+1841.917	7.20648
+1837.017	7.40384
+1833.75	6.88161
+1828.85	5.78449
+1825.583	7.1187
+1820.683	6.34584
+1817.417	7.54132
+1812.517	6.71755
+1809.25	7.22412
+1804.35	7.252
+1801.083	7.28921
+1796.024	6.90273
+1792.122	7.25199
+1786.268	6.63582
+1782.366	7.36927
+1776.512	6.60858
+1772.61	7.34031
+1766.756	7.48651
+1762.854	7.18797
+1757.0	7.4351
+1753.098	7.51445
+1747.244	7.59113
+1743.341	7.385
+1737.488	7.00767
+1733.585	7.14667
+1727.732	8.15674
+1723.829	7.58025
+1717.976	7.26034
+1712.385	7.47758
+1703.154	6.43324
+1697.0	7.53727
+1687.769	7.36396
+1681.615	7.34605
+1672.385	7.25902
+1666.231	7.0361
+1657.0	7.13333
+1650.846	7.11887
+1641.615	6.8075
+1635.462	6.94591
+1626.231	6.66835
+1620.077	7.00232
+1610.846	6.94741
+1604.692	7.32348
+1595.462	6.91158
+1589.308	7.39788
+1580.077	7.15687
+1573.923	7.54147
+1564.692	7.16354
+1558.538	6.95133
+1549.308	7.02372
+1543.154	7.51518
+1533.923	7.34593
+1527.769	6.94847
+1518.538	6.70014
+1512.385	7.31018
+1503.154	7.05279
+1497.0	6.83094
+1487.769	6.00562
+1481.615	6.76384
+1473.65	6.83093
+1469.183	7.18799
+1462.483	6.68196
+1458.017	6.82181
+1451.317	7.54403
+1446.85	7.88858
+1440.15	7.60873
+1435.683	7.04477
+1428.983	7.41503
+1424.517	7.26922
+1417.817	6.8139
+1413.35	7.33432
+1404.5	7.10663
+1397.167	7.09703
+1386.167	7.19768
+1378.833	7.5903
+1367.833	6.1169
+1360.5	7.18952
+1349.5	6.8989
+1342.167	7.53738
+1331.167	6.26937
+1323.833	7.07842
+1312.833	7.25071
+1305.5	7.73542
+1292.054	7.53992
+1281.459	7.614
+1265.568	7.5289
+1254.973	7.4325
+1239.081	8.05543
+1228.487	7.95547
+1212.595	7.82955
+1202.0	7.892
+1186.108	7.83263
+1175.513	8.24274
+1159.622	7.49444
+1149.027	7.72614
+1133.135	7.48988
+1122.541	8.34435
+1106.649	7.12631
+1096.233	7.93987
+1080.7	8.04991
+1070.344	7.83207
+1054.811	7.37958
+1044.456	7.93114
+1028.922	7.51353
+1018.567	8.01497
+1003.033	8.13802
+992.678	8.30155
+977.144	8.13973
+966.789	7.75128
+951.256	7.71722
+940.9	7.71247

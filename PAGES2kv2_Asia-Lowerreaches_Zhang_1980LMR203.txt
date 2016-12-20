@@ -1,0 +1,141 @@
+# PAGES2kv2_Asia-Lowerreaches_Zhang_1980LMR203 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Documents
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-Lowerreaches_Zhang_1980LMR203 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Zhang D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Zhang D.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Lower reaches of the Yangtze River
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 32.1
+#	Southernmost_Latitude: 32.1
+#	Easternmost_Longitude: 118.8
+#	Westernmost_Longitude: 118.8
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-Lowerreaches_Zhang_1980LMR203
+#	Earliest_Year: 1470
+#	Most_Recent_Year: 1960
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Frequency of cold/warm years, winter temperature, , , , "[-12, 1, 2]", Documents, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1470	1.05955275636
+1480	-0.131393916426
+1490	1.30360019919
+1500	-1.63472291047
+1510	-0.482822062047
+1520	0.991221638398
+1530	1.55740966851
+1540	1.69407491281
+1550	0.717888132974
+1560	-0.150917952522
+1570	0.122414048713
+1580	0.132176066761
+1590	-0.131393916426
+1600	0.102890012616
+1610	0.415268581855
+1620	-0.502346098143
+1630	-1.16615280455
+1640	-1.0978201824
+1650	-0.277822682961
+1660	-1.68256445506
+1670	0.105233919458
+1680	-0.72516407559
+1690	-1.33086590188
+1700	1.86372521499
+1710	-0.744703136676
+1720	0.105233919458
+1730	1.54133524498
+1740	-0.607931221712
+1750	0.105233919458
+1760	-0.520006959464
+1770	0.91609436606
+1780	0.925862392414
+1790	-0.852166460011
+1800	0.408084828376
+1810	1.02355768939
+1820	-1.35040495451
+1830	-1.09640019412
+1840	-1.36017448506
+1850	0.57416533497
+1860	-0.832627398925
+1870	-1.94633725026
+1880	0.447162950549
+1890	0.0954636199197
+1900	1.2775601766
+1910	0.417853589924
+1920	0.398314528838
+1930	0.974709259233
+1940	1.58041108552
+1950	0.99424832032
+1960	0.40808556357

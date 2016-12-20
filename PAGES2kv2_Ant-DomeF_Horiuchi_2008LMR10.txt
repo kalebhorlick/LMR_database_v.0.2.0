@@ -1,0 +1,211 @@
+# PAGES2kv2_Ant-DomeF_Horiuchi_2008LMR10 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ant-DomeF_Horiuchi_2008LMR10 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Horiuchi, Kazuho,Uchida, Tomoko,Sakamoto, Yuko,Ohta, Aoi,Matsuzaki, Hiroyuki,Shibata, Yasuyuki,Motoyama, Hideaki
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Horiuchi, Kazuho,Uchida, Tomoko,Sakamoto, Yuko,Ohta, Aoi,Matsuzaki, Hiroyuki,Shibata, Yasuyuki,Motoyama, Hideaki
+#	Published_Date_or_Year: 
+#	Published_Title: Ice core record of 10Be over the past millennium from Dome Fuji, Antarctica: A new proxy record of past solar activity and a powerful tool for stratigraphic dating
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.quageo.2008.01.003
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Dome F
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -77.32
+#	Southernmost_Latitude: -77.32
+#	Easternmost_Longitude: 39.7
+#	Westernmost_Longitude: 39.7
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ant-DomeF_Horiuchi_2008LMR10
+#	Earliest_Year: 695
+#	Most_Recent_Year: 1868.6
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	oxygen isotope ratio, , , permil, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Ice Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1868.6	-55.1154192378
+1862.18	-55.6394248489
+1855.15	-54.7707458375
+1846.87	-56.1372991726
+1838.96	-56.2137508854
+1830.35	-56.984844739
+1822.69	-55.4446125699
+1815.0	-54.8143611684
+1805.44	-56.8462090953
+1795.28	-57.0984065196
+1785.0	-56.0090659379
+1777.57	-56.9504410345
+1770.11	-55.020007612
+1762.57	-56.4701676823
+1755.0	-54.0864977904
+1746.68	-55.4525977347
+1738.73	-55.4530893144
+1730.75	-55.9849785334
+1722.31	-55.0180412932
+1713.82	-57.0202211018
+1705.29	-57.1028108194
+1697.58	-56.3781843687
+1691.74	-56.7906413511
+1685.0	-55.9848999992
+1672.51	-55.7150086007
+1660.6	-55.9185332619
+1649.39	-56.7980154331
+1637.5	-55.8757635867
+1625.81	-56.8388186864
+1615.36	-55.6532497452
+1605.0	-55.6301450427
+1595.53	-54.9635497961
+1586.02	-56.2495477055
+1576.93	-56.5125480425
+1566.66	-55.5741038494
+1555.42	-53.6731275819
+1544.14	-54.7836280702
+1533.38	-56.5400770497
+1522.81	-56.1069867752
+1512.08	-55.1598903572
+1501.53	-56.2792954302
+1490.23	-56.0211980813
+1479.01	-57.2728473197
+1467.73	-57.3559300854
+1456.28	-57.1420779963
+1445.0	-56.3274736019
+1435.18	-54.4583571823
+1425.43	-56.0752756211
+1415.64	-56.6160510187
+1405.81	-55.8903405803
+1396.43	-56.4305392511
+1387.5	-53.2769405897
+1379.04	-53.9194586646
+1371.45	-54.3825436122
+1362.83	-54.8072839463
+1354.08	-55.2738100772
+1345.39	-55.5633610689
+1337.09	-55.8765087458
+1329.77	-56.2152194983
+1321.61	-55.3910057874
+1313.32	-56.2795267762
+1305.0	-55.826758932
+1295.95	-54.3902902668
+1286.31	-55.5534267698
+1275.51	-55.43396685
+1266.65	-55.8674202242
+1258.53	-56.3106541531
+1248.9	-54.499327679
+1238.14	-55.9213541348
+1227.62	-55.620039853
+1217.52	-56.196616774
+1208.51	-57.2396655605
+1199.01	-56.4414039068
+1188.13	-54.8458636802
+1177.2	-56.7958045548
+1166.58	-56.3586320024
+1155.92	-55.222894905
+1145.0	-54.2662346629
+1132.24	nan
+1120.94	-56.6667341296
+1109.61	-56.4283064742
+1095.98	-56.5895523937
+1082.3	-54.9643115096
+1069.95	-55.1157253609
+1057.57	-54.6668914447
+1045.0	-55.6550143052
+1035.11	-53.7723677885
+1024.84	-54.5357878579
+1015.0	-55.2918342629
+1005.28	-55.2731543127
+995.05	-55.7671898373
+984.675	-54.9840666477
+973.55	-54.7162134145
+963.596	-56.1178529033
+953.609	-55.9637842052
+942.755	-55.4727348331
+933.078	-55.9097379629
+923.62	-55.5179239198
+914.138	-54.742161611
+905.0	-55.6344357494
+894.786	-55.9480836283
+884.166	-54.7932891649
+874.158	-56.3482550601
+864.257	-55.462493648
+853.685	-58.1814271768
+842.701	-55.4521723168
+831.038	-56.4675947084
+819.217	-56.2606765928
+808.667	-55.942189802
+797.437	-56.3516026056
+785.0	-57.2741330166
+770.021	-55.5740623231
+755.0	-55.4487318731
+746.025	-55.4552895077
+737.917	-55.2483390596
+729.79	-54.2730666391
+720.65	-54.3472935219
+712.088	-56.0181357383
+703.502	-55.1632976641
+695.0	-56.0363237825

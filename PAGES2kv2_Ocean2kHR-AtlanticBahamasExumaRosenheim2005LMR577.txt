@@ -1,0 +1,192 @@
+# PAGES2kv2_Ocean2kHR-AtlanticBahamasExumaRosenheim2005LMR577 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticBahamasExumaRosenheim2005LMR577 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Rosenheim, Brad E.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Rosenheim, Brad E.
+#	Published_Date_or_Year: 
+#	Published_Title: Salinity change in the subtropical Atlantic: Secular increase and teleconnections to the North Atlantic Oscillation
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2004GL021499
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Tongue of the Ocean, Exuma Sound Bahamas
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 23.766
+#	Southernmost_Latitude: 23.766
+#	Easternmost_Longitude: -76.053
+#	Westernmost_Longitude: -76.053
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticBahamasExumaRosenheim2005LMR577
+#	Earliest_Year: 1890
+#	Most_Recent_Year: 1990
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, , Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+1890	10.43
+1891	10.42
+1892	10.35
+1893	10.35
+1894	10.24
+1895	10.22
+1896	10.28
+1897	10.31
+1898	10.36
+1899	10.41
+1900	10.17
+1901	10.13
+1902	10.33
+1903	10.38
+1904	10.33
+1905	10.48
+1906	10.33
+1907	10.25
+1908	10.3
+1909	10.36
+1910	10.2
+1911	10.2
+1912	10.23
+1913	10.18
+1914	10.28
+1915	10.24
+1916	10.18
+1917	10.19
+1918	10.2
+1919	10.29
+1920	10.3
+1921	10.2
+1922	10.32
+1923	10.28
+1924	10.23
+1925	10.18
+1926	10.17
+1927	10.38
+1928	10.31
+1929	10.23
+1930	10.1
+1931	10.28
+1932	10.45
+1933	10.33
+1934	10.25
+1935	10.22
+1936	10.32
+1937	10.32
+1938	10.4
+1939	10.39
+1940	10.33
+1941	10.28
+1942	10.2
+1943	10.18
+1944	10.14
+1945	10.14
+1946	10.2
+1947	10.14
+1948	10.12
+1949	10.09
+1950	10.14
+1951	10.1
+1952	10.06
+1953	10.19
+1954	10.25
+1955	10.31
+1956	10.31
+1957	10.23
+1958	10.26
+1959	10.09
+1960	10.3
+1961	10.43
+1962	10.37
+1963	10.17
+1964	10.26
+1965	10.27
+1966	10.23
+1967	10.25
+1968	10.22
+1969	10.21
+1970	10.27
+1971	10.34
+1972	10.2
+1973	10.12
+1974	10.13
+1975	10.16
+1976	10.13
+1977	10.16
+1978	10.24
+1979	10.15
+1980	10.16
+1981	10.17
+1982	10.13
+1983	10.06
+1984	10.11
+1985	10.09
+1986	10.11
+1987	10.18
+1988	10.18
+1989	10.1
+1990	10.07

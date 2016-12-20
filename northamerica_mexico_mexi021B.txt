@@ -1,0 +1,462 @@
+# northamerica_mexico_mexi021 - Nevado de Colima (MEXICO)      ARSTAN   STANDARD - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_mexico_mexi021 - Nevado de Colima (MEXICO)      ARSTAN   STANDARD - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Nevado de Colima (MEXICO)      ARSTAN   STANDARD
+#	Location:
+#	Country: Mexico
+#	Northernmost_Latitude: 19.58
+#	Southernmost_Latitude: 19.58
+#	Easternmost_Longitude: -103.62
+#	Westernmost_Longitude: -103.62
+#	Elevation: 3700 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_mexico_mexi021B
+#	Earliest_Year: 1627
+#	Most_Recent_Year: 1997
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}{"VSLite_parameters":{"T1":"4.95007694942","T2":"16.360833381","M1":"0.0227193695436","M2":"0.44204721121"}}
+#--------------------
+# Species
+#	Species_Name: Mexican Mountain pine
+#	Species_Code: PIHR
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1627	0.86
+1628	0.738
+1629	0.679
+1630	0.79
+1631	0.803
+1632	0.76
+1633	0.913
+1634	1.122
+1635	1.463
+1636	1.478
+1637	1.126
+1638	0.926
+1639	0.953
+1640	1.22
+1641	1.132
+1642	0.947
+1643	1.009
+1644	0.939
+1645	0.851
+1646	0.72
+1647	0.931
+1648	1.154
+1649	1.159
+1650	1.141
+1651	0.994
+1652	0.771
+1653	0.649
+1654	0.381
+1655	0.29
+1656	0.694
+1657	1.047
+1658	1.01
+1659	1.013
+1660	1.184
+1661	1.396
+1662	1.283
+1663	0.962
+1664	1.014
+1665	1.023
+1666	1.026
+1667	1.076
+1668	0.989
+1669	1.198
+1670	1.308
+1671	1.24
+1672	1.233
+1673	1.037
+1674	0.969
+1675	0.856
+1676	0.873
+1677	0.887
+1678	0.929
+1679	1.002
+1680	0.997
+1681	1.025
+1682	1.011
+1683	1.033
+1684	1.057
+1685	1.283
+1686	1.493
+1687	1.478
+1688	1.432
+1689	1.223
+1690	0.935
+1691	0.81
+1692	1.028
+1693	1.22
+1694	1.285
+1695	0.942
+1696	1.143
+1697	1.086
+1698	0.867
+1699	0.917
+1700	0.844
+1701	0.719
+1702	0.985
+1703	0.975
+1704	0.806
+1705	0.937
+1706	1.187
+1707	1.031
+1708	0.773
+1709	0.942
+1710	0.842
+1711	1.108
+1712	1.255
+1713	1.201
+1714	1.231
+1715	1.07
+1716	0.809
+1717	0.806
+1718	0.976
+1719	1.397
+1720	1.268
+1721	1.128
+1722	1.229
+1723	1.078
+1724	0.66
+1725	0.749
+1726	1.086
+1727	1.161
+1728	1.029
+1729	1.01
+1730	0.944
+1731	0.88
+1732	0.89
+1733	0.898
+1734	0.91
+1735	0.881
+1736	0.725
+1737	0.82
+1738	0.886
+1739	0.976
+1740	1.095
+1741	1.065
+1742	0.9
+1743	0.895
+1744	1.062
+1745	1.152
+1746	1.194
+1747	1.282
+1748	1.031
+1749	0.808
+1750	0.863
+1751	0.969
+1752	1.149
+1753	0.915
+1754	0.799
+1755	0.919
+1756	0.871
+1757	0.759
+1758	0.753
+1759	0.999
+1760	1.064
+1761	1.123
+1762	0.98
+1763	1.001
+1764	1.041
+1765	0.745
+1766	0.886
+1767	0.809
+1768	0.639
+1769	0.685
+1770	0.657
+1771	0.768
+1772	1.068
+1773	1.355
+1774	1.073
+1775	0.996
+1776	0.996
+1777	0.994
+1778	0.862
+1779	0.837
+1780	1.098
+1781	1.16
+1782	1.132
+1783	0.994
+1784	0.887
+1785	0.768
+1786	0.907
+1787	1.09
+1788	1.168
+1789	1.201
+1790	1.141
+1791	1.292
+1792	1.308
+1793	0.884
+1794	0.907
+1795	1.04
+1796	1.313
+1797	1.26
+1798	1.126
+1799	1.35
+1800	1.359
+1801	1.364
+1802	1.159
+1803	1.338
+1804	1.55
+1805	1.418
+1806	1.169
+1807	1.073
+1808	1.282
+1809	1.043
+1810	1.132
+1811	1.168
+1812	1.118
+1813	1.046
+1814	0.77
+1815	0.494
+1816	0.235
+1817	0.448
+1818	0.721
+1819	0.846
+1820	0.715
+1821	0.631
+1822	0.569
+1823	0.527
+1824	0.715
+1825	0.893
+1826	0.85
+1827	0.864
+1828	1.053
+1829	0.933
+1830	1.008
+1831	1.217
+1832	0.957
+1833	0.904
+1834	0.953
+1835	0.8
+1836	0.722
+1837	0.884
+1838	1.179
+1839	1.101
+1840	0.991
+1841	0.888
+1842	0.774
+1843	0.569
+1844	0.619
+1845	0.879
+1846	0.817
+1847	0.61
+1848	0.499
+1849	0.646
+1850	0.775
+1851	0.805
+1852	0.885
+1853	1.011
+1854	1.094
+1855	0.818
+1856	0.861
+1857	0.793
+1858	0.894
+1859	0.971
+1860	1.022
+1861	0.857
+1862	0.982
+1863	0.999
+1864	1.025
+1865	1.058
+1866	1.227
+1867	1.268
+1868	1.262
+1869	1.304
+1870	1.179
+1871	1.285
+1872	1.177
+1873	1.257
+1874	1.219
+1875	1.289
+1876	1.296
+1877	1.285
+1878	1.716
+1879	1.097
+1880	0.637
+1881	0.749
+1882	1.066
+1883	1.005
+1884	1.095
+1885	1.203
+1886	1.288
+1887	1.078
+1888	0.859
+1889	0.953
+1890	0.902
+1891	0.865
+1892	0.931
+1893	0.996
+1894	1.029
+1895	0.986
+1896	1.026
+1897	1.103
+1898	0.845
+1899	0.855
+1900	0.977
+1901	1.064
+1902	1.075
+1903	1.006
+1904	0.871
+1905	1.188
+1906	1.396
+1907	1.259
+1908	0.886
+1909	0.775
+1910	0.728
+1911	1.043
+1912	1.1
+1913	0.184
+1914	0.377
+1915	1.025
+1916	1.454
+1917	1.103
+1918	0.928
+1919	1.015
+1920	0.967
+1921	1.097
+1922	0.942
+1923	0.992
+1924	0.978
+1925	0.929
+1926	0.741
+1927	0.626
+1928	0.562
+1929	0.764
+1930	1.1
+1931	1.009
+1932	0.765
+1933	1.025
+1934	0.738
+1935	0.604
+1936	0.702
+1937	0.563
+1938	0.479
+1939	0.641
+1940	0.911
+1941	0.8
+1942	0.777
+1943	0.683
+1944	0.858
+1945	1.0
+1946	1.051
+1947	0.955
+1948	0.96
+1949	0.915
+1950	0.926
+1951	1.125
+1952	1.445
+1953	1.449
+1954	0.932
+1955	0.855
+1956	0.937
+1957	1.043
+1958	1.088
+1959	0.832
+1960	0.964
+1961	1.364
+1962	1.327
+1963	1.285
+1964	1.332
+1965	0.973
+1966	1.046
+1967	1.119
+1968	0.927
+1969	1.083
+1970	1.054
+1971	0.753
+1972	0.916
+1973	1.052
+1974	1.094
+1975	1.016
+1976	0.917
+1977	0.907
+1978	0.989
+1979	0.964
+1980	0.943
+1981	0.808
+1982	0.99
+1983	0.972
+1984	0.877
+1985	0.879
+1986	0.945
+1987	1.607
+1988	1.549
+1989	1.064
+1990	1.17
+1991	1.107
+1992	0.837
+1993	1.007
+1994	1.14
+1995	0.889
+1996	1.053
+1997	1.038

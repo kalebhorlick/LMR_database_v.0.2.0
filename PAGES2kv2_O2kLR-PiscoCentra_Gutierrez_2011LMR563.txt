@@ -1,0 +1,189 @@
+# PAGES2kv2_O2kLR-PiscoCentra_Gutierrez_2011LMR563 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-PiscoCentra_Gutierrez_2011LMR563 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Pisco, Central Peru
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -14.13
+#	Southernmost_Latitude: -14.13
+#	Easternmost_Longitude: -76.5
+#	Westernmost_Longitude: -76.5
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-PiscoCentra_Gutierrez_2011LMR563
+#	Earliest_Year: 1737
+#	Most_Recent_Year: 2003
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Alkenone", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+2003	18.26
+2001	18.95
+1998	19.83
+1995	20.22
+1992	20.28
+1989	19.62
+1986	20.59
+1984	21.01
+1982	21.05
+1980	20.53
+1978	20.55
+1975	20.46
+1973	20.3
+1971	19.73
+1970	19.74
+1968	20.92
+1967	20.94
+1965	19.37
+1963	20.5
+1962	21.02
+1961	21.06
+1960	21.35
+1959	21.32
+1958	21.48
+1957	21.24
+1956	21.25
+1955	21.03
+1954	21.05
+1952	20.96
+1951	21.29
+1949	19.55
+1948	20.73
+1946	21.01
+1944	20.61
+1942	20.93
+1941	21.99
+1938	20.77
+1935	21.95
+1932	21.22
+1929	20.77
+1927	19.4
+1924	20.98
+1920	21.12
+1918	21.52
+1916	21.24
+1914	21.51
+1911	20.84
+1908	21.73
+1904	20.85
+1901	20.82
+1899	20.88
+1897	21.65
+1894	22.29
+1891	22.76
+1888	21.72
+1886	20.4
+1883	21.55
+1880	22.09
+1878	21.91
+1875	21.68
+1870	21.79
+1868	22.09
+1865	22.41
+1864	21.6
+1862	21.61
+1859	21.92
+1857	21.6
+1854	22.3
+1852	21.07
+1850	19.36
+1848	20.15
+1845	21.01
+1842	21.43
+1839	21.87
+1835	21.64
+1831	21.62
+1827	22.45
+1822	21.59
+1818	21.77
+1814	21.84
+1809	21.61
+1804	21.11
+1800	21.23
+1796	21.34
+1792	21.1
+1788	21.45
+1785	21.19
+1782	20.91
+1778	21.83
+1774	21.57
+1768	21.83
+1766	21.93
+1762	21.63
+1758	21.03
+1754	21.34
+1750	21.59
+1744	21.67
+1737	21.72

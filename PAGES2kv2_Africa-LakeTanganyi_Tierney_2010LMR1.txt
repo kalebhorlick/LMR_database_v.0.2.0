@@ -1,0 +1,163 @@
+# PAGES2kv2_Africa-LakeTanganyi_Tierney_2010LMR1 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Africa-LakeTanganyi_Tierney_2010LMR1 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Tierney, Jessica E.,Mayes, Marc T.,Meyer, Natacha,Johnson, Christopher,Swarzenski, Peter W.,Cohen, Andrew S.,Russell, James M.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Tierney, Jessica E.,Mayes, Marc T.,Meyer, Natacha,Johnson, Christopher,Swarzenski, Peter W.,Cohen, Andrew S.,Russell, James M.
+#	Published_Date_or_Year: 
+#	Published_Title: Late-twentieth-century warming in Lake Tanganyika unprecedented since AD 500
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/NGEO865
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: 
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -6.03
+#	Southernmost_Latitude: -6.03
+#	Easternmost_Longitude: 28.53
+#	Westernmost_Longitude: 28.53
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Africa-LakeTanganyi_Tierney_2010LMR1
+#	Earliest_Year: 504
+#	Most_Recent_Year: 1986
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"lake surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred lake surface temperature, , , degrees C, , Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1986	25.6263562901
+1976	24.9873700038
+1966	24.5598533123
+1956	24.4777314809
+1946	24.1129872788
+1936	23.9661377056
+1926	23.9173027194
+1918	24.0723815854
+1898	23.6313331948
+1879	22.8699924616
+1865	22.8999060008
+1852	23.2110074098
+1838	23.6369693203
+1824	24.1454242222
+1809	23.727952946
+1794	23.887057494
+1779	23.5762670778
+1764	23.1802653803
+1748	23.4641300728
+1733	23.7250768011
+1700	23.3795790819
+1683	22.6121826094
+1666	23.7688122649
+1649	22.620842633
+1631	23.2391337927
+1614	23.2344286653
+1596	22.4669057209
+1577	23.8036312247
+1559	23.0410057975
+1540	23.1422704932
+1521	23.5907377634
+1501	22.8494459062
+1481	22.9537087233
+1461	22.6979991331
+1441	22.7650182843
+1420	22.5378597161
+1400	23.695302
+1378	23.4799193913
+1357	23.7228996645
+1335	24.3149643439
+1319	23.9781095516
+1297	23.5248443081
+1274	23.3533413262
+1252	24.318353436
+1229	23.2016827201
+1205	23.6384162421
+1182	23.7087504859
+1158	23.4923471407
+1134	23.6697658291
+1110	23.8508093312
+1085	23.1872024241
+1060	22.8836390365
+1035	22.6396111622
+1009	22.9255351904
+984	23.5109424211
+958	22.6657316419
+931	22.7674182884
+905	22.7479061197
+878	22.9475171488
+851	22.9584332253
+824	22.6651849599
+796	23.2605176627
+768	23.3727585945
+740	22.5678289615
+711	23.5776732616
+682	23.5003301489
+653	23.2308074249
+624	23.7609377402
+594	23.7570167099
+565	24.0993182861
+534	23.9985700556
+504	23.8489480197

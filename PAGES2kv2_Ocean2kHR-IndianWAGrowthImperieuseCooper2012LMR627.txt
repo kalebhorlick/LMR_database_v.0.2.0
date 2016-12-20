@@ -1,0 +1,202 @@
+# PAGES2kv2_Ocean2kHR-IndianWAGrowthImperieuseCooper2012LMR627 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-IndianWAGrowthImperieuseCooper2012LMR627 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Cooper, T. F.,OLeary, R. A.,Lough, J. M.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Cooper, T. F.,OLeary, R. A.,Lough, J. M.
+#	Published_Date_or_Year: 
+#	Published_Title: Growth of Western Australian Corals in the Anthropocene
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1126/science.1214570
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Imperieuse, Rowley Shoals
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -17.5167
+#	Southernmost_Latitude: -17.5167
+#	Easternmost_Longitude: 118.9667
+#	Westernmost_Longitude: 118.9667
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-IndianWAGrowthImperieuseCooper2012LMR627
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 2009
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##calc	calcification rate, , , percent, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	calc
+1900	-3.65572127317
+1901	15.4607709309
+1902	6.62304043793
+1903	-20.1301862825
+1904	14.6721650094
+1905	-12.8293430469
+1906	11.0088571
+1907	-0.310374238599
+1908	-1.29868644085
+1909	-4.58151082209
+1910	-4.66556821433
+1911	0.0518213398175
+1912	-0.562607369673
+1913	-14.2751032667
+1914	2.80672295837
+1915	-4.55745373642
+1916	12.2473983828
+1917	-5.18925058552
+1918	9.32623296414
+1919	13.5246610501
+1920	9.53484653852
+1921	8.87211584895
+1922	-4.79061707338
+1923	-4.75255516374
+1924	-2.4905352658
+1925	-1.72749500068
+1926	-7.256813348
+1927	-9.49669890726
+1928	1.81242880839
+1929	19.0291235132
+1930	1.80862192536
+1931	4.77741104342
+1932	2.24152323771
+1933	8.03337467068
+1934	15.3018705013
+1935	-18.7881938636
+1936	-2.31960108357
+1937	14.8196141644
+1938	3.90119821601
+1939	4.18794640893
+1940	2.79881006864
+1941	3.05558962294
+1942	4.42608369667
+1943	-1.40710171452
+1944	3.92142641857
+1945	-4.57134870958
+1946	5.83173733409
+1947	5.17985403742
+1948	7.8307913892
+1949	-1.82993702777
+1950	-11.1225058281
+1951	4.01579240474
+1952	12.9969846179
+1953	-15.149815618
+1954	-19.3173702917
+1955	-10.8745491727
+1956	-7.67943030077
+1957	14.2695265463
+1958	8.14189430794
+1959	-12.1629167368
+1960	9.9202762019
+1961	6.8544020492
+1962	2.53894546181
+1963	9.08974012681
+1964	0.694794575887
+1965	4.20874213965
+1966	8.49873397819
+1967	-12.3826027975
+1968	-4.86112912723
+1969	-17.5435606113
+1970	13.2817636675
+1971	6.7403156007
+1972	5.29760370207
+1973	-11.4610053342
+1974	-12.0322703631
+1975	3.40610616527
+1976	2.23758777591
+1977	-9.17573668195
+1978	-3.83963907294
+1979	-10.1837255669
+1980	-4.52461657146
+1981	-6.45745676521
+1982	-4.46014854994
+1983	10.8193427621
+1984	-24.2540653668
+1985	7.54003828867
+1986	-1.09652157643
+1987	10.4331683094
+1988	-6.82342220684
+1989	2.13740518174
+1990	2.00236684987
+1991	12.1555233034
+1992	-1.13537312372
+1993	5.55508514093
+1994	-13.8467153296
+1995	-3.06658446245
+1996	-14.0930760826
+1997	5.19487379644
+1998	-23.4678810712
+1999	9.4271450947
+2000	3.136478864
+2001	-4.01457053649
+2002	1.2027019344
+2003	10.115954302
+2004	-0.927365755577
+2005	5.95877539286
+2006	11.0897932508
+2007	-9.20506846208
+2008	5.12400971419
+2009	-10.9884294327
+2010	-12.7168718589

@@ -1,0 +1,315 @@
+# PAGES2kv2_Arc-MackenzieDelta_Porter_2013LMR64 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-MackenzieDelta_Porter_2013LMR64 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Porter, Trevor J.,Pisaric, Michael F. J.,Field, Robert D.,Kokelj, Steven V.,Edwards, Thomas W. D.,deMontigny, Peter,Healy, Richard,LeGrande, Allegra N.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Porter, Trevor J.,Pisaric, Michael F. J.,Field, Robert D.,Kokelj, Steven V.,Edwards, Thomas W. D.,deMontigny, Peter,Healy, Richard,LeGrande, Allegra N.
+#	Published_Date_or_Year: 
+#	Published_Title: Spring-summer temperatures since AD 1780 reconstructed from stable oxygen isotope ratios in white spruce tree-rings from the Mackenzie Delta, northwestern Canada
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s00382-013-1674-3
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Mackenzie Delta
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 68.625
+#	Southernmost_Latitude: 68.625
+#	Easternmost_Longitude: -133.87
+#	Westernmost_Longitude: -133.87
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-MackenzieDelta_Porter_2013LMR64
+#	Earliest_Year: 1781
+#	Most_Recent_Year: 2004
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Significant correlation (p<0.001) to local meteo data", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[4, 5, 6, 7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	tree ring delta 18O, , , permil, "[4, 5, 6, 7]", Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1781	-5.1124586
+1782	-4.5854183
+1783	-3.9195989
+1784	-4.7729281
+1785	-3.5260404
+1786	-4.0594372
+1787	-4.1945076
+1788	-5.2914938
+1789	-4.5801209
+1790	-5.9058765
+1791	-5.3895026
+1792	-5.6949157
+1793	-3.7038208
+1794	-3.6806009
+1795	-3.3887701
+1796	-4.2531794
+1797	-4.6242914
+1798	-4.5632342
+1799	-2.9294109
+1800	-5.0613224
+1801	-5.1574511
+1802	-3.6615758
+1803	-3.7239816
+1804	-3.7961571
+1805	-4.1152746
+1806	-4.7347621
+1807	-5.5498779
+1808	-5.7512293
+1809	-4.4379285
+1810	-5.0226561
+1811	-4.6679798
+1812	-4.2021511
+1813	-4.930107
+1814	-5.8267565
+1815	-4.7444592
+1816	-4.7686303
+1817	-4.7296735
+1818	-4.445576
+1819	-3.5140809
+1820	-4.1912376
+1821	-3.1380588
+1822	-3.6155151
+1823	-4.2039434
+1824	-4.0995015
+1825	-4.5576312
+1826	-4.6094604
+1827	-3.9400098
+1828	-3.7556802
+1829	-3.7946865
+1830	-4.0377947
+1831	-3.9709983
+1832	-5.1476471
+1833	-4.8856148
+1834	-4.7310856
+1835	-3.8221619
+1836	-3.8095095
+1837	-4.0925055
+1838	-2.4754196
+1839	-3.5047661
+1840	-4.2625275
+1841	-3.4005914
+1842	-4.5296273
+1843	-4.888791
+1844	-4.0538109
+1845	-3.932096
+1846	-3.3275879
+1847	-3.2437979
+1848	-4.4271763
+1849	-4.186505
+1850	-3.9650796
+1851	-4.4038131
+1852	-4.2443497
+1853	-3.8091645
+1854	-4.2473222
+1855	-4.4923307
+1856	-3.945521
+1857	-5.0240379
+1858	-4.0422469
+1859	-3.5852024
+1860	-2.5378233
+1861	-4.0578909
+1862	-4.133752
+1863	-4.4392155
+1864	-4.6304371
+1865	-4.6849805
+1866	-4.1919981
+1867	-4.3029206
+1868	-3.3644911
+1869	-4.2267468
+1870	-4.1615471
+1871	-4.8271215
+1872	-4.1976929
+1873	-2.8109699
+1874	-3.6496043
+1875	-3.8095498
+1876	-3.8845909
+1877	-3.28279
+1878	-4.5046775
+1879	-3.5076458
+1880	-3.2640464
+1881	-4.4138996
+1882	-4.6750857
+1883	-4.0642928
+1884	-2.9456853
+1885	-4.0941194
+1886	-3.1171093
+1887	-3.6069851
+1888	-4.0128974
+1889	-4.714451
+1890	-3.973178
+1891	-3.7680432
+1892	-3.7092998
+1893	-4.0481111
+1894	-4.452114
+1895	-6.4180705
+1896	-4.1919981
+1897	-5.1602955
+1898	-4.9195526
+1899	-3.4719055
+1900	-4.294452
+1901	-3.9202313
+1902	-4.7808379
+1903	-4.2633132
+1904	-4.3310365
+1905	-4.8750764
+1906	-4.1123657
+1907	-3.3095271
+1908	-2.9598789
+1909	-3.6470352
+1910	-3.8899992
+1911	-4.4624859
+1912	-2.698477
+1913	-2.4190253
+1914	-2.9630814
+1915	-2.608045
+1916	-3.2426934
+1917	-2.8732809
+1918	-2.7957404
+1919	-3.8813693
+1920	-4.5360321
+1921	-4.1245673
+1922	-4.0561046
+1923	-4.3491245
+1924	-3.716674
+1925	-3.9855046
+1926	-1.5942477
+1927	-3.3389573
+1928	-2.8782656
+1929	-2.8028302
+1930	-2.7103265
+1931	-3.3958004
+1932	-4.0476239
+1933	-3.1226195
+1934	-2.7943122
+1935	-3.1118371
+1936	-3.6870481
+1937	-3.8300636
+1938	-3.8484522
+1939	-3.5852871
+1940	-2.4960009
+1941	-2.6346137
+1942	-3.1768936
+1943	-3.3935501
+1944	-3.4592551
+1945	-2.9974691
+1946	-3.9154564
+1947	-2.6464118
+1948	-3.6573718
+1949	-3.378837
+1950	-4.2307512
+1951	-3.1376634
+1952	-3.9408923
+1953	-2.3153338
+1954	-3.0152676
+1955	-3.367168
+1956	-4.2048179
+1957	-3.5803912
+1958	-3.9863196
+1959	-2.4614327
+1960	-4.3767513
+1961	-4.4499646
+1962	-3.7074298
+1963	-3.9694803
+1964	-3.9755473
+1965	-2.893016
+1966	-3.326903
+1967	-3.5898916
+1968	-3.7443854
+1969	-2.8143479
+1970	-3.3108373
+1971	-2.8249729
+1972	-2.1482682
+1973	-3.0120011
+1974	-3.6538557
+1975	-3.4209075
+1976	-4.6307589
+1977	-3.4681963
+1978	-2.6354368
+1979	-3.1856819
+1980	-3.0372731
+1981	-3.5232788
+1982	-3.4840536
+1983	-2.8025941
+1984	-2.8039356
+1985	-3.4394938
+1986	-2.8866444
+1987	-3.8189726
+1988	-1.668855
+1989	-2.70992
+1990	-2.6918108
+1991	-1.9438434
+1992	-2.3869474
+1993	-2.8872334
+1994	-2.6108269
+1995	-2.9446202
+1996	-1.9852634
+1997	-2.8772721
+1998	-2.6941539
+1999	-1.3968734
+2000	-2.6980967
+2001	-2.889872
+2002	-2.3605583
+2003	-1.9024649
+2004	-2.1289516

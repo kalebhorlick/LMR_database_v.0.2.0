@@ -1,0 +1,286 @@
+# PAGES2kv2_O2kLR-CapeGhirNWAMcGregor_2007_GeoB6008-1_GeoB6008-2LMR523 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-CapeGhirNWAMcGregor_2007_GeoB6008-1_GeoB6008-2LMR523 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Cape Ghir, NW Africa
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 30.845
+#	Southernmost_Latitude: 30.845
+#	Easternmost_Longitude: -10.0983
+#	Westernmost_Longitude: -10.0983
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-CapeGhirNWAMcGregor_2007_GeoB6008-1_GeoB6008-2LMR523
+#	Earliest_Year: -518
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1998.0	17.7
+1997.0	17.8
+1995.8	18.1
+1994.3	18.0
+1992.6	18.3
+1990.7	18.2
+1988.6	18.2
+1986.3	18.0
+1983.7	18.2
+1981.3	18.3
+1978.5	18.3
+1976.1	18.1
+1973.2	18.1
+1971.0	18.7
+1969.8	18.3
+1966.6	18.5
+1965.0	18.9
+1963.4	18.5
+1960.0	18.5
+1959.0	18.9
+1957.0	18.8
+1953.8	18.6
+1953.0	19.1
+1950.9	18.8
+1948.2	18.6
+1947.0	19.0
+1945.3	18.6
+1942.9	18.6
+1941.0	19.2
+1939.5	18.7
+1936.6	18.6
+1935.0	19.2
+1933.5	18.6
+1930.3	18.8
+1929.0	19.3
+1927.0	18.7
+1923.5	18.8
+1923.0	19.4
+1917.0	19.5
+1916.2	18.9
+1912.9	18.8
+1911.0	19.5
+1905.0	19.4
+1899.0	19.5
+1893.0	19.4
+1887.0	19.2
+1881.0	19.0
+1875.0	18.9
+1869.0	19.0
+1863.0	19.3
+1857.0	19.2
+1851.0	19.0
+1845.0	19.0
+1839.0	19.3
+1827.0	19.4
+1814.0	19.3
+1802.0	19.3
+1790.0	19.2
+1778.0	19.3
+1766.0	19.5
+1754.0	19.5
+1742.0	19.8
+1730.0	19.4
+1718.0	19.3
+1706.0	19.8
+1694.0	19.7
+1682.0	19.4
+1670.0	19.6
+1658.0	19.6
+1646.0	19.7
+1634.0	19.5
+1622.0	19.5
+1610.0	19.4
+1598.0	19.6
+1586.0	19.6
+1574.0	19.4
+1562.0	19.6
+1550.0	19.6
+1538.0	19.7
+1526.0	19.6
+1513.0	19.6
+1501.0	19.6
+1489.0	19.5
+1477.0	19.6
+1465.0	19.7
+1453.0	19.7
+1441.0	19.4
+1429.0	19.4
+1417.0	19.4
+1405.0	19.3
+1393.0	19.5
+1381.0	19.5
+1368.0	19.7
+1355.0	19.5
+1343.0	19.2
+1331.0	19.6
+1318.0	19.2
+1306.0	19.3
+1294.0	19.6
+1287.0	19.4
+1281.0	19.8
+1275.0	19.9
+1263.0	19.5
+1250.0	19.7
+1238.0	19.4
+1226.0	19.3
+1213.0	19.5
+1201.0	19.4
+1189.0	19.6
+1176.0	19.6
+1164.0	19.3
+1152.0	19.4
+1145.0	19.6
+1139.0	19.3
+1133.0	19.3
+1127.0	19.5
+1114.0	19.6
+1102.0	19.2
+1090.0	19.1
+1077.0	19.7
+1065.0	19.8
+1053.0	19.2
+1040.0	19.3
+1028.0	19.6
+1016.0	19.3
+1003.0	19.6
+991.0	19.9
+985.0	19.5
+980.0	19.8
+972.0	19.4
+965.0	19.7
+958.0	19.6
+950.0	19.9
+943.0	19.8
+935.0	19.9
+928.0	19.7
+920.0	20.0
+913.0	19.5
+905.0	19.7
+898.0	19.5
+891.0	20.0
+883.0	19.6
+876.0	19.9
+868.0	19.7
+861.0	19.7
+853.0	19.6
+846.0	19.9
+838.0	19.5
+829.0	19.5
+818.0	19.5
+806.0	20.0
+795.0	19.4
+784.0	19.8
+772.0	19.7
+761.0	19.7
+749.0	19.9
+738.0	19.8
+727.0	19.7
+715.0	20.2
+704.0	19.7
+693.0	20.2
+681.0	19.8
+669.0	20.2
+644.0	20.0
+618.0	20.1
+592.0	19.6
+567.0	19.7
+541.0	19.9
+516.0	19.7
+490.0	19.8
+465.0	19.9
+439.0	19.9
+414.0	19.8
+388.0	19.8
+362.0	19.9
+337.0	19.4
+311.0	19.6
+286.0	19.7
+260.0	20.0
+235.0	19.8
+209.0	19.6
+183.0	19.5
+158.0	19.9
+132.0	19.5
+107.0	19.7
+81.0	19.6
+56.0	19.7
+30.0	19.3
+-21.0	19.7
+-47.0	19.8
+-72.0	19.7
+-123.0	19.5
+-174.0	19.6
+-200.0	19.7
+-225.0	19.4

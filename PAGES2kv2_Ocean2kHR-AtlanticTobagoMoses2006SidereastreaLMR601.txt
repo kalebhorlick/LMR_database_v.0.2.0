@@ -1,0 +1,150 @@
+# PAGES2kv2_Ocean2kHR-AtlanticTobagoMoses2006SidereastreaLMR601 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticTobagoMoses2006SidereastreaLMR601 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Christopher S. Moses
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Christopher S. Moses
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: NaN
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Buccoo Reef, Tobago
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 11.17
+#	Southernmost_Latitude: 11.17
+#	Easternmost_Longitude: -60.85
+#	Westernmost_Longitude: -60.85
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticTobagoMoses2006SidereastreaLMR601
+#	Earliest_Year: 1932
+#	Most_Recent_Year: 1989
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"06trin02a.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, , Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1990	-2.69
+1989	-2.8634
+1988	-2.6136
+1987	-3.1404
+1986	-2.7658
+1985	-2.7281
+1984	-2.7897
+1983	-2.7708
+1982	-2.8447
+1981	-2.98
+1980	-2.9254
+1979	-3.0441
+1978	-2.8227
+1977	-3.1602
+1976	-3.5327
+1975	-3.3967
+1974	-3.3526
+1973	-3.3359
+1972	-3.3899
+1971	-3.4539
+1970	-3.7483
+1969	-3.8451
+1968	-3.5141
+1967	-3.8403
+1966	-4.0008
+1965	-4.1157
+1964	-3.8351
+1963	-3.9726
+1962	-3.6811
+1961	-3.5102
+1960	-3.4092
+1959	-3.5449
+1958	-3.6542
+1957	-3.5679
+1956	-3.2387
+1955	-3.3948
+1954	-3.7145
+1953	-3.4612
+1952	-3.5454
+1951	-3.8674
+1950	-3.8294
+1949	-3.4925
+1948	-3.9492
+1947	-4.1113
+1946	-3.7768
+1945	-3.5541
+1944	-4.3245
+1943	-4.1972
+1942	-3.7436
+1941	-3.3937
+1940	-3.6783
+1939	-3.8027
+1938	-3.6401
+1937	-3.7858
+1936	-3.4142
+1935	-3.0658
+1934	-4.1729
+1933	-4.4304
+1932	-3.7296

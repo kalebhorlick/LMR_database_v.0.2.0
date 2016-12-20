@@ -1,0 +1,157 @@
+# PAGES2kv2_NAm-LCloudsLMR364 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_NAm-LCloudsLMR364 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Gajewski, K.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Gajewski, K.
+#	Published_Date_or_Year: 
+#	Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/0033-5894(88)90034-8
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Lake of the Clouds
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 48
+#	Southernmost_Latitude: 48
+#	Easternmost_Longitude: 91
+#	Westernmost_Longitude: 91
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_NAm-LCloudsLMR364
+#	Earliest_Year: 1030
+#	Most_Recent_Year: 1970
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":7}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Mean temperature of July, , , degrees C, 7, Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1970	17.7
+1960	17.6
+1950	17.6
+1940	17.3
+1930	17.3
+1920	17.6
+1910	17.4
+1900	17.3
+1890	17.4
+1880	17.3
+1870	17.2
+1860	17.2
+1850	17.3
+1840	17.2
+1830	17.3
+1820	17.3
+1810	17.4
+1800	17.6
+1790	17.6
+1780	17.6
+1770	17.5
+1760	17.4
+1750	17.6
+1740	17.5
+1730	17.1
+1720	17.3
+1700	17.4
+1680	17.3
+1660	17.1
+1640	17.4
+1620	17.3
+1610	17.3
+1580	17.1
+1560	17.5
+1540	17.3
+1530	17.3
+1510	17.5
+1500	17.4
+1480	17.4
+1470	17.8
+1450	17.8
+1430	17.8
+1410	17.5
+1400	17.3
+1390	17.2
+1370	17.4
+1350	17.6
+1330	17.4
+1310	17.4
+1290	17.3
+1280	17.4
+1260	17.2
+1240	17.0
+1230	17.3
+1210	17.3
+1190	17.3
+1180	17.2
+1160	17.3
+1140	17.3
+1130	17.2
+1110	17.4
+1090	17.6
+1080	17.6
+1060	17.5
+1050	17.6
+1030	17.3

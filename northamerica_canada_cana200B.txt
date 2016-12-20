@@ -1,0 +1,216 @@
+# northamerica_canada_cana200 - Fleming Island, Cree Lake - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_canada_cana200 - Fleming Island, Cree Lake - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Fleming Island, Cree Lake
+#	Location:
+#	Country: Canada
+#	Northernmost_Latitude: 57.55
+#	Southernmost_Latitude: 57.55
+#	Easternmost_Longitude: -106.88
+#	Westernmost_Longitude: -106.88
+#	Elevation: 510 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_canada_cana200B
+#	Earliest_Year: 1878
+#	Most_Recent_Year: 2002
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"3.39740790747","T2":"15.6861712929","M1":"0.0229213232442","M2":"0.516190763309"}}
+#--------------------
+# Species
+#	Species_Name: jack pine
+#	Species_Code: PIBN
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1878	1.19
+1879	1.239
+1880	1.624
+1881	1.232
+1882	0.94
+1883	1.186
+1884	0.977
+1885	0.79
+1886	0.709
+1887	0.995
+1888	0.829
+1889	1.081
+1890	0.979
+1891	1.18
+1892	1.022
+1893	1.026
+1894	1.171
+1895	1.194
+1896	1.055
+1897	0.993
+1898	1.005
+1899	0.757
+1900	0.904
+1901	1.039
+1902	1.024
+1903	1.132
+1904	1.132
+1905	0.936
+1906	0.945
+1907	1.034
+1908	1.175
+1909	1.088
+1910	1.202
+1911	1.338
+1912	0.997
+1913	0.896
+1914	1.109
+1915	1.109
+1916	1.008
+1917	0.963
+1918	0.946
+1919	1.318
+1920	1.031
+1921	1.181
+1922	1.531
+1923	1.072
+1924	0.964
+1925	1.051
+1926	1.063
+1927	0.86
+1928	0.685
+1929	0.683
+1930	0.861
+1931	1.111
+1932	1.109
+1933	0.927
+1934	0.751
+1935	0.842
+1936	1.098
+1937	1.066
+1938	1.115
+1939	0.992
+1940	0.904
+1941	0.997
+1942	0.568
+1943	0.717
+1944	0.763
+1945	0.816
+1946	0.477
+1947	0.746
+1948	0.797
+1949	0.93
+1950	0.845
+1951	0.81
+1952	0.441
+1953	0.781
+1954	0.819
+1955	0.742
+1956	1.071
+1957	1.263
+1958	1.093
+1959	0.848
+1960	0.964
+1961	0.881
+1962	0.921
+1963	1.237
+1964	1.458
+1965	1.587
+1966	1.239
+1967	1.066
+1968	0.929
+1969	1.109
+1970	0.911
+1971	0.921
+1972	0.92
+1973	0.549
+1974	0.819
+1975	1.019
+1976	1.297
+1977	1.272
+1978	1.005
+1979	1.082
+1980	0.99
+1981	0.869
+1982	0.755
+1983	0.897
+1984	1.097
+1985	1.165
+1986	1.256
+1987	1.363
+1988	0.986
+1989	1.126
+1990	0.975
+1991	0.979
+1992	1.102
+1993	0.803
+1994	0.769
+1995	0.58
+1996	0.69
+1997	0.864
+1998	0.952
+1999	0.862
+2000	0.89
+2001	0.827
+2002	0.737

@@ -1,0 +1,337 @@
+# asia_russ110w - Verchoyansk,Cakker river - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: asia_russ110w - Verchoyansk,Cakker river - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Verchoyansk,Cakker river
+#	Location:
+#	Country: Russia
+#	Northernmost_Latitude: 67.83
+#	Southernmost_Latitude: 67.83
+#	Easternmost_Longitude: 130.83
+#	Westernmost_Longitude: 130.83
+#	Elevation: 750 m
+#--------------------
+# Data_Collection
+#	Collection_Name: asia_russ110wB
+#	Earliest_Year: 1746
+#	Most_Recent_Year: 1991
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"7.10506440872","T2":"18.462379247","M1":"0.021961191791","M2":"0.245968292188"}}
+#--------------------
+# Species
+#	Species_Name: Dahurian larch
+#	Species_Code: LAGM
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1746	1.089
+1747	1.257
+1748	1.009
+1749	0.999
+1750	1.123
+1751	1.138
+1752	1.492
+1753	1.634
+1754	0.484
+1755	1.695
+1756	1.039
+1757	1.92
+1758	1.45
+1759	1.544
+1760	1.257
+1761	1.413
+1762	0.403
+1763	1.76
+1764	0.768
+1765	1.936
+1766	2.227
+1767	0.987
+1768	1.812
+1769	1.242
+1770	0.587
+1771	1.076
+1772	0.634
+1773	1.14
+1774	0.36
+1775	1.09
+1776	1.003
+1777	1.117
+1778	1.398
+1779	0.844
+1780	0.917
+1781	1.287
+1782	1.156
+1783	1.367
+1784	1.449
+1785	1.156
+1786	1.47
+1787	1.036
+1788	0.865
+1789	1.402
+1790	1.632
+1791	0.482
+1792	1.224
+1793	1.434
+1794	0.517
+1795	1.336
+1796	0.733
+1797	0.972
+1798	1.265
+1799	1.202
+1800	0.804
+1801	0.43
+1802	1.007
+1803	1.033
+1804	0.267
+1805	0.3
+1806	0.83
+1807	0.621
+1808	0.641
+1809	0.44
+1810	0.859
+1811	0.911
+1812	0.643
+1813	0.204
+1814	0.927
+1815	0.865
+1816	0.964
+1817	0.234
+1818	0.471
+1819	0.593
+1820	1.05
+1821	0.547
+1822	0.444
+1823	0.27
+1824	0.924
+1825	0.312
+1826	0.27
+1827	0.526
+1828	0.36
+1829	0.647
+1830	0.171
+1831	0.487
+1832	0.376
+1833	0.429
+1834	0.738
+1835	0.706
+1836	1.191
+1837	0.392
+1838	0.765
+1839	0.271
+1840	0.977
+1841	1.149
+1842	0.832
+1843	1.303
+1844	1.039
+1845	1.263
+1846	1.221
+1847	1.031
+1848	1.213
+1849	0.734
+1850	1.006
+1851	0.485
+1852	1.243
+1853	0.789
+1854	0.866
+1855	1.157
+1856	0.273
+1857	0.442
+1858	1.001
+1859	0.746
+1860	1.506
+1861	1.277
+1862	1.55
+1863	0.488
+1864	1.093
+1865	0.853
+1866	0.747
+1867	0.817
+1868	0.38
+1869	0.999
+1870	0.964
+1871	1.081
+1872	0.835
+1873	1.072
+1874	1.488
+1875	1.052
+1876	1.571
+1877	0.693
+1878	1.484
+1879	1.625
+1880	1.893
+1881	2.301
+1882	1.568
+1883	1.909
+1884	1.623
+1885	2.039
+1886	1.147
+1887	0.83
+1888	0.922
+1889	0.83
+1890	1.409
+1891	0.85
+1892	0.914
+1893	1.092
+1894	0.62
+1895	1.403
+1896	0.222
+1897	1.0
+1898	0.538
+1899	0.641
+1900	0.142
+1901	0.816
+1902	1.024
+1903	0.767
+1904	0.551
+1905	0.586
+1906	1.029
+1907	1.105
+1908	0.91
+1909	0.948
+1910	1.405
+1911	1.155
+1912	1.596
+1913	0.597
+1914	1.071
+1915	0.283
+1916	0.579
+1917	0.922
+1918	0.574
+1919	0.702
+1920	0.834
+1921	0.928
+1922	1.209
+1923	0.325
+1924	0.762
+1925	0.723
+1926	0.375
+1927	0.623
+1928	1.053
+1929	0.905
+1930	1.161
+1931	1.004
+1932	1.089
+1933	1.713
+1934	1.431
+1935	0.628
+1936	0.856
+1937	1.086
+1938	1.334
+1939	1.166
+1940	1.734
+1941	1.126
+1942	1.03
+1943	0.259
+1944	0.883
+1945	0.757
+1946	1.234
+1947	1.203
+1948	1.561
+1949	1.432
+1950	0.418
+1951	0.694
+1952	0.912
+1953	0.78
+1954	1.08
+1955	1.336
+1956	1.617
+1957	0.789
+1958	0.176
+1959	0.901
+1960	1.351
+1961	1.497
+1962	0.603
+1963	0.981
+1964	0.846
+1965	0.772
+1966	0.954
+1967	1.104
+1968	1.058
+1969	1.1
+1970	1.4
+1971	0.798
+1972	0.9
+1973	1.204
+1974	1.773
+1975	1.5
+1976	0.582
+1977	1.132
+1978	0.671
+1979	0.859
+1980	0.632
+1981	1.134
+1982	1.14
+1983	0.921
+1984	0.255
+1985	0.371
+1986	1.016
+1987	1.081
+1988	1.277
+1989	0.818
+1990	1.119
+1991	0.884

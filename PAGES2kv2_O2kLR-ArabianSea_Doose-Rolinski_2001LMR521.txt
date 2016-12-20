@@ -1,0 +1,220 @@
+# PAGES2kv2_O2kLR-ArabianSea_Doose-Rolinski_2001LMR521 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-ArabianSea_Doose-Rolinski_2001LMR521 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Doose-Rolinski, Heidi,Rogalla, Ulf,Scheeder, Georg,Lückge, Andreas,von Rad, Ulrich
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Doose-Rolinski, Heidi,Rogalla, Ulf,Scheeder, Georg,Lückge, Andreas,von Rad, Ulrich
+#	Published_Date_or_Year: 
+#	Published_Title: High-resolution temperature and evaporation changes during the Late Holocene in the northeastern Arabian Sea
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2000PA000511
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Arabian Sea
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 24.83
+#	Southernmost_Latitude: 24.83
+#	Easternmost_Longitude: 65.92
+#	Westernmost_Longitude: 65.92
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-ArabianSea_Doose-Rolinski_2001LMR521
+#	Earliest_Year: -2933.5
+#	Most_Recent_Year: 1944.2
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	sea surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1950.0	26.4
+1944.2	26.5
+1942.8	26.9
+1932.9	26.6
+1932.7	26.6
+1921.2	26.4
+1912.9	26.6
+1912.6	26.8
+1912.2	26.3
+1909.7	26.6
+1898.2	26.5
+1882.8	26.4
+1882.5	26.3
+1852.8	26.2
+1832.9	26.3
+1832.7	26.7
+1832.4	26.4
+1832.1	26.6
+1812.0	26.3
+1800.5	26.6
+1789.0	26.5
+1777.5	25.2
+1766.0	25.2
+1754.5	27.4
+1743.0	25.5
+1731.5	25.3
+1723.1	26.4
+1722.8	26.6
+1722.4	26.1
+1722.1	26.7
+1720.0	26.8
+1707.4	27.1
+1694.7	26.2
+1682.1	25.3
+1669.4	26.2
+1644.1	26.0
+1631.5	26.4
+1616.8	27.0
+1596.0	26.3
+1575.2	27.6
+1554.3	26.5
+1533.5	27.0
+1512.7	26.2
+1491.9	26.8
+1471.1	26.4
+1450.2	27.2
+1429.4	26.1
+1409.3	25.9
+1390.0	26.4
+1370.6	26.6
+1351.3	26.5
+1331.9	26.4
+1312.6	26.8
+1293.2	26.0
+1273.9	27.1
+1254.5	25.8
+1235.2	26.6
+1215.8	26.0
+1196.5	27.1
+1157.8	26.1
+1138.4	27.0
+1119.1	26.5
+1099.7	26.8
+1080.4	26.6
+1061.0	26.3
+1041.7	26.5
+1020.6	25.9
+997.8	26.2
+952.2	26.5
+929.4	26.7
+909.5	26.8
+892.4	26.6
+875.4	26.9
+858.3	26.9
+841.3	26.8
+824.2	27.1
+756.0	26.7
+738.9	26.6
+721.9	26.8
+670.7	26.4
+653.7	26.2
+636.6	26.4
+619.6	26.9
+602.5	26.6
+585.4	26.2
+568.4	27.3
+555.5	26.1
+545.1	26.1
+534.7	26.2
+524.3	26.4
+513.9	26.4
+503.5	26.3
+477.4	26.5
+456.6	26.5
+446.2	26.0
+435.8	26.9
+415.0	26.7
+400.4	26.4
+385.8	26.9
+363.9	26.9
+349.3	26.3
+327.4	26.6
+298.2	26.1
+283.6	26.9
+261.7	26.3
+247.1	27.3
+217.9	26.6
+203.3	27.1
+161.0	26.3
+143.4	27.0
+125.9	26.5
+90.9	27.3
+73.4	26.2
+55.8	26.8
+38.3	26.3
+20.8	26.4
+3.3	26.4
+-14.2	27.2
+-40.5	26.4
+-58.0	27.2
+-75.6	26.3
+-93.1	26.8
+-110.6	26.5
+-128.1	26.4
+-145.6	26.4
+-163.2	26.8
+-180.7	26.1
+-198.2	27.5
+-215.7	26.8

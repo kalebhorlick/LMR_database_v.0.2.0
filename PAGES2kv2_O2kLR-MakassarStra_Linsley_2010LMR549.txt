@@ -1,0 +1,139 @@
+# PAGES2kv2_O2kLR-MakassarStra_Linsley_2010LMR549 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-MakassarStra_Linsley_2010LMR549 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Linsley, Braddock K.,Rosenthal, Yair,Oppo, Delia W.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Linsley, Braddock K.,Rosenthal, Yair,Oppo, Delia W.
+#	Published_Date_or_Year: 
+#	Published_Title: Holocene evolution of the Indonesian throughflow and the western Pacific warm pool
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/ngeo920
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Makassar Strait
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -7.4
+#	Southernmost_Latitude: -7.4
+#	Easternmost_Longitude: 115.2
+#	Westernmost_Longitude: 115.2
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-MakassarStra_Linsley_2010LMR549
+#	Earliest_Year: 174.78
+#	Most_Recent_Year: 1780.82
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1780.82	27.47
+1757.76	27.47
+1727.6	27.06
+1695.07	27.61
+1662.53	27.51
+1630.0	27.19
+1597.47	26.2
+1564.93	26.95
+1532.4	26.31
+1499.87	27.57
+1467.33	26.98
+1434.8	27.75
+1402.27	27.73
+1368.45	26.72
+1333.34	27.81
+1298.23	27.63
+1263.12	27.91
+1228.01	27.35
+1192.91	27.73
+1157.8	27.59
+1122.69	26.36
+1087.58	27.25
+1052.47	27.96
+1017.37	27.47
+982.26	27.82
+947.15	27.56
+912.04	28.08
+876.94	27.39
+841.83	26.83
+806.72	27.22
+771.61	27.84
+736.5	27.47
+701.4	26.72
+666.29	27.14
+631.18	27.04
+596.07	27.65
+560.96	27.53
+525.86	27.74
+490.75	27.54
+455.64	26.98
+420.53	27.14
+385.42	26.9
+350.32	27.53
+315.21	27.06
+280.1	26.68
+244.99	27.48
+209.88	27.8
+174.78	28.12

@@ -1,0 +1,147 @@
+# PAGES2kv2_Eur-CentralandEa_Pla_2005LMR337 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Eur-CentralandEa_Pla_2005LMR337 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Pla, Sergi,Catalan, Jordi
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Pla, Sergi,Catalan, Jordi
+#	Published_Date_or_Year: 
+#	Published_Title: Chrysophyte cysts from lake sediments reveal the submillennial winter/spring climate variability in the northwestern Mediterranean region throughout the Holocene
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s00382-004-0482-1
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Central and Eastern Pyrenees (NE Spain)
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 42.5
+#	Southernmost_Latitude: 42.5
+#	Easternmost_Longitude: 0.75
+#	Westernmost_Longitude: 0.75
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Eur-CentralandEa_Pla_2005LMR337
+#	Earliest_Year: 578
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"A modern analogue procedure was applied to the pollen record to reconstruct air temperatures of the warmest, and the coldest months.", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[-12, 1, 2, 3, 4, 5]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Chrysophyte cyst derived temperature anomaly, , , degrees C, "[-12, 1, 2, 3, 4, 5]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1994.0	0.0
+1984.0	0.09114
+1963.0	-0.19458
+1943.0	0.07387
+1932.0	-0.42006
+1916.0	-0.47293
+1905.0	-0.45136
+1900.0	-0.26746
+1865.83	0.0267
+1831.67	-0.00911
+1797.5	-0.19458
+1763.33	-0.5804
+1729.17	-0.27541
+1695.0	-0.33944
+1660.83	-0.27641
+1626.67	-0.45272
+1592.5	-0.45298
+1558.33	-0.50968
+1524.17	-0.68694
+1490.0	-0.4556
+1469.69	-0.2817
+1449.38	-0.21809
+1429.08	-0.26096
+1408.77	-0.54926
+1388.46	-0.77216
+1368.15	0.09831
+1347.85	-0.95083
+1327.54	-0.93508
+1307.23	-0.7696
+1270.0	-0.32813
+1221.9	-0.39037
+1195.66	-0.41943
+1169.42	-0.83928
+1143.19	-0.94759
+1116.95	-0.91592
+1090.71	-0.6049
+1064.47	-0.6749
+1038.24	-1.03904
+1012.0	-0.40425
+986.96	-0.35499
+961.92	0.07779
+945.23	-0.45796
+920.19	0.22066
+895.15	0.27102
+870.12	-0.31133
+845.08	0.00152
+820.04	-0.13428
+795.0	-0.44895
+769.96	-0.14962
+744.92	-0.08622
+719.88	0.00586
+694.85	-0.24945
+669.81	-0.13836
+619.73	0.22804
+603.04	-0.21474
+578.0	-0.05361

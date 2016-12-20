@@ -1,0 +1,212 @@
+# southamerica_arge041 - Rio Horqueta Tucuman - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: southamerica_arge041 - Rio Horqueta Tucuman - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Rio Horqueta Tucuman
+#	Location:
+#	Country: Argentina
+#	Northernmost_Latitude: -27.13
+#	Southernmost_Latitude: -27.13
+#	Easternmost_Longitude: -65.85
+#	Westernmost_Longitude: -65.85
+#	Elevation: 1850 m
+#--------------------
+# Data_Collection
+#	Collection_Name: southamerica_arge041B
+#	Earliest_Year: 1862
+#	Most_Recent_Year: 1982
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}{"VSLite_parameters":{"T1":"5.36229997285","T2":"21.1099189665","M1":"0.0222864617128","M2":"0.194766696304"}}
+#--------------------
+# Species
+#	Species_Name: Argentine walnut
+#	Species_Code: JGAU
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1862	1.64
+1863	0.993
+1864	1.572
+1865	1.056
+1866	1.328
+1867	1.413
+1868	1.416
+1869	0.982
+1870	0.916
+1871	0.892
+1872	0.931
+1873	0.927
+1874	1.064
+1875	1.132
+1876	0.872
+1877	1.104
+1878	1.044
+1879	0.777
+1880	0.81
+1881	1.029
+1882	1.073
+1883	1.305
+1884	0.97
+1885	1.336
+1886	0.89
+1887	0.734
+1888	1.001
+1889	0.703
+1890	1.094
+1891	0.756
+1892	0.764
+1893	0.975
+1894	0.852
+1895	0.862
+1896	0.994
+1897	1.389
+1898	1.137
+1899	1.595
+1900	0.948
+1901	1.16
+1902	0.92
+1903	0.358
+1904	0.3
+1905	0.252
+1906	0.612
+1907	0.798
+1908	0.801
+1909	0.832
+1910	0.643
+1911	1.414
+1912	1.538
+1913	0.831
+1914	0.643
+1915	0.867
+1916	1.129
+1917	1.526
+1918	1.094
+1919	1.159
+1920	1.104
+1921	0.702
+1922	0.182
+1923	0.566
+1924	0.939
+1925	1.034
+1926	1.657
+1927	1.069
+1928	1.239
+1929	1.249
+1930	0.662
+1931	0.168
+1932	0.537
+1933	0.57
+1934	0.458
+1935	0.992
+1936	0.94
+1937	1.414
+1938	1.8
+1939	1.268
+1940	1.93
+1941	1.765
+1942	1.82
+1943	1.004
+1944	1.714
+1945	1.259
+1946	1.09
+1947	1.589
+1948	1.166
+1949	1.483
+1950	1.422
+1951	1.26
+1952	1.336
+1953	1.264
+1954	1.224
+1955	1.076
+1956	0.881
+1957	1.263
+1958	0.706
+1959	0.442
+1960	0.523
+1961	0.639
+1962	0.786
+1963	0.22
+1964	0.32
+1965	0.372
+1966	0.346
+1967	0.69
+1968	0.816
+1969	0.917
+1970	0.832
+1971	0.92
+1972	1.188
+1973	1.051
+1974	0.78
+1975	1.235
+1976	1.034
+1977	0.917
+1978	0.776
+1979	0.224
+1980	0.222
+1981	0.212
+1982	0.299

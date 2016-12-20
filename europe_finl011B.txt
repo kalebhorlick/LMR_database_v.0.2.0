@@ -1,0 +1,342 @@
+# europe_finl011 - Laagennus Pyhantunturi National Park - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: europe_finl011 - Laagennus Pyhantunturi National Park - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Laagennus Pyhantunturi National Park
+#	Location:
+#	Country: Finland
+#	Northernmost_Latitude: 67.0
+#	Southernmost_Latitude: 67.0
+#	Easternmost_Longitude: 27.12
+#	Westernmost_Longitude: 27.12
+#	Elevation: 270 m
+#--------------------
+# Data_Collection
+#	Collection_Name: europe_finl011B
+#	Earliest_Year: 1728
+#	Most_Recent_Year: 1978
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"4.48417022862","T2":"19.2744451707","M1":"0.0222094979116","M2":"0.28220140135"}}
+#--------------------
+# Species
+#	Species_Name: Scots pine
+#	Species_Code: PISY
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1728	1.057
+1729	1.18
+1730	1.133
+1731	0.818
+1732	1.087
+1733	0.91
+1734	0.727
+1735	0.957
+1736	1.295
+1737	0.788
+1738	1.138
+1739	1.04
+1740	0.798
+1741	0.624
+1742	0.83
+1743	0.906
+1744	1.085
+1745	1.003
+1746	1.12
+1747	0.856
+1748	1.104
+1749	1.127
+1750	1.293
+1751	1.08
+1752	1.382
+1753	1.2
+1754	1.372
+1755	1.415
+1756	1.32
+1757	1.343
+1758	1.144
+1759	1.205
+1760	1.33
+1761	1.097
+1762	1.076
+1763	0.769
+1764	0.826
+1765	0.836
+1766	1.02
+1767	0.818
+1768	0.886
+1769	0.795
+1770	0.885
+1771	0.702
+1772	0.933
+1773	1.108
+1774	1.198
+1775	1.049
+1776	0.931
+1777	0.977
+1778	1.144
+1779	1.17
+1780	0.88
+1781	0.666
+1782	0.739
+1783	0.748
+1784	0.845
+1785	1.069
+1786	0.812
+1787	0.85
+1788	1.026
+1789	1.199
+1790	0.778
+1791	1.217
+1792	1.055
+1793	0.9
+1794	0.872
+1795	1.093
+1796	1.26
+1797	1.052
+1798	1.184
+1799	1.152
+1800	0.924
+1801	1.11
+1802	1.039
+1803	1.074
+1804	1.359
+1805	1.147
+1806	0.71
+1807	1.156
+1808	0.913
+1809	0.838
+1810	0.834
+1811	0.852
+1812	0.849
+1813	0.726
+1814	0.801
+1815	0.61
+1816	0.891
+1817	0.941
+1818	1.154
+1819	1.082
+1820	0.699
+1821	0.66
+1822	0.789
+1823	1.014
+1824	1.03
+1825	1.083
+1826	1.342
+1827	1.169
+1828	1.005
+1829	1.164
+1830	0.927
+1831	1.11
+1832	0.944
+1833	1.019
+1834	1.214
+1835	1.017
+1836	1.185
+1837	0.504
+1838	0.944
+1839	0.781
+1840	0.953
+1841	0.797
+1842	0.765
+1843	1.008
+1844	0.824
+1845	1.029
+1846	0.725
+1847	0.79
+1848	0.742
+1849	1.037
+1850	0.93
+1851	1.037
+1852	1.384
+1853	1.055
+1854	1.111
+1855	1.06
+1856	0.896
+1857	0.819
+1858	0.972
+1859	0.803
+1860	0.703
+1861	0.992
+1862	0.803
+1863	0.833
+1864	0.907
+1865	1.23
+1866	1.05
+1867	0.974
+1868	1.145
+1869	1.01
+1870	1.131
+1871	0.916
+1872	0.895
+1873	0.902
+1874	0.65
+1875	0.812
+1876	1.07
+1877	1.104
+1878	1.068
+1879	0.9
+1880	0.541
+1881	0.647
+1882	1.01
+1883	0.895
+1884	0.886
+1885	0.997
+1886	1.187
+1887	1.008
+1888	0.723
+1889	1.068
+1890	1.291
+1891	0.932
+1892	0.804
+1893	0.728
+1894	0.83
+1895	0.815
+1896	1.26
+1897	0.939
+1898	1.308
+1899	1.066
+1900	0.823
+1901	1.11
+1902	0.886
+1903	0.476
+1904	0.657
+1905	0.797
+1906	0.926
+1907	0.713
+1908	0.967
+1909	0.886
+1910	0.553
+1911	0.57
+1912	0.927
+1913	0.766
+1914	0.863
+1915	0.883
+1916	0.877
+1917	0.774
+1918	0.773
+1919	0.839
+1920	0.88
+1921	1.078
+1922	1.343
+1923	1.339
+1924	1.194
+1925	1.238
+1926	0.944
+1927	1.065
+1928	0.711
+1929	0.743
+1930	1.129
+1931	0.972
+1932	0.92
+1933	0.725
+1934	1.151
+1935	0.889
+1936	0.934
+1937	1.179
+1938	1.016
+1939	0.881
+1940	0.737
+1941	1.115
+1942	0.942
+1943	0.92
+1944	1.01
+1945	0.928
+1946	0.778
+1947	1.156
+1948	1.079
+1949	1.107
+1950	1.224
+1951	1.08
+1952	1.266
+1953	1.745
+1954	1.547
+1955	1.426
+1956	1.094
+1957	1.395
+1958	1.029
+1959	1.409
+1960	1.428
+1961	0.986
+1962	0.978
+1963	0.806
+1964	1.413
+1965	0.922
+1966	1.185
+1967	1.216
+1968	1.185
+1969	0.914
+1970	1.077
+1971	0.912
+1972	1.203
+1973	1.4
+1974	1.028
+1975	1.045
+1976	1.136
+1977	0.993
+1978	0.921

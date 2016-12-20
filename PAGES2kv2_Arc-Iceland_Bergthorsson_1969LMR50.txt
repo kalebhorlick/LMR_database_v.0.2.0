@@ -1,0 +1,122 @@
+# PAGES2kv2_Arc-Iceland_Bergthorsson_1969LMR50 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Documents
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-Iceland_Bergthorsson_1969LMR50 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Bergthorsson, Pall
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Bergthorsson, Pall
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Iceland
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 64.77
+#	Southernmost_Latitude: 64.77
+#	Easternmost_Longitude: -18.37
+#	Westernmost_Longitude: -18.37
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-Iceland_Bergthorsson_1969LMR50
+#	Earliest_Year: 945
+#	Most_Recent_Year: 1935
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	annual mean temperature, , , degrees C, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Documents, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+945	4.0258039231
+975	3.3285392946
+1005	4.0525824164
+1035	3.7351665814
+1065	3.4582949468
+1095	4.27927
+1125	4.7090725778
+1155	4.2839485096
+1185	3.4372881097
+1215	3.2571386379
+1245	3.3099765521
+1275	3.0573050542
+1305	3.1833255818
+1335	3.2492748745
+1365	3.3104197188
+1485	3.31741014
+1515	3.3169838596
+1545	3.2501416034
+1575	3.3050467383
+1605	3.0840989927
+1635	3.1128065341
+1665	3.409054706
+1695	3.0646190233
+1725	3.3054817115
+1755	2.9264320317
+1785	2.9934331471
+1815	3.0912593803
+1845	3.3440295091
+1875	2.9475486072
+1905	3.2888659447
+1935	4.3605163505

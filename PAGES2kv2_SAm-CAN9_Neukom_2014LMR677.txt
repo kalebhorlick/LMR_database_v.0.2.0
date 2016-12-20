@@ -1,0 +1,462 @@
+# PAGES2kv2_SAm-CAN9_Neukom_2014LMR677 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_SAm-CAN9_Neukom_2014LMR677 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Neukom, Raphael,Gergis, Joëlle,Karoly, David J.,Wanner, Heinz,Curran, Mark,Elbert, Julie,González-Rouco, Fidel,Linsley, Braddock K.,Moy, Andrew D.,Mundo, Ignacio,Raible, Christoph C.,Steig, Eric J.,van Ommen, Tas,Vance, Tessa,Villalba, Ricardo,Zinke, Jens,Frank, David
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Neukom, Raphael,Gergis, Joëlle,Karoly, David J.,Wanner, Heinz,Curran, Mark,Elbert, Julie,González-Rouco, Fidel,Linsley, Braddock K.,Moy, Andrew D.,Mundo, Ignacio,Raible, Christoph C.,Steig, Eric J.,van Ommen, Tas,Vance, Tessa,Villalba, Ricardo,Zinke, Jens,Frank, David
+#	Published_Date_or_Year: 
+#	Published_Title: Inter-hemispheric temperature variability over the past millennium
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/NCLIMATE2174
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Central Andes composite 9
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -39.33
+#	Southernmost_Latitude: -39.33
+#	Easternmost_Longitude: -71.25
+#	Westernmost_Longitude: -71.25
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_SAm-CAN9_Neukom_2014LMR677
+#	Earliest_Year: 1636
+#	Most_Recent_Year: 2006
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Significantly correlated to local grid cell temperature in the May-Apr year prior to the growing season (Neukom et al. 2014) and to southern SAm mean temperatures in DJF prior to teh growing season (PAGES 2013)", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"negative", "seasonality":"[-5, -6, -7, -8, -9, -10, -11, -12, 1, 2, 3]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, , , unitless, "[-5, -6, -7, -8, -9, -10, -11, -12, 1, 2, 3]", Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1636	1.523
+1637	-0.298
+1638	0.479
+1639	0.628
+1640	0.522
+1641	0.714
+1642	1.166
+1643	1.092
+1644	0.554
+1645	0.266
+1646	0.559
+1647	1.145
+1648	1.544
+1649	0.479
+1650	1.022
+1651	-0.74
+1652	0.591
+1653	0.634
+1654	0.761
+1655	-0.591
+1656	-0.506
+1657	-0.224
+1658	-0.064
+1659	-0.41
+1660	0.011
+1661	-0.878
+1662	-1.256
+1663	-0.234
+1664	-1.177
+1665	-1.272
+1666	-1.107
+1667	-0.729
+1668	-0.319
+1669	-0.905
+1670	-0.831
+1671	-0.575
+1672	-0.346
+1673	-0.458
+1674	-0.474
+1675	-1.038
+1676	-0.33
+1677	-0.671
+1678	0.266
+1679	0.65
+1680	0.224
+1681	-0.09
+1682	-0.719
+1683	0.735
+1684	0.548
+1685	0.33
+1686	-0.703
+1687	-0.218
+1688	0.208
+1689	-0.751
+1690	-0.49
+1691	-0.25
+1692	-0.064
+1693	-0.261
+1694	1.32
+1695	0.825
+1696	-0.224
+1697	-0.037
+1698	0.016
+1699	-0.319
+1700	0.463
+1701	0.474
+1702	0.66
+1703	0.98
+1704	0.735
+1705	-0.357
+1706	-0.405
+1707	0.069
+1708	0.272
+1709	0.517
+1710	-0.043
+1711	0.405
+1712	-0.011
+1713	0.229
+1714	0.218
+1715	0.506
+1716	-0.538
+1717	-0.378
+1718	0.101
+1719	-0.767
+1720	0.682
+1721	0.085
+1722	-0.484
+1723	0.112
+1724	-0.186
+1725	-0.053
+1726	0.053
+1727	-0.687
+1728	0.426
+1729	0.474
+1730	0.298
+1731	0.053
+1732	-0.245
+1733	-0.447
+1734	-0.421
+1735	-0.724
+1736	0.181
+1737	-0.703
+1738	-0.548
+1739	0.016
+1740	0.559
+1741	0.069
+1742	0.298
+1743	-1.15
+1744	-0.697
+1745	-0.357
+1746	0.16
+1747	0.314
+1748	-0.096
+1749	1.571
+1750	0.884
+1751	-0.33
+1752	-0.208
+1753	0.117
+1754	0.048
+1755	-0.192
+1756	0.543
+1757	0.325
+1758	0.346
+1759	0.399
+1760	0.634
+1761	0.98
+1762	-0.426
+1763	-0.011
+1764	0.021
+1765	0.016
+1766	0.123
+1767	-0.751
+1768	-0.783
+1769	-0.128
+1770	-0.575
+1771	-0.197
+1772	-0.767
+1773	-0.341
+1774	-0.676
+1775	-0.586
+1776	-0.101
+1777	-0.447
+1778	-0.522
+1779	-0.99
+1780	-0.511
+1781	0.506
+1782	0.197
+1783	-0.271
+1784	0.559
+1785	0.138
+1786	-0.468
+1787	-0.628
+1788	0.096
+1789	-0.862
+1790	-0.277
+1791	-0.341
+1792	-0.713
+1793	0.256
+1794	1.006
+1795	0.495
+1796	0.799
+1797	0.729
+1798	0.213
+1799	0.032
+1800	0.586
+1801	-0.98
+1802	-0.761
+1803	-0.389
+1804	-0.144
+1805	-1.198
+1806	-0.91
+1807	-1.182
+1808	-0.575
+1809	-0.144
+1810	-0.921
+1811	-1.102
+1812	-0.66
+1813	-1.784
+1814	-1.001
+1815	-0.948
+1816	-0.25
+1817	-0.458
+1818	-0.66
+1819	-1.166
+1820	-0.953
+1821	-1.044
+1822	-0.761
+1823	-0.458
+1824	-0.479
+1825	-0.942
+1826	-0.602
+1827	-0.793
+1828	-0.293
+1829	-0.122
+1830	-0.543
+1831	-0.197
+1832	0.298
+1833	0.575
+1834	0.772
+1835	0.58
+1836	-0.181
+1837	0.799
+1838	0.964
+1839	-1.086
+1840	-0.165
+1841	-1.182
+1842	-1.177
+1843	-0.575
+1844	-0.271
+1845	-0.522
+1846	-0.437
+1847	-0.426
+1848	-0.325
+1849	-0.112
+1850	-0.266
+1851	-0.479
+1852	0.378
+1853	-0.884
+1854	-0.66
+1855	-0.399
+1856	-0.16
+1857	0.165
+1858	-0.218
+1859	-0.953
+1860	-0.453
+1861	-1.171
+1862	-0.559
+1863	-0.575
+1864	-0.958
+1865	-1.326
+1866	-0.756
+1867	-1.246
+1868	-0.027
+1869	-0.426
+1870	-0.831
+1871	-1.054
+1872	-0.181
+1873	-0.639
+1874	-0.905
+1875	-1.858
+1876	-0.106
+1877	-0.655
+1878	-0.687
+1879	-1.171
+1880	-0.053
+1881	-0.298
+1882	0.128
+1883	-0.117
+1884	0.405
+1885	-0.538
+1886	-0.154
+1887	-0.256
+1888	-0.996
+1889	-1.358
+1890	-0.969
+1891	-0.815
+1892	-0.101
+1893	-1.358
+1894	-0.724
+1895	-0.442
+1896	-1.081
+1897	-2.124
+1898	-0.133
+1899	-0.218
+1900	-0.208
+1901	0.208
+1902	-0.309
+1903	0.394
+1904	0.367
+1905	-0.303
+1906	-0.996
+1907	0.16
+1908	-0.676
+1909	-1.624
+1910	-0.224
+1911	-0.697
+1912	-0.634
+1913	-1.028
+1914	-0.053
+1915	0.17
+1916	-0.394
+1917	-0.735
+1918	0.091
+1919	0.314
+1920	-0.128
+1921	0.698
+1922	0.644
+1923	0.996
+1924	0.24
+1925	1.033
+1926	2.018
+1927	1.102
+1928	1.395
+1929	2.396
+1930	1.086
+1931	1.235
+1932	1.794
+1933	3.099
+1934	2.263
+1935	1.454
+1936	0.623
+1937	-0.458
+1938	1.858
+1939	1.347
+1940	2.359
+1941	2.066
+1942	0.341
+1943	0.16
+1944	0.98
+1945	0.458
+1946	2.295
+1947	1.054
+1948	1.225
+1949	0.564
+1950	2.252
+1951	3.392
+1952	0.437
+1953	0.671
+1954	1.411
+1955	0.703
+1956	1.491
+1957	0.522
+1958	0.517
+1959	1.581
+1960	0.501
+1961	1.539
+1962	-0.069
+1963	1.171
+1964	2.444
+1965	0.623
+1966	0.932
+1967	-0.08
+1968	0.458
+1969	0.793
+1970	0.224
+1971	2.758
+1972	0.66
+1973	0.128
+1974	1.193
+1975	0.942
+1976	0.868
+1977	0.367
+1978	-0.101
+1979	0.809
+1980	-0.048
+1981	-0.697
+1982	0.841
+1983	0.98
+1984	1.289
+1985	1.432
+1986	-0.032
+1987	0.421
+1988	0.591
+1989	0.953
+1990	0.186
+1991	0.698
+1992	0.884
+1993	-0.08
+1994	0.335
+1995	-0.554
+1996	-0.032
+1997	-0.176
+1998	-1.512
+1999	-1.512
+2000	0.208
+2001	-0.224
+2002	-0.144
+2003	0.644
+2004	-0.325
+2005	-0.314
+2006	-0.665

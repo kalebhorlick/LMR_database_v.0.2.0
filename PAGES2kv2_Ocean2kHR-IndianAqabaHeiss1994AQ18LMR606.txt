@@ -1,0 +1,297 @@
+# PAGES2kv2_Ocean2kHR-IndianAqabaHeiss1994AQ18LMR606 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-IndianAqabaHeiss1994AQ18LMR606 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Heiss
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Heiss
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: NaN
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Aqaba, Jordan
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 29.42
+#	Southernmost_Latitude: 29.42
+#	Easternmost_Longitude: 34.97
+#	Westernmost_Longitude: 34.97
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-IndianAqabaHeiss1994AQ18LMR606
+#	Earliest_Year: 1788
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":{"duplicate_file1":"94reds01a.txt", "duplicate_file2":"94reds01b.txt"}} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1992	-3.16
+1991	-2.98
+1990	-2.72
+1989	-2.74
+1988	-2.63
+1987	-2.93
+1986	-2.72
+1985	-2.83
+1984	-2.73
+1983	-2.98
+1982	-2.69
+1981	-2.73
+1980	-2.74
+1979	-2.99
+1978	-2.69
+1977	-2.8
+1976	-2.77
+1975	-2.78
+1974	-2.54
+1973	-2.7
+1972	-2.75
+1971	-2.84
+1970	-2.72
+1969	-2.92
+1968	-2.87
+1967	-2.65
+1966	-2.89
+1965	-2.9
+1964	-3.02
+1963	-2.88
+1962	-2.88
+1961	-2.64
+1960	-2.78
+1959	-2.96
+1958	-2.79
+1957	-2.91
+1956	-2.75
+1955	-2.82
+1954	-3.13
+1953	-3.06
+1953	-3.15
+1952	-2.67
+1951	-2.75
+1950	-2.69
+1949	-2.81
+1948	-2.96
+1947	-3.18
+1946	-2.81
+1945	-2.93
+1944	-2.72
+1943	-2.68
+1942	-2.92
+1941	-3.13
+1940	-2.86
+1939	-3.11
+1938	-2.93
+1937	-2.91
+1936	-2.72
+1935	-2.76
+1934	-2.88
+1933	-2.94
+1932	-3.0
+1931	-2.78
+1930	-2.74
+1929	-2.87
+1928	-2.74
+1927	-2.74
+1926	-2.76
+1925	-2.79
+1924	-2.8
+1923	-2.78
+1922	-2.79
+1921	-2.65
+1920	-2.81
+1919	-2.48
+1918	-2.85
+1917	-2.87
+1916	-2.57
+1915	-2.51
+1914	-2.8
+1913	-2.71
+1912	-2.55
+1911	-2.92
+1910	-2.76
+1909	-2.65
+1908	-2.79
+1907	-2.8
+1906	-2.76
+1905	-2.72
+1904	-2.9
+1903	-2.96
+1902	-2.77
+1901	-2.79
+1900	-2.57
+1899	-2.71
+1898	-2.83
+1897	-2.66
+1896	-2.74
+1895	-2.755
+1894	-2.75
+1893	-2.58
+1892	-2.78
+1891	-2.86
+1890	-2.65
+1889	-2.74
+1888	-2.79
+1887	-2.6
+1886	-2.92
+1885	-2.75
+1884	-2.67
+1883	-2.7
+1882	-2.82
+1881	-2.69
+1880	-2.88
+1879	-2.69
+1878	-2.79
+1877	-2.8
+1876	-2.88
+1875	-2.61
+1874	-2.49
+1873	-2.74
+1872	-2.77
+1871	-2.68
+1870	-2.74
+1869	-2.72
+1868	-2.8
+1867	-2.57
+1866	-2.77
+1865	-2.67
+1864	-2.76
+1863	-2.69
+1862	-2.7
+1861	-2.68
+1860	-2.73
+1859	-2.72
+1858	-2.82
+1857	-2.55
+1856	-2.81
+1855	-2.84
+1854	-2.64
+1853	-2.64
+1852	-2.71
+1851	-2.55
+1850	-2.48
+1849	-2.61
+1848	-2.6
+1847	-2.64
+1846	-2.82
+1845	-2.84
+1844	-2.53
+1843	-2.61
+1842	-2.67
+1841	-2.93
+1840	-2.72
+1839	-2.79
+1838	-2.67
+1837	-2.62
+1836	-2.65
+1835	-2.48
+1834	-2.42
+1833	-2.31
+1832	-2.18
+1831	-2.6
+1830	-2.67
+1829	-2.53
+1828	-2.67
+1827	-2.64
+1826	-2.52
+1825	-2.48
+1824	-2.14
+1823	-2.91
+1822	-2.56
+1821	-2.83
+1820	-2.71
+1819	-2.72
+1818	-2.64
+1817	-2.42
+1816	-2.47
+1815	-2.54
+1814	-2.6
+1813	-2.59
+1812	-2.59
+1811	-2.49
+1810	-2.55
+1809	-2.51
+1808	-2.61
+1807	-2.36
+1806	-2.48
+1805	-2.47
+1804	-2.49
+1803	-2.3
+1802	-2.6
+1801	-2.57
+1800	-2.71
+1799	-2.59
+1798	-2.7
+1797	-2.85
+1796	-2.63
+1795	-2.75
+1794	-2.73
+1793	-2.87
+1792	-2.44
+1791	-2.96
+1790	-2.58
+1789	-2.37
+1788	-2.48

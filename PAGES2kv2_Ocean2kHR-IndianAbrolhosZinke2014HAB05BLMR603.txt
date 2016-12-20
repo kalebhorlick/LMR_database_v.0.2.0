@@ -1,0 +1,304 @@
+# PAGES2kv2_Ocean2kHR-IndianAbrolhosZinke2014HAB05BLMR603 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-IndianAbrolhosZinke2014HAB05BLMR603 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Zinke, J.,Rountrey, A.,Feng, M.,Xie, S.-P.,Dissard, D.,Rankenburg, K.,Lough, J.M.,McCulloch, M.T.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Zinke, J.,Rountrey, A.,Feng, M.,Xie, S.-P.,Dissard, D.,Rankenburg, K.,Lough, J.M.,McCulloch, M.T.
+#	Published_Date_or_Year: 
+#	Published_Title: Corals record long-term Leeuwin current variability including Ningaloo Niño/Niña since 1795
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/ncomms4607
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Houtman Abrolhos
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -28.4609
+#	Southernmost_Latitude: -28.4609
+#	Easternmost_Longitude: 113.772
+#	Westernmost_Longitude: 113.772
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-IndianAbrolhosZinke2014HAB05BLMR603
+#	Earliest_Year: 1798
+#	Most_Recent_Year: 2010
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":{"duplicate_file1":"14aust01a.txt", "duplicate_file2":"14aust01b.txt"}} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+1798	9.411761693
+1799	9.348158737
+1800	9.462612695
+1801	9.385861412
+1802	nan
+1803	9.352613291
+1804	9.403419621
+1805	9.298095176
+1806	9.317137756
+1807	9.338699886
+1808	9.389295214
+1809	9.284855084
+1810	9.311123048
+1811	9.378014511
+1812	nan
+1813	9.320271105
+1814	9.378387831
+1815	9.369525844
+1816	9.28890297
+1817	9.338604517
+1818	9.344428765
+1819	9.314636615
+1820	9.362372593
+1821	9.370389496
+1822	9.30274629
+1823	9.249862683
+1824	9.245394566
+1825	9.24312544
+1826	nan
+1827	9.27862493
+1828	nan
+1829	9.280355224
+1830	9.255252274
+1831	9.263951985
+1832	9.396498375
+1833	9.36210625
+1834	9.39078672
+1835	9.320741713
+1836	nan
+1837	9.355843477
+1838	9.278417208
+1839	9.330136305
+1840	9.391321506
+1841	9.277132441
+1842	9.256347018
+1843	9.241998105
+1844	9.259110581
+1845	9.245033528
+1846	9.214703624
+1847	9.272020037
+1848	9.348382222
+1849	nan
+1850	9.265116924
+1851	9.239690702
+1852	9.249168253
+1853	9.267471426
+1854	9.294803562
+1855	9.273360754
+1856	9.377398502
+1857	9.316176432
+1858	9.326686403
+1859	nan
+1860	9.402519217
+1861	nan
+1862	9.349905104
+1863	9.319852852
+1864	9.31417343
+1865	9.315552393
+1866	9.293260209
+1867	9.358807417
+1868	9.277639618
+1869	9.260555654
+1870	9.279221761
+1871	9.301215794
+1872	9.298563908
+1873	9.255077565
+1874	9.305391036
+1875	9.290825659
+1876	9.324092124
+1877	9.289109321
+1878	9.318565325
+1879	9.322659065
+1880	9.253192562
+1881	nan
+1882	9.226607247
+1883	9.313315192
+1884	9.272345566
+1885	9.273686898
+1886	9.268531763
+1887	9.346438631
+1888	9.271646733
+1889	nan
+1890	9.307619701
+1891	9.244522628
+1892	9.320796645
+1893	9.276667823
+1894	9.26788164
+1895	9.266990011
+1896	9.292294236
+1897	9.334120845
+1898	nan
+1899	9.297816495
+1900	nan
+1901	nan
+1902	9.287305101
+1903	9.307940064
+1904	9.258194478
+1905	9.304425647
+1906	9.233812017
+1907	9.257165614
+1908	9.213935569
+1909	9.172022611
+1910	9.242120104
+1911	nan
+1912	9.20530434
+1913	9.165254557
+1914	9.288126055
+1915	9.256284094
+1916	9.22391652
+1917	9.227273237
+1918	9.190749565
+1919	9.288209971
+1920	9.256199903
+1921	9.186037834
+1922	9.197576394
+1923	9.261357598
+1924	9.306685151
+1925	9.321572888
+1926	9.284167239
+1927	9.281427325
+1928	9.272371903
+1929	9.246058751
+1930	9.249591133
+1931	9.255708644
+1932	9.20216618
+1933	9.261609164
+1934	9.182754959
+1935	9.200079003
+1936	nan
+1937	9.254102714
+1938	9.236806899
+1939	9.267650649
+1940	9.268338553
+1941	9.261511451
+1942	9.267106289
+1943	9.258738753
+1944	9.299093089
+1945	9.265955229
+1946	9.280428368
+1947	9.280327108
+1948	nan
+1949	9.207562139
+1950	nan
+1951	9.242500354
+1952	nan
+1953	9.261397953
+1954	9.293133467
+1955	9.268793567
+1956	9.282563039
+1957	9.257077508
+1958	9.21846456
+1959	9.267203359
+1960	9.243267696
+1961	9.222374395
+1962	9.227617832
+1963	9.138537741
+1964	9.162252695
+1965	9.215895335
+1966	9.154769581
+1967	9.183221665
+1968	9.219923869
+1969	9.232300445
+1970	9.21451012
+1971	9.288885289
+1972	9.181971636
+1973	9.163029817
+1974	9.166100825
+1975	9.157697453
+1976	9.181747049
+1977	9.181236479
+1978	9.115124634
+1979	9.211446624
+1980	9.161855939
+1981	9.167664734
+1982	9.160733175
+1983	9.064188425
+1984	nan
+1985	9.133362747
+1986	9.180775369
+1987	nan
+1988	9.1709541
+1989	9.097081277
+1990	9.104251908
+1991	9.187517816
+1992	9.096084338
+1993	9.245200765
+1994	9.144724741
+1995	9.157727108
+1996	9.09922741
+1997	9.192619788
+1998	9.124461327
+1999	9.073438378
+2000	9.078696347
+2001	9.190831348
+2002	9.146647652
+2003	9.170554743
+2004	9.207279156
+2005	9.175726648
+2006	9.175053786
+2007	9.151618387
+2008	9.071749364
+2009	9.152740196
+2010	9.162696292

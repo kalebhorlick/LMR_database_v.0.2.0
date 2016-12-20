@@ -1,0 +1,145 @@
+# PAGES2kv2_O2kLR-SouthAtlanti_Leduc_2010LMR567 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-SouthAtlanti_Leduc_2010LMR567 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: South Atlantic, West Africa
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -29.14
+#	Southernmost_Latitude: -29.14
+#	Easternmost_Longitude: 16.72
+#	Westernmost_Longitude: 16.72
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-SouthAtlanti_Leduc_2010LMR567
+#	Earliest_Year: -1089
+#	Most_Recent_Year: 1938
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1938	16.03
+1918	16.18
+1898	16.15
+1879	16.18
+1859	16.39
+1839	16.39
+1819	16.3
+1799	16.18
+1780	16.36
+1760	16.0
+1740	16.03
+1720	16.03
+1700	16.12
+1680	16.15
+1661	16.55
+1641	16.55
+1621	16.73
+1601	16.67
+1581	16.61
+1562	16.27
+1542	16.45
+1522	16.39
+1502	16.33
+1482	16.42
+1462	16.55
+1443	16.58
+1423	16.3
+1403	16.27
+1383	16.33
+1363	16.3
+1343	16.48
+1324	16.36
+1304	16.33
+1284	16.58
+1264	16.64
+1244	16.7
+1225	16.97
+1205	17.03
+1185	16.79
+1158	16.79
+1125	16.55
+1093	16.58
+1061	16.52
+1028	16.55
+996	16.36
+964	16.36
+931	16.36
+899	16.33
+867	16.52
+835	16.42
+802	16.42
+770	16.58
+738	16.33
+705	16.21

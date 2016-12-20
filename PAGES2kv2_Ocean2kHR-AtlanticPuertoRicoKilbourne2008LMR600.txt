@@ -1,0 +1,345 @@
+# PAGES2kv2_Ocean2kHR-AtlanticPuertoRicoKilbourne2008LMR600 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticPuertoRicoKilbourne2008LMR600 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Kilbourne, K. H.,Quinn, T. M.,Webb, R.,Guilderson, T.,Nyberg, J.,Winter, A.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Kilbourne, K. H.,Quinn, T. M.,Webb, R.,Guilderson, T.,Nyberg, J.,Winter, A.
+#	Published_Date_or_Year: 
+#	Published_Title: Paleoclimate proxy perspective on Caribbean climate since the year 1751: Evidence of cooler temperatures and multidecadal variability
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2008PA001598
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Turrumote Reef, Puerto Rico
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 17.93
+#	Southernmost_Latitude: 17.93
+#	Easternmost_Longitude: -67
+#	Westernmost_Longitude: -67
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticPuertoRicoKilbourne2008LMR600
+#	Earliest_Year: 1751
+#	Most_Recent_Year: 2004
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"08puer01a.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[-7, -8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, "[-7, -8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+2004	9.024
+2003	9.048
+2002	8.997
+2001	9.021
+2000	9.103
+1999	9.091
+1998	9.112
+1997	9.049
+1996	9.074
+1995	8.97
+1994	9.028
+1993	9.028
+1992	8.975
+1991	9.087
+1990	9.106
+1989	9.003
+1988	9.004
+1987	9.043
+1986	9.049
+1985	9.17
+1984	9.087
+1983	9.098
+1982	9.062
+1981	9.149
+1980	9.175
+1979	9.032
+1978	9.079
+1977	9.146
+1976	9.044
+1975	9.107
+1974	9.087
+1973	9.055
+1972	9.089
+1971	9.075
+1970	9.194
+1969	9.19
+1968	9.173
+1967	9.092
+1966	9.078
+1965	9.138
+1964	9.178
+1963	9.196
+1962	9.156
+1961	9.153
+1960	9.173
+1959	9.076
+1958	9.156
+1957	9.057
+1956	9.194
+1955	9.13
+1954	9.042
+1953	9.06
+1952	9.02
+1951	9.032
+1950	9.119
+1949	9.05
+1948	9.049
+1947	9.148
+1946	9.059
+1945	9.121
+1944	9.169
+1943	9.049
+1942	9.086
+1941	9.057
+1940	9.056
+1939	9.06
+1938	9.094
+1937	9.132
+1936	9.157
+1935	9.126
+1934	9.129
+1933	9.113
+1932	9.116
+1931	9.17
+1930	9.157
+1929	9.184
+1928	9.131
+1927	9.092
+1926	9.038
+1925	9.099
+1924	9.086
+1923	9.079
+1922	9.138
+1921	9.132
+1920	nan
+1919	9.155
+1918	9.138
+1917	9.084
+1916	9.059
+1915	9.134
+1914	9.117
+1913	9.153
+1912	9.116
+1911	9.111
+1910	9.114
+1909	9.125
+1908	9.154
+1907	9.095
+1906	9.087
+1905	9.079
+1904	9.032
+1903	9.07
+1902	9.101
+1901	9.091
+1900	9.087
+1899	9.107
+1898	9.066
+1897	9.139
+1896	9.107
+1895	9.132
+1894	9.074
+1893	9.1
+1892	9.129
+1891	9.166
+1890	9.072
+1889	9.043
+1888	9.045
+1887	9.098
+1886	9.154
+1885	9.122
+1884	9.086
+1883	9.119
+1882	9.107
+1881	9.093
+1880	9.07
+1879	9.183
+1878	9.106
+1877	9.141
+1876	9.131
+1875	9.096
+1874	9.132
+1873	9.112
+1872	9.177
+1871	9.04
+1870	9.07
+1869	9.135
+1868	9.126
+1867	9.182
+1866	9.164
+1865	9.149
+1864	9.182
+1863	9.118
+1862	9.107
+1861	9.121
+1860	9.089
+1859	9.158
+1858	9.141
+1857	9.096
+1856	9.165
+1855	9.18
+1854	9.198
+1853	9.099
+1852	9.112
+1851	9.15
+1850	9.181
+1849	9.106
+1848	9.206
+1847	9.126
+1846	9.144
+1845	9.217
+1844	9.103
+1843	9.168
+1842	9.086
+1841	9.105
+1840	9.055
+1839	9.141
+1838	9.142
+1837	9.1
+1836	9.151
+1835	9.133
+1834	9.146
+1833	9.15
+1832	9.112
+1831	9.11
+1830	9.095
+1829	9.104
+1828	9.089
+1827	9.149
+1826	9.132
+1825	9.184
+1824	9.127
+1823	9.16
+1822	9.193
+1821	9.153
+1820	9.226
+1819	9.229
+1818	9.203
+1817	9.14
+1816	9.131
+1815	9.141
+1814	9.155
+1813	9.131
+1812	9.09
+1811	9.129
+1810	9.075
+1809	9.106
+1808	9.163
+1807	9.142
+1806	9.116
+1805	9.081
+1804	9.142
+1803	9.127
+1802	9.166
+1801	9.119
+1800	9.199
+1799	9.156
+1798	9.15
+1797	9.208
+1796	9.175
+1795	9.121
+1794	9.08
+1793	9.219
+1792	9.158
+1791	9.212
+1790	9.136
+1789	9.15
+1788	9.204
+1787	9.226
+1786	9.187
+1785	9.187
+1784	9.219
+1783	9.177
+1782	9.144
+1781	9.2
+1780	9.155
+1779	9.158
+1778	9.261
+1777	9.151
+1776	9.123
+1775	9.106
+1774	9.072
+1773	9.187
+1772	9.115
+1771	9.12
+1770	9.225
+1769	9.189
+1768	9.163
+1767	9.141
+1766	9.065
+1765	9.159
+1764	9.151
+1763	9.113
+1762	9.102
+1761	9.125
+1760	9.178
+1759	9.136
+1758	9.167
+1757	9.1
+1756	9.145
+1755	9.166
+1754	9.15
+1753	9.114
+1752	9.14
+1751	9.196

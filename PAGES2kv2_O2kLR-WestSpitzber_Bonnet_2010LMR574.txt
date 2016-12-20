@@ -1,0 +1,142 @@
+# PAGES2kv2_O2kLR-WestSpitzber_Bonnet_2010LMR574 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-WestSpitzber_Bonnet_2010LMR574 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: West Spitzberg, Fram Strait
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 78.96
+#	Southernmost_Latitude: 78.96
+#	Easternmost_Longitude: 5.885
+#	Westernmost_Longitude: 5.885
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-WestSpitzber_Bonnet_2010LMR574
+#	Earliest_Year: -492.1
+#	Most_Recent_Year: 1942.5
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Modern Analogue Technique", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[6, 7, 8]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1942.5	4.25
+1927.2	2.69
+1911.2	3.42
+1894.7	2.36
+1877.6	3.57
+1859.7	3.3
+1841.2	5.56
+1822.0	3.41
+1801.9	3.46
+1781.0	2.9
+1759.2	3.53
+1736.3	3.75
+1708.7	7.7
+1674.6	5.87
+1636.1	6.84
+1594.6	6.97
+1551.0	6.54
+1505.7	6.31
+1459.2	5.84
+1411.7	5.15
+1363.4	5.53
+1307.7	3.67
+1240.0	7.68
+1163.3	3.14
+1080.6	6.22
+995.0	5.92
+909.4	3.96
+826.9	7.17
+750.3	4.22
+682.7	5.35
+626.6	9.87
+579.3	9.27
+535.4	8.62
+494.5	5.3
+456.1	2.9
+419.9	3.64
+385.1	5.12
+351.1	7.71
+317.1	8.08
+282.3	6.63
+245.6	3.59
+205.6	4.76
+160.8	8.97
+109.3	6.91
+49.0	9.61
+-20.9	6.53
+-100.6	6.5
+-190.0	6.72
+-289.0	4.96
+-390.6	6.28
+-492.1	4.79

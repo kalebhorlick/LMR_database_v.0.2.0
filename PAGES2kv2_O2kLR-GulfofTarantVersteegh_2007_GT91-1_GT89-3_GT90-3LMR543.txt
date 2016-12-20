@@ -1,0 +1,163 @@
+# PAGES2kv2_O2kLR-GulfofTarantVersteegh_2007_GT91-1_GT89-3_GT90-3LMR543 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-GulfofTarantVersteegh_2007_GT91-1_GT89-3_GT90-3LMR543 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Gulf of Taranto (Italy)
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 39.85
+#	Southernmost_Latitude: 39.85
+#	Easternmost_Longitude: 17.81
+#	Westernmost_Longitude: 17.81
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-GulfofTarantVersteegh_2007_GT91-1_GT89-3_GT90-3LMR543
+#	Earliest_Year: 1305.62
+#	Most_Recent_Year: 1975.13
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[-11, -12, 1, 2, 3]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[-11, -12, 1, 2, 3]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1975.13	16.5
+1971.26	16.53
+1967.39	15.84
+1963.52	16.23
+1959.65	15.76
+1955.78	17.85
+1951.91	18.32
+1948.04	17.22
+1944.17	17.04
+1940.3	15.76
+1936.43	16.47
+1932.56	16.47
+1928.69	16.02
+1924.82	15.93
+1920.95	16.05
+1917.08	16.26
+1913.21	16.65
+1909.34	15.64
+1905.47	15.67
+1901.6	15.64
+1897.73	16.68
+1893.86	16.41
+1889.99	15.73
+1886.12	15.61
+1882.25	16.89
+1878.38	16.83
+1874.51	15.28
+1870.64	15.99
+1866.77	15.55
+1862.9	16.11
+1859.03	15.22
+1855.16	14.98
+1851.29	15.29
+1847.42	15.31
+1843.55	15.52
+1839.68	14.86
+1835.81	16.26
+1831.94	14.99
+1828.07	15.87
+1824.2	15.74
+1820.33	15.9
+1816.46	15.56
+1812.59	15.96
+1808.72	16.52
+1804.85	15.74
+1800.98	16.25
+1797.11	16.29
+1793.24	16.53
+1789.37	17.85
+1785.5	17.4
+1781.63	16.8
+1777.76	16.47
+1773.89	17.37
+1770.02	16.02
+1766.15	16.17
+1762.28	16.29
+1758.41	15.25
+1754.54	15.96
+1750.67	15.76
+1746.8	14.77
+1742.93	15.67
+1739.06	15.07
+1735.19	15.49
+1731.32	15.84
+1727.45	15.46
+1723.58	14.5
+1719.71	14.98
+1715.84	15.37
+1711.97	15.01
+1708.1	14.78
+1704.23	14.8
+1700.36	14.33

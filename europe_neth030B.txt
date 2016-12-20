@@ -1,0 +1,234 @@
+# europe_neth030 - Mattemburgh Sub-dominant Trees - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: europe_neth030 - Mattemburgh Sub-dominant Trees - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Mattemburgh Sub-dominant Trees
+#	Location:
+#	Country: Netherlands
+#	Northernmost_Latitude: 51.45
+#	Southernmost_Latitude: 51.45
+#	Easternmost_Longitude: 4.32
+#	Westernmost_Longitude: 4.32
+#	Elevation: 5 m
+#--------------------
+# Data_Collection
+#	Collection_Name: europe_neth030B
+#	Earliest_Year: 1849
+#	Most_Recent_Year: 1991
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"5.47230616868","T2":"18.7764101114","M1":"0.0220219632326","M2":"0.291232182585"}}
+#--------------------
+# Species
+#	Species_Name: English oak
+#	Species_Code: QURO
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1849	1.214
+1850	1.19
+1851	1.138
+1852	1.014
+1853	0.928
+1854	0.901
+1855	0.978
+1856	0.859
+1857	0.885
+1858	0.834
+1859	0.898
+1860	0.988
+1861	1.046
+1862	1.117
+1863	1.116
+1864	1.141
+1865	1.128
+1866	1.037
+1867	1.121
+1868	1.116
+1869	1.136
+1870	1.033
+1871	1.023
+1872	1.023
+1873	0.93
+1874	0.966
+1875	0.954
+1876	1.005
+1877	0.91
+1878	0.982
+1879	1.028
+1880	1.062
+1881	0.959
+1882	0.954
+1883	0.922
+1884	0.942
+1885	0.946
+1886	1.052
+1887	0.981
+1888	0.926
+1889	0.958
+1890	0.939
+1891	0.934
+1892	0.93
+1893	0.962
+1894	0.937
+1895	0.914
+1896	1.017
+1897	0.936
+1898	0.965
+1899	0.884
+1900	0.884
+1901	0.88
+1902	0.826
+1903	0.805
+1904	0.759
+1905	0.782
+1906	0.797
+1907	0.857
+1908	0.882
+1909	0.936
+1910	0.998
+1911	1.011
+1912	0.923
+1913	0.92
+1914	0.917
+1915	0.924
+1916	0.947
+1917	0.929
+1918	0.897
+1919	0.866
+1920	0.855
+1921	0.853
+1922	0.878
+1923	0.931
+1924	0.946
+1925	0.925
+1926	0.914
+1927	0.921
+1928	0.874
+1929	0.885
+1930	0.949
+1931	0.995
+1932	1.048
+1933	1.082
+1934	0.987
+1935	0.945
+1936	1.022
+1937	1.114
+1938	1.08
+1939	1.037
+1940	0.966
+1941	0.911
+1942	0.995
+1943	1.032
+1944	1.061
+1945	1.05
+1946	1.192
+1947	1.202
+1948	1.195
+1949	1.173
+1950	1.104
+1951	1.234
+1952	1.117
+1953	1.229
+1954	1.106
+1955	1.061
+1956	1.126
+1957	1.015
+1958	1.174
+1959	1.189
+1960	1.13
+1961	1.026
+1962	1.023
+1963	0.976
+1964	0.878
+1965	0.814
+1966	0.78
+1967	0.886
+1968	0.932
+1969	0.965
+1970	0.909
+1971	1.014
+1972	0.982
+1973	0.968
+1974	0.959
+1975	0.906
+1976	0.927
+1977	0.901
+1978	0.93
+1979	0.923
+1980	0.868
+1981	0.957
+1982	0.95
+1983	0.803
+1984	0.696
+1985	0.765
+1986	0.863
+1987	0.902
+1988	0.922
+1989	1.246
+1990	1.225
+1991	1.211

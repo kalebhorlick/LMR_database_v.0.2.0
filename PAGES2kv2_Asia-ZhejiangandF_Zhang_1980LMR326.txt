@@ -1,0 +1,141 @@
+# PAGES2kv2_Asia-ZhejiangandF_Zhang_1980LMR326 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Documents
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-ZhejiangandF_Zhang_1980LMR326 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Zhang D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Zhang D.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Zhejiang and Fujian province
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 25
+#	Southernmost_Latitude: 25
+#	Easternmost_Longitude: 118
+#	Westernmost_Longitude: 118
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-ZhejiangandF_Zhang_1980LMR326
+#	Earliest_Year: 1470
+#	Most_Recent_Year: 1960
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Frequency of cold/warm years, winter temperature, , , , "[-12, 1, 2]", Documents, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1470	1.23506152249
+1480	1.21930337174
+1490	1.2191994843
+1500	0.505765103059
+1510	-1.02294114828
+1520	-0.207764810422
+1530	0.489826644323
+1540	1.25014619536
+1550	0.481844278155
+1560	-0.991990855219
+1570	0.481666355722
+1580	1.24981781635
+1590	0.497183296101
+1600	0.504949531141
+1610	1.24173634329
+1620	-0.271291766141
+1630	-0.271369381033
+1640	-0.686922603834
+1650	-1.07111714466
+1660	-1.43963354357
+1670	-1.06344763726
+1680	0.441573028855
+1690	-1.04792711278
+1700	0.504124403372
+1710	-0.287705478481
+1720	-1.07169031605
+1730	-0.303541245178
+1740	1.22500022263
+1750	1.18572007793
+1760	1.21700949917
+1770	-0.288190285834
+1780	-1.04865910121
+1790	-1.80913149859
+1800	-0.304110831421
+1810	-0.264990697057
+1820	1.23218372938
+1830	-1.04122721589
+1840	-0.265245042132
+1850	-1.05707134198
+1860	-1.77834598906
+1870	0.800626375398
+1880	1.2238526897
+1890	-1.77858958918
+1900	-0.273571310716
+1910	1.52933051804
+1920	1.19216205195
+1930	1.18425491513
+1940	1.20770287093
+1950	0.462887125568
+1960	-0.266227790485

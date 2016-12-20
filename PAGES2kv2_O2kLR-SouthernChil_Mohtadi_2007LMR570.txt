@@ -1,0 +1,149 @@
+# PAGES2kv2_O2kLR-SouthernChil_Mohtadi_2007LMR570 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-SouthernChil_Mohtadi_2007LMR570 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Mohtadi, Mahyar,Romero, Oscar E.,Kaiser, Jérôme,Hebbeln, Dierk
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Mohtadi, Mahyar,Romero, Oscar E.,Kaiser, Jérôme,Hebbeln, Dierk
+#	Published_Date_or_Year: 
+#	Published_Title: Cooling of the southern high latitudes during the Medieval Period and its effect on ENSO
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.quascirev.2006.12.008
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Southern Chile Margin
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -44.15
+#	Southernmost_Latitude: -44.15
+#	Easternmost_Longitude: -75.16
+#	Westernmost_Longitude: -75.16
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-SouthernChil_Mohtadi_2007LMR570
+#	Earliest_Year: -167.5
+#	Most_Recent_Year: 1988.46
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1900.5	13.01
+1851.1	12.7
+1801.6	13.11
+1752.1	13.12
+1702.6	12.92
+1653.2	13.25
+1554.2	13.23
+1504.7	12.32
+1452.5	13.35
+1397.5	13.38
+1342.5	13.09
+1287.5	12.93
+1232.5	13.33
+1177.5	13.24
+1122.5	13.22
+1067.5	13.06
+1023.9	13.28
+991.7	13.4
+959.6	13.37
+927.4	13.42
+895.2	13.24
+863.0	13.39
+830.9	13.53
+798.7	13.77
+766.5	13.78
+734.4	13.97
+702.2	13.67
+670.0	14.06
+636.7	14.56
+603.3	14.36
+570.0	14.34
+536.7	13.99
+503.3	14.28
+470.0	13.9
+436.7	13.85
+403.3	13.92
+370.0	14.15
+336.7	14.14
+307.5	14.05
+282.5	14.12
+257.5	14.23
+232.5	14.13
+207.5	14.26
+182.5	14.35
+157.5	14.35
+132.5	14.15
+107.5	13.99
+82.5	14.06
+57.5	14.11
+32.5	14.3
+7.5	14.26
+-17.5	14.24
+-42.5	14.43
+-67.5	14.4
+-92.5	14.56
+-117.5	14.2
+-142.5	14.34
+-167.5	14.28

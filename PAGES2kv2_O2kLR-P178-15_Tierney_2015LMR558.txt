@@ -1,0 +1,137 @@
+# PAGES2kv2_O2kLR-P178-15_Tierney_2015LMR558 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-P178-15_Tierney_2015LMR558 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Tierney, Jessica E., Ummenhofer, Caroline C., deMenocal, Peter B
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Tierney, Jessica E., Ummenhofer, Caroline C., deMenocal, Peter B
+#	Published_Date_or_Year: 
+#	Published_Title: Past and future rainfall in the Horn of Africa
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: P178-15
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 11.955
+#	Southernmost_Latitude: 11.955
+#	Easternmost_Longitude: 44.3
+#	Westernmost_Longitude: 44.3
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-P178-15_Tierney_2015LMR558
+#	Earliest_Year: 131
+#	Most_Recent_Year: 1980
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##sst	median calibrated ssts from tex86, using BAYSPAR-NRS (Tierney & Tingley, 2014, GCA), , , deg C, , Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	sst
+2000.0	27.991
+1997.0	28.0915
+1993.6667	28.138
+1991.0	27.9088
+1988.3333	27.9526
+1985.0	28.1315
+1982.3333	28.2157
+1979.3333	28.3286
+1976.0	28.1802
+1972.5	27.8305
+1968.0	27.7525
+1961.0	27.6173
+1954.0	27.4944
+1947.0	27.5583
+1940.0	27.5576
+1933.0	27.4715
+1925.0	27.7486
+1917.0	27.3564
+1908.0	27.2763
+1899.0	27.3566
+1890.0	26.9584
+1879.0	27.3539
+1868.0	27.2047
+1857.0	27.5543
+1846.0	27.4515
+1835.0	27.0437
+1824.0	27.0205
+1814.0	27.1234
+1803.0	27.3885
+1792.0	27.1698
+1781.0	27.1975
+1770.0	27.4333
+1759.0	27.0978
+1748.0	27.2999
+1737.0	27.341
+1726.0	27.401
+1715.0	27.1017
+1705.0	27.1164
+1694.0	27.3041
+1684.0	27.3439
+1674.0	27.2789
+1665.0	27.4765
+1655.0	27.2215
+1646.0	27.337
+1637.0	27.1688
+1628.0	27.5189

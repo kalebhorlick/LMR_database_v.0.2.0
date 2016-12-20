@@ -1,0 +1,115 @@
+# PAGES2kv2_Asia-SourthandMid_Demezhko_2007LMR268 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Borehole
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-SourthandMid_Demezhko_2007LMR268 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Demezhko D.Yu.; Golovanova I.V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Demezhko D.Yu.; Golovanova I.V.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Sourth and Middle Urals
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 55
+#	Southernmost_Latitude: 55
+#	Easternmost_Longitude: 59.5
+#	Westernmost_Longitude: 59.5
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-SourthandMid_Demezhko_2007LMR268
+#	Earliest_Year: 800
+#	Most_Recent_Year: 1950
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"N/A", "climateVariable":"T", "climateVariableDetail":"ground surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred ground surface temperature (GST) anomaly, , , degrees C, , Borehole, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+800	0.166
+850	0.264
+900	0.354
+950	0.447
+1000	0.538
+1050	0.62
+1100	0.686
+1150	0.724
+1200	0.716
+1250	0.649
+1300	0.508
+1350	0.336
+1400	0.126
+1450	-0.091
+1500	-0.354
+1550	-0.624
+1600	-0.879
+1650	-1.094
+1700	-1.224
+1750	-1.186
+1800	-0.906
+1850	-0.411
+1900	0.118
+1950	0.516

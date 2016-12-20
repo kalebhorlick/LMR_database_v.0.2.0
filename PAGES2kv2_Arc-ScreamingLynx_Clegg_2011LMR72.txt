@@ -1,0 +1,165 @@
+# PAGES2kv2_Arc-ScreamingLynx_Clegg_2011LMR72 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-ScreamingLynx_Clegg_2011LMR72 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Barley, Erin M.,Walker, Ian R.,Kurek, Joshua,Cwynar, Les C.,Mathewes, Rolf W.,Gajewski, Konrad,Finney, Bruce P.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Barley, Erin M.,Walker, Ian R.,Kurek, Joshua,Cwynar, Les C.,Mathewes, Rolf W.,Gajewski, Konrad,Finney, Bruce P.
+#	Published_Date_or_Year: 
+#	Published_Title: A northwest North American training set: distribution of freshwater midges in relation to air temperature and lake depth
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s10933-006-0014-6
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Screaming Lynx Lake
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 66.07
+#	Southernmost_Latitude: 66.07
+#	Easternmost_Longitude: -145.4
+#	Westernmost_Longitude: -145.4
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-ScreamingLynx_Clegg_2011LMR72
+#	Earliest_Year: -1067.3
+#	Most_Recent_Year: 1987.75
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	, , , degrees C, "[7]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1987.75	15.4
+1927.9	14.3324
+1900.6	14.5103
+1841.55	14.5678
+1828.15	15.2673
+1814.65	14.578
+1801.05	14.9832
+1773.9	15.4738
+1747.1	14.1979
+1720.45	15.3451
+1710.45	14.8523
+1703.75	13.9883
+1694.1	15.4621
+1684.625	14.6445
+1678.275	14.4401
+1668.8	14.9007
+1659.325	14.8652
+1652.975	14.4496
+1643.4	14.998
+1633.475	14.7377
+1626.425	15.374
+1615.85	14.8081
+1605.25	15.6259
+1598.15	15.5403
+1587.55	15.5125
+1576.95	15.6362
+1569.85	15.5328
+1559.4	14.9697
+1504.95	14.7067
+1479.45	14.7675
+1454.5	14.2456
+1429.5	14.4358
+1403.05	14.7169
+1376.4	15.6751
+1335.2	15.4318
+1288.15	15.0971
+1235.6	14.0065
+1166.1	14.6268
+1028.25	14.8746
+1010.9	14.849
+845.2	15.5328
+772.675	15.156
+705.825	14.579
+649.1	14.0824
+592.975	15.1131
+535.475	14.0585
+477.7	14.3985
+423.325	14.5213
+372.85	14.7256
+322.225	14.1894
+271.225	14.4632
+219.625	14.4917
+143.8	14.6249
+67.825	14.7936
+23.725	14.8467
+-73.55	15.9322
+-127.9	15.0523
+-180.45	15.1794
+-234.05	15.8398
+-289.35	15.0151
+-344.35	15.2998
+-396.3	15.0007
+-447.9	14.6895
+-499.25	15.412
+-552.6	15.0778
+-632.5	15.6016
+-685.5	15.0813
+-738.6	15.3936
+-794.15	14.434
+-852.15	14.7028
+-909.3	15.0148
+-963.65	14.9816
+-1019.1	14.7579
+-1067.3	14.044

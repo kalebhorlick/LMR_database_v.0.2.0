@@ -1,0 +1,119 @@
+# PAGES2kv2_Arc-Lake4_Rolland_2009LMR56 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-Lake4_Rolland_2009LMR56 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Birks, H.J.B.,Birks, H.J.B
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Birks, H.J.B.,Birks, H.J.B
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1023/A:1008038808690
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Lake 4
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 65.1
+#	Southernmost_Latitude: 65.1
+#	Easternmost_Longitude: -83.79
+#	Westernmost_Longitude: -83.79
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-Lake4_Rolland_2009LMR56
+#	Earliest_Year: 634.05
+#	Most_Recent_Year: 1997.45
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[8]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	chironomid assemblages derived temperature, , , degrees C, "[8]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1997.45	8.5339
+1973.85	9.2569
+1936.3	9.1112
+1901.7	8.9856
+1863.4	8.1604
+1811.75	7.7743
+1759.35	8.0337
+1707.0	8.8266
+1654.0	7.4427
+1600.65	7.3545
+1547.95	8.1981
+1495.05	8.2469
+1441.55	7.7184
+1389.7	9.3805
+1344.2	9.4466
+1304.2	9.3005
+1264.6	8.4877
+1184.85	6.5428
+1145.35	8.3586
+1065.7	8.2618
+1025.7	8.2583
+985.65	8.1458
+946.45	8.5841
+907.8	8.8499
+829.75	8.0562
+785.7	8.791
+736.05	8.6921
+634.05	6.7229

@@ -1,0 +1,286 @@
+# europe_gree006 - Chalkidiki  Arnaia  Barbara - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: europe_gree006 - Chalkidiki  Arnaia  Barbara - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Chalkidiki  Arnaia  Barbara
+#	Location:
+#	Country: Greece
+#	Northernmost_Latitude: 40.48
+#	Southernmost_Latitude: 40.48
+#	Easternmost_Longitude: 23.58
+#	Westernmost_Longitude: 23.58
+#	Elevation: 600 m
+#--------------------
+# Data_Collection
+#	Collection_Name: europe_gree006B
+#	Earliest_Year: 1785
+#	Most_Recent_Year: 1979
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"5.63989157916","T2":"17.9869433798","M1":"0.0226231798042","M2":"0.396144688868"}}
+#--------------------
+# Species
+#	Species_Name: Hungarian oak
+#	Species_Code: QUFR
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1785	1.248
+1786	1.32
+1787	1.157
+1788	1.166
+1789	1.249
+1790	1.317
+1791	1.514
+1792	1.253
+1793	1.126
+1794	0.919
+1795	1.216
+1796	1.245
+1797	1.046
+1798	1.263
+1799	1.33
+1800	0.939
+1801	0.659
+1802	0.719
+1803	0.956
+1804	1.171
+1805	0.992
+1806	0.923
+1807	1.042
+1808	1.187
+1809	1.089
+1810	1.239
+1811	1.279
+1812	1.496
+1813	1.615
+1814	1.598
+1815	1.351
+1816	1.487
+1817	1.3
+1818	1.152
+1819	1.118
+1820	0.977
+1821	1.021
+1822	0.945
+1823	0.594
+1824	0.728
+1825	0.611
+1826	0.588
+1827	0.78
+1828	0.589
+1829	0.638
+1830	0.613
+1831	0.623
+1832	0.547
+1833	0.573
+1834	0.567
+1835	0.645
+1836	0.604
+1837	0.783
+1838	0.668
+1839	0.76
+1840	0.631
+1841	0.74
+1842	0.691
+1843	0.779
+1844	0.89
+1845	0.904
+1846	0.702
+1847	0.767
+1848	0.699
+1849	0.908
+1850	1.03
+1851	0.965
+1852	0.884
+1853	1.008
+1854	1.254
+1855	0.923
+1856	0.901
+1857	0.877
+1858	0.99
+1859	0.897
+1860	0.853
+1861	0.626
+1862	0.843
+1863	0.713
+1864	0.808
+1865	0.9
+1866	1.059
+1867	0.997
+1868	0.773
+1869	1.192
+1870	1.21
+1871	1.055
+1872	1.157
+1873	1.35
+1874	1.086
+1875	0.942
+1876	1.036
+1877	0.997
+1878	0.895
+1879	0.877
+1880	0.907
+1881	1.031
+1882	1.007
+1883	0.967
+1884	1.067
+1885	1.106
+1886	0.938
+1887	0.984
+1888	1.074
+1889	0.859
+1890	0.716
+1891	0.794
+1892	0.796
+1893	0.8
+1894	0.785
+1895	0.833
+1896	0.779
+1897	0.921
+1898	0.837
+1899	0.774
+1900	0.821
+1901	0.932
+1902	0.894
+1903	1.032
+1904	0.909
+1905	1.01
+1906	0.931
+1907	0.917
+1908	0.828
+1909	0.794
+1910	0.896
+1911	1.063
+1912	0.902
+1913	0.866
+1914	0.627
+1915	0.673
+1916	0.694
+1917	0.645
+1918	0.673
+1919	0.747
+1920	0.787
+1921	0.852
+1922	0.717
+1923	0.788
+1924	0.842
+1925	0.867
+1926	0.854
+1927	0.832
+1928	0.918
+1929	0.964
+1930	0.983
+1931	1.619
+1932	1.772
+1933	1.542
+1934	1.516
+1935	1.209
+1936	1.551
+1937	1.801
+1938	1.283
+1939	1.231
+1940	1.781
+1941	1.568
+1942	1.204
+1943	1.235
+1944	1.073
+1945	1.089
+1946	1.142
+1947	0.901
+1948	1.281
+1949	1.118
+1950	1.146
+1951	1.088
+1952	1.134
+1953	1.033
+1954	1.159
+1955	0.975
+1956	1.385
+1957	1.059
+1958	1.219
+1959	1.118
+1960	1.036
+1961	1.03
+1962	0.915
+1963	1.062
+1964	1.091
+1965	1.01
+1966	0.995
+1967	1.098
+1968	0.918
+1969	0.914
+1970	0.863
+1971	1.272
+1972	1.063
+1973	1.109
+1974	0.962
+1975	1.051
+1976	0.997
+1977	1.13
+1978	1.147
+1979	1.054

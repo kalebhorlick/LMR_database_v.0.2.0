@@ -1,0 +1,127 @@
+# PAGES2kv2_O2kLR-DryTortugasA_Lund_2006LMR532 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-DryTortugasA_Lund_2006LMR532 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Lund, David C.,Curry, William
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Lund, David C.,Curry, William
+#	Published_Date_or_Year: 
+#	Published_Title: Florida Current surface temperature and salinity variability during the last millennium
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2005PA001218
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Dry Tortugas
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 24.33
+#	Southernmost_Latitude: 24.33
+#	Easternmost_Longitude: -83.26
+#	Westernmost_Longitude: -83.26
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-DryTortugasA_Lund_2006LMR532
+#	Earliest_Year: 995
+#	Most_Recent_Year: 1925.2
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST (G. ruber white)", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1925.2	27.54
+1875.6	26.67
+1826.0	25.87
+1776.0	27.78
+1727.0	27.39
+1677.0	26.98
+1628.0	26.75
+1578.0	27.34
+1529.0	26.83
+1479.0	27.04
+1429.0	26.72
+1407.0	26.7
+1384.0	27.54
+1361.0	26.04
+1338.0	26.62
+1315.0	26.43
+1292.0	26.46
+1269.0	26.43
+1247.0	26.98
+1224.0	26.13
+1201.0	26.18
+1178.0	26.88
+1155.0	27.06
+1132.0	25.93
+1121.0	27.11
+1109.0	26.35
+1098.0	26.83
+1086.0	26.75
+1075.0	26.26
+1064.0	26.48
+1052.0	26.4
+1041.0	26.29
+1029.0	26.91
+1018.0	26.51
+1006.0	26.54
+995.0	26.35

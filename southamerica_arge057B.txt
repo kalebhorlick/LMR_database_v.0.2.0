@@ -1,0 +1,196 @@
+# southamerica_arge057 - Rio Blanco Jujuy - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: southamerica_arge057 - Rio Blanco Jujuy - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Rio Blanco Jujuy
+#	Location:
+#	Country: Argentina
+#	Northernmost_Latitude: -24.92
+#	Southernmost_Latitude: -24.92
+#	Easternmost_Longitude: -65.42
+#	Westernmost_Longitude: -65.42
+#	Elevation: 1900 m
+#--------------------
+# Data_Collection
+#	Collection_Name: southamerica_arge057B
+#	Earliest_Year: 1877
+#	Most_Recent_Year: 1981
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}{"VSLite_parameters":{"T1":"4.91052724311","T2":"13.5819879244","M1":"0.0223264877388","M2":"0.290359655534"}}
+#--------------------
+# Species
+#	Species_Name: cedro salteno
+#	Species_Code: CEAN
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1877	0.902
+1878	0.792
+1879	1.261
+1880	1.41
+1881	0.895
+1882	0.749
+1883	1.125
+1884	0.983
+1885	0.879
+1886	1.091
+1887	1.008
+1888	1.145
+1889	1.089
+1890	0.921
+1891	1.224
+1892	0.997
+1893	0.754
+1894	1.208
+1895	1.307
+1896	1.381
+1897	0.99
+1898	1.205
+1899	0.94
+1900	0.719
+1901	1.348
+1902	1.645
+1903	1.239
+1904	0.681
+1905	0.776
+1906	0.873
+1907	0.844
+1908	0.799
+1909	1.092
+1910	0.823
+1911	1.108
+1912	1.197
+1913	0.743
+1914	1.275
+1915	1.034
+1916	1.056
+1917	1.138
+1918	0.732
+1919	0.499
+1920	0.875
+1921	0.442
+1922	0.389
+1923	0.343
+1924	0.463
+1925	0.41
+1926	0.635
+1927	1.181
+1928	0.951
+1929	2.021
+1930	0.933
+1931	1.678
+1932	0.784
+1933	1.174
+1934	0.715
+1935	1.109
+1936	1.462
+1937	1.272
+1938	1.778
+1939	1.971
+1940	1.057
+1941	0.632
+1942	0.533
+1943	0.274
+1944	0.262
+1945	0.404
+1946	0.733
+1947	0.723
+1948	1.184
+1949	0.959
+1950	0.667
+1951	1.044
+1952	1.32
+1953	1.523
+1954	1.079
+1955	0.625
+1956	0.793
+1957	1.097
+1958	1.24
+1959	1.068
+1960	1.334
+1961	0.634
+1962	0.514
+1963	0.986
+1964	0.964
+1965	0.981
+1966	1.074
+1967	0.881
+1968	0.614
+1969	0.804
+1970	0.72
+1971	0.954
+1972	1.343
+1973	1.067
+1974	1.129
+1975	1.341
+1976	1.017
+1977	0.664
+1978	1.235
+1979	0.617
+1980	1.465
+1981	1.075

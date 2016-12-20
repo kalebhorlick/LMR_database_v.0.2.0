@@ -1,0 +1,299 @@
+# PAGES2kv2_O2kLR-EasterntropiKuhnert_2011_GeoB9501-4_GeoB9501-5LMR533 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-EasterntropiKuhnert_2011_GeoB9501-4_GeoB9501-5LMR533 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Eastern tropical North Atlantic
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 16.84016
+#	Southernmost_Latitude: 16.84016
+#	Easternmost_Longitude: -16.732745
+#	Westernmost_Longitude: -16.732745
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-EasterntropiKuhnert_2011_GeoB9501-4_GeoB9501-5LMR533
+#	Earliest_Year: -1289
+#	Most_Recent_Year: 1947
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"Mg/Ca calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[7, 8, 9, 10, 11, 12]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+2004	26.2
+2003	25.6
+2001	26.2
+1999	25.9
+1998	25.8
+1996	25.8
+1994	26.3
+1992	25.9
+1991	25.9
+1989	25.5
+1987	26.1
+1985	26.0
+1983	25.4
+1981	26.0
+1978	25.5
+1976	25.3
+1974	26.2
+1972	25.7
+1970	25.7
+1967	26.1
+1965	25.1
+1963	25.1
+1960	25.6
+1958	24.6
+1955	26.1
+1953	25.7
+1950	26.1
+1947	25.5
+1947	24.8
+1945	25.9
+1942	25.8
+1942	25.9
+1939	25.4
+1936	26.1
+1936	25.8
+1934	25.9
+1931	25.7
+1931	25.8
+1928	25.0
+1925	26.2
+1925	25.3
+1922	25.9
+1919	25.2
+1919	26.6
+1916	24.8
+1913	25.9
+1913	26.1
+1910	25.8
+1907	25.9
+1907	25.5
+1900	26.9
+1894	25.5
+1887	24.7
+1881	24.9
+1874	24.3
+1867	25.7
+1860	25.9
+1853	25.1
+1846	25.2
+1838	26.2
+1831	25.1
+1823	26.6
+1816	26.7
+1808	26.1
+1800	26.0
+1792	25.7
+1784	25.6
+1776	26.2
+1768	26.9
+1760	26.2
+1752	25.5
+1743	25.7
+1735	24.7
+1726	26.1
+1718	26.0
+1709	26.0
+1701	27.0
+1692	26.2
+1683	26.7
+1674	26.2
+1665	25.1
+1656	25.4
+1647	26.2
+1638	25.3
+1629	26.3
+1620	25.9
+1611	25.4
+1602	26.0
+1593	25.4
+1583	26.1
+1574	26.2
+1565	26.4
+1555	25.4
+1546	26.2
+1537	25.9
+1527	26.4
+1518	25.9
+1508	26.1
+1499	25.8
+1489	25.8
+1480	23.6
+1470	26.0
+1461	26.9
+1451	25.9
+1441	25.4
+1432	25.4
+1422	26.6
+1412	25.6
+1403	26.7
+1393	26.6
+1383	27.0
+1374	26.7
+1364	25.1
+1354	25.8
+1345	25.8
+1335	26.7
+1325	25.3
+1316	25.5
+1296	26.1
+1287	26.4
+1277	26.6
+1267	26.3
+1258	25.4
+1238	27.6
+1229	26.7
+1219	26.0
+1209	26.2
+1200	26.0
+1190	25.9
+1180	26.9
+1171	25.0
+1161	25.0
+1151	27.3
+1142	27.8
+1132	24.7
+1113	27.0
+1104	26.4
+1094	25.9
+1084	26.6
+1065	26.3
+1056	26.4
+1046	26.4
+1037	26.8
+1027	26.5
+1008	27.1
+999	26.7
+989	27.0
+980	26.5
+970	26.4
+942	26.0
+933	26.9
+923	25.3
+914	27.0
+904	25.5
+895	26.5
+876	27.4
+847	26.0
+838	25.2
+829	26.3
+810	26.1
+800	26.8
+791	25.8
+772	25.9
+762	25.7
+753	27.1
+743	25.6
+733	26.5
+714	27.3
+695	27.7
+685	27.7
+656	26.3
+646	25.8
+627	25.4
+617	26.7
+597	26.4
+587	26.6
+567	26.2
+557	26.5
+536	26.5
+526	26.4
+516	24.9
+506	27.2
+485	28.0
+464	25.3
+442	26.3
+431	26.1
+421	24.7
+410	25.8
+399	25.9
+365	26.7
+342	26.2
+308	26.4
+296	27.2
+272	27.3
+248	26.2
+235	26.5
+159	28.0
+21	25.3
+-24	25.2
+-39	24.3
+-70	26.4
+-86	26.1
+-102	26.7
+-134	27.2
+-184	26.9
+-201	27.0
+-219	27.1
+-236	26.5

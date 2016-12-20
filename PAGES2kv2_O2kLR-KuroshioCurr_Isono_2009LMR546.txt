@@ -1,0 +1,168 @@
+# PAGES2kv2_O2kLR-KuroshioCurr_Isono_2009LMR546 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-KuroshioCurr_Isono_2009LMR546 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Isono, D; Yamamoto, M; Irino, T; Oba, T; Murayama, M; Nakamura, T; Kawahata, H
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Isono, D; Yamamoto, M; Irino, T; Oba, T; Murayama, M; Nakamura, T; Kawahata, H
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1130/G25667A.1
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Kuroshio Current
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 36.03
+#	Southernmost_Latitude: 36.03
+#	Easternmost_Longitude: 141.78
+#	Westernmost_Longitude: 141.78
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-KuroshioCurr_Isono_2009LMR546
+#	Earliest_Year: -43325.25
+#	Most_Recent_Year: 1968.888889
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	sea surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1946.81	17.1
+1924.74	17.22
+1902.67	17.24
+1880.59	17.29
+1858.52	17.33
+1836.44	17.11
+1814.37	17.32
+1792.3	17.07
+1770.22	16.96
+1748.15	17.45
+1726.07	17.57
+1704.0	17.61
+1681.93	17.21
+1659.85	17.66
+1637.78	17.47
+1615.7	17.71
+1593.63	16.56
+1571.56	17.58
+1549.48	17.07
+1527.41	17.36
+1505.33	17.8
+1483.26	17.67
+1461.19	17.81
+1439.11	18.08
+1417.04	17.76
+1394.96	18.25
+1372.89	18.05
+1350.81	17.75
+1340.41	17.73
+1314.18	17.7
+1287.94	18.0
+1235.47	18.19
+1209.24	17.96
+1183.0	18.28
+1130.53	18.37
+1104.29	18.08
+1078.06	17.98
+1051.82	17.89
+1025.59	18.42
+999.35	18.2
+973.12	18.46
+946.88	17.97
+920.65	18.31
+894.41	18.09
+868.18	18.18
+841.94	17.44
+815.71	17.82
+789.47	17.84
+763.24	18.44
+737.0	18.24
+704.68	17.87
+672.36	18.2
+640.04	18.33
+607.72	17.71
+575.4	18.28
+543.08	17.75
+478.44	17.53
+446.12	17.59
+413.8	18.01
+381.48	17.94
+349.16	17.67
+316.84	18.51
+284.52	18.62
+252.2	18.25
+219.88	18.33
+187.56	18.33
+155.24	18.34
+122.92	18.18
+90.6	17.54
+58.28	18.16
+25.96	17.85
+-6.36	17.63
+-38.68	17.07
+-71.0	18.17
+-103.32	18.29
+-167.96	17.71
+-232.6	17.89

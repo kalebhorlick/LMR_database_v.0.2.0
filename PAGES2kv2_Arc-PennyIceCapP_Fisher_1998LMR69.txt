@@ -1,0 +1,171 @@
+# PAGES2kv2_Arc-PennyIceCapP_Fisher_1998LMR69 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-PennyIceCapP_Fisher_1998LMR69 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Fisher, D. A.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Fisher, D. A.
+#	Published_Date_or_Year: 
+#	Published_Title: Penny Ice Cap Cores, Baffin Island, Canada, and the Wisconsinan Foxe Dome Connection: Two States of Hudson Bay Ice Cover
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1126/science.279.5351.692
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Penny Ice Cap P96
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 67.25
+#	Southernmost_Latitude: 67.25
+#	Easternmost_Longitude: -66.75
+#	Westernmost_Longitude: -66.75
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-PennyIceCapP_Fisher_1998LMR69
+#	Earliest_Year: 5
+#	Most_Recent_Year: 1980
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"98Penn01.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"qualitative interpretation", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Ice Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+5	-24.4961
+30	-23.7103
+55	-23.8844
+80	-23.8177
+105	-24.2269
+130	-23.8702
+155	-23.4817
+180	-23.4861
+205	-24.9171
+230	-24.1387
+255	-24.2848
+280	-24.1377
+305	-24.37
+330	-24.2376
+355	-23.9733
+380	-23.6605
+405	-23.8488
+430	-24.4284
+455	-24.28
+480	-23.8699
+505	-24.0217
+530	-23.6045
+555	-24.1057
+580	-24.2279
+605	-24.2847
+630	-24.3695
+655	-24.128
+680	-24.5117
+705	-24.2519
+730	-24.164
+755	-24.1182
+780	-23.9845
+805	-24.1983
+830	-24.2749
+855	-24.3155
+880	-24.0786
+905	-24.0786
+930	-23.9228
+955	-24.0185
+980	-24.7188
+1005	-24.3009
+1030	-24.2004
+1055	-24.1054
+1080	-24.0712
+1105	-24.3934
+1130	-24.0811
+1155	-24.6711
+1180	-23.6473
+1205	-24.2987
+1230	-24.0002
+1255	-24.6458
+1280	-24.5008
+1305	-23.9456
+1330	-24.2147
+1355	-23.6743
+1380	-24.2874
+1405	-23.9306
+1430	-24.0599
+1455	-24.5308
+1480	-24.1072
+1505	-24.3774
+1530	-24.733
+1555	-24.902
+1580	-23.8977
+1605	-23.9462
+1630	-23.5986
+1655	-24.4806
+1680	-24.4104
+1705	-24.7863
+1730	-24.699
+1755	-24.3235
+1780	-24.4846
+1805	-24.3462
+1830	-24.5694
+1855	-24.3414
+1880	-24.2922
+1905	-23.686
+1930	-23.8947
+1955	-24.2954
+1980	-24.2424

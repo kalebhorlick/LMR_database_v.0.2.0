@@ -1,0 +1,187 @@
+# PAGES2kv2_O2kLR-MinorcacontoMoreno_2012_MINMC-2_MINMC-1LMR553 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-MinorcacontoMoreno_2012_MINMC-2_MINMC-1LMR553 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: McGregor, H.V.,Evans, M. N.,Goosse, H.,Leduc, G.,Martrat, B.,Addison, J.A.,Mortyn, P.G.,Oppo, D.W.,Seidenkrantz, M.S.,Sicre, M.A.,Phipps, S.J.,Selvaraj, K.,Thirumalai, K.,Filipsson, H.L.,Ersek, V.
+#	Published_Date_or_Year: 
+#	Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Minorca contourite
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 40.5
+#	Southernmost_Latitude: 40.5
+#	Easternmost_Longitude: 4.03
+#	Westernmost_Longitude: 4.03
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-MinorcacontoMoreno_2012_MINMC-2_MINMC-1LMR553
+#	Earliest_Year: -61
+#	Most_Recent_Year: 1988
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"alkenone calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, , Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temp
+1988	13.4
+1972	13.5
+1970	13.5
+1952	13.8
+1944	13.9
+1933	14.1
+1915	14.4
+1915	13.8
+1887	14.1
+1887	13.8
+1859	13.9
+1859	14.2
+1831	14.2
+1831	13.9
+1802	14.0
+1786	14.5
+1774	14.2
+1746	13.9
+1742	14.8
+1718	14.0
+1697	15.0
+1689	14.1
+1661	14.2
+1653	15.0
+1633	13.9
+1609	15.3
+1605	14.1
+1576	14.2
+1564	15.2
+1548	14.2
+1520	15.1
+1520	14.4
+1508	15.0
+1508	14.6
+1497	15.0
+1497	14.2
+1485	14.2
+1485	14.3
+1473	13.8
+1462	13.8
+1450	13.7
+1435	13.6
+1420	13.5
+1415	14.9
+1405	13.6
+1390	13.7
+1375	13.8
+1360	13.8
+1345	14.7
+1345	14.1
+1330	14.4
+1320	14.7
+1315	13.2
+1300	13.6
+1295	14.7
+1285	14.1
+1270	15.3
+1270	14.5
+1255	14.5
+1240	14.5
+1237	15.2
+1212	14.8
+1204	15.2
+1184	14.9
+1171	15.4
+1156	14.6
+1139	15.5
+1129	14.7
+1106	14.8
+1101	14.6
+1073	16.0
+1073	14.4
+1045	15.0
+1017	14.6
+1011	14.3
+989	15.0
+961	15.3
+948	15.7
+934	14.2
+906	15.3
+886	14.7
+878	14.5
+850	14.6
+824	14.7
+807	14.8
+764	14.9
+761	14.9
+721	14.4
+699	15.1
+679	15.4
+637	14.9
+636	15.1
+575	14.8
+512	15.5
+450	16.2
+428	15.7

@@ -1,0 +1,139 @@
+# PAGES2kv2_Asia-Guangdong_Zheng_1982LMR157 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Documents
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Asia-Guangdong_Zheng_1982LMR157 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Zheng S.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Zheng S.
+#	Published_Date_or_Year: 
+#	Published_Title: 
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Guangdong
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 23.16
+#	Southernmost_Latitude: 23.16
+#	Easternmost_Longitude: 113.23
+#	Westernmost_Longitude: 113.23
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Asia-Guangdong_Zheng_1982LMR157
+#	Earliest_Year: 1470
+#	Most_Recent_Year: 1940
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"", "interpDirection":"positive", "seasonality":"[-12, 1, 2]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	Cold winter record pieces in every ten years, winter temperature, , , , "[-12, 1, 2]", Documents, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1470	-0.834581327563
+1480	-0.0634076162625
+1490	-0.834581327563
+1500	1.17047032182
+1510	-0.834581327563
+1520	-0.217642358522
+1530	3.32975671346
+1540	0.399296610518
+1550	-0.834581327563
+1560	-0.757463956433
+1570	-0.834581327563
+1580	-0.448994471913
+1590	-0.834581327563
+1600	-0.834581327563
+1610	0.476413981648
+1620	-0.680346585303
+1630	1.09335295069
+1640	-0.834581327563
+1650	1.86452666199
+1660	0.245061868258
+1670	-0.834581327563
+1680	0.862000837298
+1690	0.862000837298
+1700	-0.371877100783
+1710	0.0137097548676
+1720	0.784883466168
+1730	-0.757463956433
+1740	-0.526111843043
+1750	0.476413981648
+1760	-0.140524987392
+1770	-0.757463956433
+1780	0.0908271259976
+1790	-0.757463956433
+1800	-0.603229214173
+1810	-0.526111843043
+1820	-0.834581327563
+1830	2.09587877538
+1840	-0.757463956433
+1850	-0.140524987392
+1860	0.553531352778
+1870	1.01623557956
+1880	-0.526111843043
+1890	2.4043482599
+1900	-0.757463956433
+1910	-0.603229214173
+1920	-0.526111843043
+1930	-0.834581327563
+1940	-0.371877100783

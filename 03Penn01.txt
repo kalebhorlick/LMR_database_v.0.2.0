@@ -1,0 +1,161 @@
+﻿# Penny Ice Cap Ice Melt
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: 
+#
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2003
+# --------------------
+# Title 
+#	Study_Name: Penny Ice Cap Ice Melt
+# --------------------
+# Investigators
+#	Investigators: Okuyama, J.; Narita, H.; Hondoh, T.; Koerner, R.M.
+----------------------
+# Description_and_Notes
+# 	Description: Ice core depth, 177.91m 
+#
+# --------------------
+# Publication
+#	Authors: Junichi Okuyama, Hideki Narita, Takeo Hondoh, Roy M. Koerner
+#	Published_Date_or_Year: 2003
+#	Published_Title: Physical properties of the P96 ice core from Penny Ice Cap,Baffin Island, Canada, and derived climatic records
+#	Journal_Name: Journal of Geophysical Research
+#	Volume: 108
+#	Edition: B2	
+#	Issue: 
+#	Pages: 692-695 
+#	DOI: doi:10.1029/2001JB001707
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Ice cores from nonpolar environments are being developed as valuable paleoclimatic resources. However, the recognition of a climatic signal and the development of timescales in those ice cores are both difficult due to heavy summer melting. A 177.91-m-long ice core (P96) was drilled in such a high-melt area from Penny Ice Cap, Baffin Island, Canada, in 1996. The core covers the Holocene period and has pre-Holocene ice near the bed. The purpose of this work is to investigate the physical properties of the ice and to show how these properties can be interpreted in terms of climatic signals. Visualstratigraphic observations and measurements of crystal size and c axis orientation were performed using conventional techniques. Melt features provided a clear picture of Holocene summer climatic changes: a warmer period prior to 2 ka, the Little Ice Age, and the modern warming trend. The crystalline structure displayed normal grain growth down to 50 m and recrystallization below this. In the 0–50 m depth interval, periodical variations in crystal size were observed and are attributed to the difference of time for which the ice was soaked in meltwater every season. These variations made it possible to develop an annual record. The c axis fabric evolution displayed a change in the ice flow pattern from divergent, above 140 m depth, to shear-dominated flow below that. The initial fabric of superimposed ice shows a preferred c axis distribution normal to the surface. The fabric is shown to be important for reconstructing mass balance chronologies from ice cores drilled in areas of superimposed ice formation. These physical properties provide information on climatic change.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Penny Ice Cap, Baffin Island
+#	Location: North America>Canada
+#	Country: Canada
+#	Northernmost_Latitude: 67.25
+#	Southernmost_Latitude: 67.25
+#	Easternmost_Longitude: -66.75
+#	Westernmost_Longitude: -66.75
+#	Elevation: 2100 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 03Penn01
+#	Earliest_Year: 9
+#	Most_Recent_Year: 1984
+#	Time_Unit: y_ad
+#	Notes: {"database":"LMR"} 
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age,,,years AD,,,,,N
+##MFP	melt feature percentage,,,percentage,,Ice Cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	MFP
+1984	80.419
+1959	92.623
+1934	83.773
+1909	92.567
+1884	80.185
+1859	73.876
+1834	65.683
+1809	80.286
+1784	53.515
+1759	72.946
+1734	79.931
+1709	44.418
+1684	48.253
+1659	72.915
+1634	62.032
+1609	48.79
+1584	74.878
+1559	80.601
+1534	68.219
+1509	84.182
+1484	59.358
+1459	62.282
+1434	74.326
+1409	76.972
+1384	67.353
+1359	90.473
+1334	66.21
+1309	32.723
+1284	57.687
+1259	84.472
+1234	76.91
+1209	82.855
+1184	81.518
+1159	92.535
+1134	71.79
+1109	41.138
+1084	85.148
+1059	68.84
+1034	81.739
+1009	75.044
+984	60.547
+959	64.255
+934	88.966
+909	83.027
+884	80.2
+859	79.036
+834	60.26
+809	71.724
+784	83.64
+759	75.868
+734	83.6
+709	69.097
+684	72.37
+659	84.664
+634	87.4
+609	90.164
+584	91.514
+559	88.4
+534	91.645
+509	92.234
+484	72.8
+459	77.014
+409	83.598
+384	84.491
+359	89.7
+334	90.208
+309	91.3
+284	88.999
+259	86.6
+234	81.315
+209	77.8
+184	84.144
+159	87.6
+134	80.141
+109	75.7
+84	79.718
+9	80

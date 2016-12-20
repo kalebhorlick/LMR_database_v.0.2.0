@@ -1,0 +1,148 @@
+# PAGES2kv2_Ocean2kHR-PacificCoralSeaCalvo2007LMR637 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-PacificCoralSeaCalvo2007LMR637 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Calvo, Eva,Marshall, John F.,Pelejero, Carles,McCulloch, Malcolm T.,Gagan, Michael K.,Lough, Janice M.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Calvo, Eva,Marshall, John F.,Pelejero, Carles,McCulloch, Malcolm T.,Gagan, Michael K.,Lough, Janice M.
+#	Published_Date_or_Year: 
+#	Published_Title: Interdecadal climate variability in the Coral Sea since 1708 A.D.
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1016/j.palaeo.2006.12.003
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Coral Sea
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -17.73
+#	Southernmost_Latitude: -17.73
+#	Easternmost_Longitude: 148.43
+#	Westernmost_Longitude: 148.43
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-PacificCoralSeaCalvo2007LMR637
+#	Earliest_Year: 1708
+#	Most_Recent_Year: 1988
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"07aust01a.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, , Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1988	-4.88
+1983	-4.78
+1978	-4.83
+1973	-4.91
+1968	-4.75
+1963	-4.69
+1958	-4.66
+1953	-4.65
+1948	-4.78
+1943	-4.79
+1938	-4.79
+1933	-4.53
+1928	-4.63
+1923	-4.68
+1918	-4.56
+1913	-4.56
+1908	-4.74
+1903	-4.63
+1898	-4.69
+1893	-4.77
+1888	-4.68
+1883	-4.74
+1878	-4.79
+1873	-4.81
+1868	-4.73
+1863	-4.72
+1858	-4.74
+1853	-4.57
+1848	-4.7
+1843	-4.59
+1838	-4.61
+1833	-4.61
+1828	-4.74
+1823	-4.7
+1818	-4.58
+1813	-4.57
+1808	-4.61
+1803	-4.68
+1798	-4.65
+1793	-4.74
+1788	-4.58
+1783	-4.62
+1778	-4.6
+1773	-4.54
+1768	-4.59
+1763	-4.64
+1758	-4.56
+1753	-4.6
+1748	-4.59
+1743	-4.45
+1738	-4.42
+1733	-4.39
+1728	-4.45
+1723	-4.54
+1718	-4.38
+1713	-4.22
+1708	-4.27

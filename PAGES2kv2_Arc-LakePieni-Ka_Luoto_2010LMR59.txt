@@ -1,0 +1,127 @@
+# PAGES2kv2_Arc-LakePieni-Ka_Luoto_2010LMR59 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Lake Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-LakePieni-Ka_Luoto_2010LMR59 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Luoto, Tomi P. and Helama, Samuli
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Luoto, Tomi P. and Helama, Samuli
+#	Published_Date_or_Year: 
+#	Published_Title: Palaeoclimatological and palaeolimnological records from fossil midges and tree-rings: the role of the North Atlantic Oscillation in eastern Finland through the Medieval Climate Anomaly and Little Ice Age
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Lake Pieni-Kauro
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 64.28
+#	Southernmost_Latitude: 64.28
+#	Easternmost_Longitude: 30.12
+#	Westernmost_Longitude: 30.12
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-LakePieni-Ka_Luoto_2010LMR59
+#	Earliest_Year: 462.4
+#	Most_Recent_Year: 1978.9
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	chironomid assemblages derived temperature, , , degrees C, "[7]", Lake Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1978.9	16.0638
+1935.3	15.5643
+1891.15	14.7516
+1848.0	15.013
+1803.5	15.2795
+1758.55	14.8696
+1714.8	15.0404
+1671.25	15.0354
+1627.65	15.0765
+1583.35	14.917
+1538.6	15.3767
+1493.9	15.006
+1449.8	15.0699
+1406.2	15.391
+1361.8	15.0222
+1316.85	14.9895
+1272.5	14.8651
+1228.65	15.2748
+1184.5	15.7886
+1139.65	15.2087
+1095.25	15.5188
+1050.7	15.4316
+1005.75	15.5385
+961.1	15.577
+916.05	15.9068
+871.35	16.0269
+826.9	15.9062
+785.1	15.3044
+750.4	15.2633
+719.75	16.3229
+687.45	16.1583
+647.65	15.538
+601.75	15.2082
+555.8	15.4056
+509.2	14.5046
+462.4	15.6389

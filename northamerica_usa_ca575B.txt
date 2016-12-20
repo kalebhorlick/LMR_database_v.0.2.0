@@ -1,0 +1,202 @@
+# northamerica_usa_ca575 - Gin Flat Yosemite National Park - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_usa_ca575 - Gin Flat Yosemite National Park - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Gin Flat Yosemite National Park
+#	Location:
+#	Country: United States
+#	Northernmost_Latitude: 37.77
+#	Southernmost_Latitude: 37.77
+#	Easternmost_Longitude: -119.77
+#	Westernmost_Longitude: -119.77
+#	Elevation: 2180 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_usa_ca575B
+#	Earliest_Year: 1880
+#	Most_Recent_Year: 1990
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"4.82667666597","T2":"15.9036893756","M1":"0.0220678634499","M2":"0.36661491383"}}
+#--------------------
+# Species
+#	Species_Name: sugar pine
+#	Species_Code: PILA
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1880	0.814
+1881	1.039
+1882	0.85
+1883	0.891
+1884	0.92
+1885	1.144
+1886	0.971
+1887	1.028
+1888	1.027
+1889	1.03
+1890	0.952
+1891	1.067
+1892	0.942
+1893	0.867
+1894	0.934
+1895	1.03
+1896	0.914
+1897	1.168
+1898	1.013
+1899	0.9
+1900	1.082
+1901	1.173
+1902	0.991
+1903	1.007
+1904	0.95
+1905	1.041
+1906	1.047
+1907	1.091
+1908	1.14
+1909	1.058
+1910	1.029
+1911	1.099
+1912	1.029
+1913	1.101
+1914	1.175
+1915	1.114
+1916	1.105
+1917	0.966
+1918	0.852
+1919	0.853
+1920	0.785
+1921	0.866
+1922	0.739
+1923	1.037
+1924	0.834
+1925	0.911
+1926	1.045
+1927	0.991
+1928	1.12
+1929	0.948
+1930	0.921
+1931	1.054
+1932	0.793
+1933	0.678
+1934	1.07
+1935	0.923
+1936	0.98
+1937	0.84
+1938	0.943
+1939	1.145
+1940	1.026
+1941	0.949
+1942	0.998
+1943	1.237
+1944	1.059
+1945	1.102
+1946	1.234
+1947	1.274
+1948	1.083
+1949	1.067
+1950	1.235
+1951	1.221
+1952	0.867
+1953	1.054
+1954	1.208
+1955	0.897
+1956	0.895
+1957	1.166
+1958	1.305
+1959	1.138
+1960	1.088
+1961	0.872
+1962	0.876
+1963	1.058
+1964	1.067
+1965	0.954
+1966	1.064
+1967	1.022
+1968	0.913
+1969	0.888
+1970	0.74
+1971	0.735
+1972	0.844
+1973	0.831
+1974	0.882
+1975	0.917
+1976	0.835
+1977	0.666
+1978	0.843
+1979	0.716
+1980	0.942
+1981	0.847
+1982	1.15
+1983	1.007
+1984	1.072
+1985	1.068
+1986	1.262
+1987	0.95
+1988	1.052
+1989	1.028
+1990	1.287

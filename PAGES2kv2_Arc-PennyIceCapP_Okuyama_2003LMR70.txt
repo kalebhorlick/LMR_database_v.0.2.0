@@ -1,0 +1,171 @@
+# PAGES2kv2_Arc-PennyIceCapP_Okuyama_2003LMR70 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Arc-PennyIceCapP_Okuyama_2003LMR70 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Okuyama, Junichi
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Okuyama, Junichi
+#	Published_Date_or_Year: 
+#	Published_Title: Physical properties of the P96 ice core from Penny Ice Cap, Baffin Island, Canada, and derived climatic records
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2001JB001707
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Penny Ice Cap P96
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 67.25
+#	Southernmost_Latitude: 67.25
+#	Easternmost_Longitude: -66.75
+#	Westernmost_Longitude: -66.75
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Arc-PennyIceCapP_Okuyama_2003LMR70
+#	Earliest_Year: 9
+#	Most_Recent_Year: 1984
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"03Penn01.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"qualitative interpretation", "climateVariable":"T", "climateVariableDetail":"air-surface", "interpDirection":"positive", "seasonality":"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##melt	melt feature percentages, , , percent, "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", Ice Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	melt
+9	80.0
+34	82.014
+59	83.2
+84	79.718
+109	75.7
+134	80.141
+159	87.6
+184	84.144
+209	77.8
+234	81.315
+259	86.6
+284	88.999
+309	91.3
+334	90.208
+359	89.7
+384	84.491
+409	83.598
+434	82.0
+459	77.014
+484	72.8
+509	92.234
+534	91.645
+559	88.4
+584	91.514
+609	90.164
+634	87.4
+659	84.664
+684	72.37
+709	69.097
+734	83.6
+759	75.868
+784	83.64
+809	71.724
+834	60.26
+859	79.036
+884	80.2
+909	83.027
+934	88.966
+959	64.255
+984	60.547
+1009	75.044
+1034	81.739
+1059	68.84
+1084	85.148
+1109	41.138
+1134	71.79
+1159	92.535
+1184	81.518
+1209	82.855
+1234	76.91
+1259	84.472
+1284	57.687
+1309	32.723
+1334	66.21
+1359	90.473
+1384	67.353
+1409	76.972
+1434	74.326
+1459	62.282
+1484	59.358
+1509	84.182
+1534	68.219
+1559	80.601
+1584	74.878
+1609	48.79
+1634	62.032
+1659	72.915
+1684	48.253
+1709	44.418
+1734	79.931
+1759	72.946
+1784	53.515
+1809	80.286
+1834	65.683
+1859	73.876
+1884	80.185
+1909	92.567
+1934	83.773
+1959	92.623
+1984	80.419

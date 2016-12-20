@@ -1,0 +1,114 @@
+# PAGES2kv2_Ocean2kHR-AtlanticBermudaDraschba2000aLMR581 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-AtlanticBermudaDraschba2000aLMR581 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Draschba, S.,P&#x000E4;tzold, J.,Wefer, G.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Draschba, S.,P&#x000E4;tzold, J.,Wefer, G.
+#	Published_Date_or_Year: 
+#	Published_Title: North Atlantic climate variability since AD 1350 recorded in &#x003B4; 18 O and skeletal density of Bermuda corals
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1007/s005310050301
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Bermuda
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 30.0867
+#	Southernmost_Latitude: 30.0867
+#	Easternmost_Longitude: -64.5417
+#	Westernmost_Longitude: -64.5417
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-AtlanticBermudaDraschba2000aLMR581
+#	Earliest_Year: 1856
+#	Most_Recent_Year: 1920
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[-8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6, 7]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, "[-8, -9, -10, -11, -12, 1, 2, 3, 4, 5, 6, 7]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1920	-3.22
+1917	-3.28
+1915	-2.93
+1911	-2.76
+1908	-3.04
+1905	-2.96
+1902	-2.85
+1900	-3.02
+1897	-3.17
+1894	-3.24
+1891	-2.82
+1888	-3.24
+1885	-3.13
+1881	-3.06
+1878	-2.83
+1875	-3.18
+1872	-3.35
+1870	-3.45
+1868	-3.24
+1865	-2.92
+1862	-3.24
+1859	-2.95
+1856	-2.69

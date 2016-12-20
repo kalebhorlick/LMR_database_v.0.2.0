@@ -1,0 +1,304 @@
+# PAGES2kv2_Ocean2kHR-PacificWu2013TongaLMR673 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-PacificWu2013TongaLMR673 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Tierney, Jessica E.,Abram, Nerilie J.,Anchukaitis, Kevin J.,Evans, Michael N.,Giry, Cyril,Kilbourne, K. Halimeda,Saenger, Casey P.,Wu, Henry C.,Zinke, Jens
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Tierney, Jessica E.,Abram, Nerilie J.,Anchukaitis, Kevin J.,Evans, Michael N.,Giry, Cyril,Kilbourne, K. Halimeda,Saenger, Casey P.,Wu, Henry C.,Zinke, Jens
+#	Published_Date_or_Year: 
+#	Published_Title: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1002/2014PA002717
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Hafera Island
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -19.9333
+#	Southernmost_Latitude: -19.9333
+#	Easternmost_Longitude: -174.7167
+#	Westernmost_Longitude: -174.7167
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-PacificWu2013TongaLMR673
+#	Earliest_Year: 1791
+#	Most_Recent_Year: 2003
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"13tong01a.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":""}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##Sr/Ca	strontium calcium ratio, , , mmol/mol, , Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	Sr/Ca
+2003	9.05
+2002	9.01
+2001	9.041
+2000	8.966
+1999	9.001
+1998	9.008
+1997	9.038
+1996	8.961
+1995	9.005
+1994	8.996
+1993	9.054
+1992	8.981
+1991	9.0
+1990	8.962
+1989	8.994
+1988	8.985
+1987	9.063
+1986	9.019
+1985	9.048
+1984	9.024
+1983	9.067
+1982	8.992
+1981	8.991
+1980	9.007
+1979	9.014
+1978	9.08
+1977	9.044
+1976	8.972
+1975	8.983
+1974	8.921
+1973	8.965
+1972	9.027
+1971	8.929
+1970	8.968
+1969	9.012
+1968	8.963
+1967	9.015
+1966	9.016
+1965	9.038
+1964	8.995
+1963	9.015
+1962	8.985
+1961	9.017
+1960	9.002
+1959	9.015
+1958	8.972
+1957	9.002
+1956	8.99
+1955	8.993
+1954	8.96
+1953	9.011
+1952	9.05
+1951	8.998
+1950	8.982
+1949	9.039
+1948	9.054
+1947	8.981
+1946	9.067
+1945	9.014
+1944	9.109
+1943	9.083
+1942	9.067
+1941	9.093
+1940	9.049
+1939	9.058
+1938	9.017
+1937	8.996
+1936	9.017
+1935	9.008
+1934	9.033
+1933	9.024
+1932	9.13
+1931	9.19
+1930	9.086
+1929	9.029
+1928	8.994
+1927	8.995
+1926	9.052
+1925	9.056
+1924	9.099
+1923	9.158
+1922	9.051
+1921	9.104
+1920	9.104
+1919	9.081
+1918	9.09
+1917	9.027
+1916	9.079
+1915	9.128
+1914	9.183
+1913	9.123
+1912	9.089
+1911	9.055
+1910	9.066
+1909	9.035
+1908	9.053
+1907	9.094
+1906	9.076
+1905	9.108
+1904	9.064
+1903	9.093
+1902	9.077
+1901	9.105
+1900	9.14
+1899	9.143
+1898	9.063
+1897	9.151
+1896	9.152
+1895	9.107
+1894	9.094
+1893	9.062
+1892	9.165
+1891	9.168
+1890	9.171
+1889	9.118
+1888	9.151
+1887	9.1
+1886	9.178
+1885	9.225
+1884	9.125
+1883	9.126
+1882	9.078
+1881	9.105
+1880	9.116
+1879	9.117
+1878	9.057
+1877	9.133
+1876	9.133
+1875	9.098
+1874	9.065
+1873	9.059
+1872	9.049
+1871	9.012
+1870	9.085
+1869	9.111
+1868	9.07
+1867	9.051
+1866	9.153
+1865	9.101
+1864	9.134
+1863	9.115
+1862	9.143
+1861	9.088
+1860	9.061
+1859	9.075
+1858	9.028
+1857	9.096
+1856	9.078
+1855	9.101
+1854	9.125
+1853	9.03
+1852	9.111
+1851	9.126
+1850	9.051
+1849	9.079
+1848	9.064
+1847	9.078
+1846	9.099
+1845	9.055
+1844	9.105
+1843	9.099
+1842	9.07
+1841	9.092
+1840	9.131
+1839	9.086
+1838	9.072
+1837	9.094
+1836	9.105
+1835	9.095
+1834	9.048
+1833	9.077
+1832	9.04
+1831	9.026
+1830	8.985
+1829	8.994
+1828	9.043
+1827	9.019
+1826	9.047
+1825	9.083
+1824	9.044
+1823	9.031
+1822	9.031
+1821	9.119
+1820	9.07
+1819	8.994
+1818	9.033
+1817	9.083
+1816	9.143
+1815	9.101
+1814	9.103
+1813	9.005
+1812	9.03
+1811	9.056
+1810	8.992
+1809	9.063
+1808	9.074
+1807	8.999
+1806	8.946
+1805	9.04
+1804	8.951
+1803	9.063
+1802	9.135
+1801	9.111
+1800	9.035
+1799	9.063
+1798	9.083
+1797	9.048
+1796	9.042
+1795	9.065
+1794	9.063
+1793	9.028
+1792	9.086
+1791	9.109

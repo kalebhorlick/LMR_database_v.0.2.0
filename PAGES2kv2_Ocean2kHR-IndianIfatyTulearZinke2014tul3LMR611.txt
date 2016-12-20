@@ -1,0 +1,181 @@
+# PAGES2kv2_Ocean2kHR-IndianIfatyTulearZinke2014tul3LMR611 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_Ocean2kHR-IndianIfatyTulearZinke2014tul3LMR611 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Zinke, J.,Loveday, B. R.,Reason, C. J. C.,Dullo, W.-C.,Kroon, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Zinke, J.,Loveday, B. R.,Reason, C. J. C.,Dullo, W.-C.,Kroon, D.
+#	Published_Date_or_Year: 
+#	Published_Title: Madagascar corals track sea surface temperature variability in the Agulhas Current core region over the past 334 years
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1038/srep04393
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Ifaty
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: -23.3572
+#	Southernmost_Latitude: -23.3572
+#	Easternmost_Longitude: 43.6195
+#	Westernmost_Longitude: 43.6195
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_Ocean2kHR-IndianIfatyTulearZinke2014tul3LMR611
+#	Earliest_Year: 1905
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"duplicate":"14mada03a.txt"} {"database":"PAGES2"}{"climateInterpretation":{"basis":"", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"negative", "seasonality":"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##d18O	, , , permil, "[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]", Corals and Sclerosponges, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	d18O
+1905	-4.556
+1906	-4.39
+1907	-4.405
+1908	-4.214
+1909	-4.242
+1910	-4.488
+1911	-4.58
+1912	-4.644
+1913	-4.305
+1914	-4.352
+1915	-4.619
+1916	-4.175
+1917	-4.521
+1918	-4.449
+1919	-4.619
+1920	-4.443
+1921	-4.605
+1922	-4.431
+1923	-4.583
+1924	-4.359
+1925	-4.445
+1926	-4.439
+1927	-4.357
+1928	-4.615
+1929	-4.604
+1930	-4.26
+1931	-4.39
+1932	-4.346
+1933	-4.148
+1934	-4.471
+1935	-4.083
+1936	-4.571
+1937	-4.31
+1938	-4.345
+1939	-4.699
+1940	-4.613
+1941	-4.402
+1942	-4.537
+1943	-4.504
+1944	-4.42
+1945	-4.336
+1946	-4.49
+1947	-4.587
+1948	-4.603
+1949	-4.552
+1950	-4.533
+1951	-4.442666667
+1952	-4.795
+1953	-4.605
+1954	-4.516
+1955	-4.358
+1956	-4.48
+1957	-4.6685
+1958	-4.478
+1959	-4.588
+1960	-4.667
+1961	-4.471
+1962	-4.548
+1963	-4.466
+1964	-4.295
+1965	-4.605
+1966	-4.6615
+1967	-4.71
+1968	-4.503
+1969	-4.557
+1970	-4.446
+1971	-4.552
+1972	-4.6235
+1973	-4.618
+1974	-4.544
+1975	-4.541
+1976	-4.423
+1977	-4.552
+1978	-4.516
+1979	-4.617
+1980	-4.499
+1981	-4.535
+1982	-4.747
+1983	-4.584
+1984	-4.533
+1985	-4.635
+1986	-4.773
+1987	-4.534
+1988	-4.758333333
+1989	-4.72
+1990	-4.64
+1991	-4.694
+1992	-4.711
+1993	-4.9225
+1994	-4.6355

@@ -1,0 +1,238 @@
+# northamerica_usa_ak040 - Nome Creek below treeline - Breitenmoser Tree Ring Chronology Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date: 2016-01-07
+#--------------------
+# Title
+#	Study_Name: northamerica_usa_ak040 - Nome Creek below treeline - Breitenmoser Tree Ring Chronology Data
+#--------------------
+# Investigators
+#	Investigators:  Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#--------------------
+# Description_and_Notes
+#	Description: Data from Breitenmoser 2014 Journal of past Climate supplementary, see publication for ARSTAN standardization details
+#--------------------
+# Publication
+#	Authors: Breitenmoser, P.; Bronnimann, S.; Frank, D.
+#	Published_Date_or_Year: 2014-03-11
+#	Published_Title: Forward modelling of tree-ring width and comparison with a global network of tree-ring chronologies
+#	Journal_Name: Climate of the Past
+#	Volume: 10 
+#	Edition:
+#	Issue:
+#	Pages: 437-449
+#	DOI: 10.5194/cp-10-437-2014
+#	Online_Resource: www.clim-past.net/10/437/2014/
+#	Full_Citation:
+#	Abstract: We investigate relationships between climate and tree-ring data on a global scale using the process-based Vaganov–Shashkin Lite (VSL) forward model of tree-ring width formation. The VSL model requires as inputs only latitude, monthly mean temperature, and monthly accumulated precipitation. Hence, this simple, process-based model enables ring-width simulation at any location where monthly climate records exist. In this study, we analyse the growth response of simulated tree rings to monthly climate conditions obtained from the CRU TS3.1 data set back to 1901. Our key aims are (a) to assess the VSL model performance by examining the relations between simulated and observed growth at 2287 globally distributed sites, (b) indentify optimal growth parameters found during the model calibration, and (c) to evaluate the potential of the VSL model as an observation operator for data-assimilation-based reconstructions of climate from tree-ring width. The assessment of the growth-onset threshold temperature of approximately 4–6 C for most sites and species using a Bayesian estimation approach complements other studies on the lower temperature limits where plant growth may be sustained. Our results suggest that the VSL model skilfully simulates site level treering series in response to climate forcing for a wide range of environmental conditions and species. Spatial aggregation of the tree-ring chronologies to reduce non-climatic noise at the site level yielded notable improvements in the coherence between modelled and actual growth. The resulting distinct and coherent patterns of significant relationships between the aggregated and simulated series further demonstrate the VSL model’s ability to skilfully capture the climatic signal contained in tree-ring series. Finally, we propose that the VSL model can be used as an observation operator in data assimilation approaches to reconstruct past climate.
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Nome Creek below treeline
+#	Location:
+#	Country: United States
+#	Northernmost_Latitude: 65.37
+#	Southernmost_Latitude: 65.37
+#	Easternmost_Longitude: -146.62
+#	Westernmost_Longitude: -146.62
+#	Elevation: 884 m
+#--------------------
+# Data_Collection
+#	Collection_Name: northamerica_usa_ak040B
+#	Earliest_Year: 1852
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"Breits"}} {"climateInterpretation":{"basis":"", "climateVariable":"M", "climateVariableDetail":"air", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}{"VSLite_parameters":{"T1":"6.5118183317","T2":"16.8308847834","M1":"0.022727491894","M2":"0.385654918101"}}
+#--------------------
+# Species
+#	Species_Name: white spruce
+#	Species_Code: PCGL
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##trsgi	tree ring standardized growth index, tree ring, ,percent relative to mean growth, , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	trsgi
+1852	0.932
+1853	1.187
+1854	1.312
+1855	1.241
+1856	0.829
+1857	0.688
+1858	0.69
+1859	1.024
+1860	0.865
+1861	1.1
+1862	1.134
+1863	0.928
+1864	0.913
+1865	1.028
+1866	0.976
+1867	1.028
+1868	0.973
+1869	0.843
+1870	0.934
+1871	0.944
+1872	0.842
+1873	1.101
+1874	1.061
+1875	1.018
+1876	1.006
+1877	1.22
+1878	1.122
+1879	1.121
+1880	0.894
+1881	1.084
+1882	0.972
+1883	0.879
+1884	0.723
+1885	0.97
+1886	1.013
+1887	0.607
+1888	0.442
+1889	0.481
+1890	0.793
+1891	0.936
+1892	0.89
+1893	0.735
+1894	0.437
+1895	0.502
+1896	0.641
+1897	0.692
+1898	0.714
+1899	0.735
+1900	0.648
+1901	0.514
+1902	0.751
+1903	0.826
+1904	0.809
+1905	0.825
+1906	0.978
+1907	0.999
+1908	1.002
+1909	1.005
+1910	0.798
+1911	0.929
+1912	0.573
+1913	1.047
+1914	0.911
+1915	0.99
+1916	0.858
+1917	1.244
+1918	1.274
+1919	0.725
+1920	0.962
+1921	0.856
+1922	0.67
+1923	1.092
+1924	0.636
+1925	0.829
+1926	1.064
+1927	1.227
+1928	1.15
+1929	1.553
+1930	1.271
+1931	1.224
+1932	1.432
+1933	1.16
+1934	1.674
+1935	1.839
+1936	1.54
+1937	1.137
+1938	1.068
+1939	1.459
+1940	0.795
+1941	1.318
+1942	1.307
+1943	1.393
+1944	1.291
+1945	1.432
+1946	1.628
+1947	1.219
+1948	1.274
+1949	0.797
+1950	1.231
+1951	0.872
+1952	1.054
+1953	0.971
+1954	0.983
+1955	1.036
+1956	0.955
+1957	0.882
+1958	1.036
+1959	0.996
+1960	1.306
+1961	1.13
+1962	1.253
+1963	0.855
+1964	1.288
+1965	1.131
+1966	1.153
+1967	1.169
+1968	1.03
+1969	0.784
+1970	0.593
+1971	1.277
+1972	0.858
+1973	0.621
+1974	0.932
+1975	0.963
+1976	1.064
+1977	1.118
+1978	0.8
+1979	1.119
+1980	1.079
+1981	0.907
+1982	1.412
+1983	1.062
+1984	0.958
+1985	1.003
+1986	0.921
+1987	0.725
+1988	0.664
+1989	0.767
+1990	0.648
+1991	0.594
+1992	0.627
+1993	0.357
+1994	0.439
+1995	0.514
+1996	0.637
+1997	0.67
+1998	0.572

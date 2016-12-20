@@ -1,0 +1,117 @@
+# PAGES2kv2_O2kLR-NorthwestPac_Harada_2004LMR555 - from PAGES Phase 2 v1.9.0
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource:
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Marine Cores
+#--------------------
+# Contribution_Date
+#	Date: 2016-05-04
+#--------------------
+# Title
+#	Study_Name: PAGES2kv2_O2kLR-NorthwestPac_Harada_2004LMR555 - from PAGES Phase 2 v1.9.0
+#--------------------
+# Investigators
+#	Investigators: Harada, Naomi,Ahagon, Naokazu,Uchida, Masao,Murayama, Masafumi
+#--------------------
+# Description_and_Notes
+#	Description: Data from PAGES second data collation effort.
+#--------------------
+# Publication
+#	Authors: Harada, Naomi,Ahagon, Naokazu,Uchida, Masao,Murayama, Masafumi
+#	Published_Date_or_Year: 
+#	Published_Title: Northward and southward migrations of frontal zones during the past 40 kyr in the Kuroshio-Oyashio transition area
+#	Journal_Name: 
+#	Volume: 
+#	Edition:
+#	Issue:
+#	Pages: 
+#	DOI: 10.1029/2004GC000740
+#	Online_Resource:
+#	Full_Citation:
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Northwest Pacific Ocean
+#	Location: 
+#	Country: 
+#	Northernmost_Latitude: 46.32
+#	Southernmost_Latitude: 46.32
+#	Easternmost_Longitude: 152.53
+#	Westernmost_Longitude: 152.53
+#	Elevation: 
+#--------------------
+# Data_Collection
+#	Collection_Name: PAGES2kv2_O2kLR-NorthwestPac_Harada_2004LMR555
+#	Earliest_Year: -15380
+#	Most_Recent_Year: 1370
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":{"database1":"LMR","database2":"PAGES2"}}{"climateInterpretation":{"basis":"UK37 calibration to SST", "climateVariable":"T", "climateVariableDetail":"sea_surface", "interpDirection":"positive", "seasonality":"[6, 7, 8]"}}
+#--------------------
+# Species
+#	Species_Name: 
+#	Species_Code: 
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , , , ,N
+##temp	inferred sea-surface temperature, , , deg C, "[6, 7, 8]", Marine Cores, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	temperature
+1370	8.8
+1280	8.6
+1190	8.6
+1150	8.9
+1110	8.8
+1020	8.5
+970	9.1
+930	8.5
+890	7.7
+840	8.3
+800	8.2
+760	8.7
+710	8.7
+630	8.0
+580	8.3
+540	8.2
+450	7.7
+410	8.0
+360	8.0
+280	7.8
+230	8.0
+190	7.5
+100	7.4
+60	6.6
+20	7.7
+-70	7.5
