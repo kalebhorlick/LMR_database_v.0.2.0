@@ -78,8 +78,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	adge,,,years before 1950 AD,,,,,N 
-##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
+##age	age,,,years before 1950 AD,,,,,N 
+##dD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	delD
+age	dD
 46.8	-390.9
 55.5	-385.1
 64.7	-377.8
